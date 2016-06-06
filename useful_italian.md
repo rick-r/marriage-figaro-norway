@@ -16,13 +16,11 @@ taci
 chetati
 
 sposa
-
 certe mezz'ore ...
-
-
 Coraggio
-
 padrone
+pazzo
+
 
 
 SCENA III

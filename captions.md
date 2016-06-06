@@ -319,20 +319,15 @@ il chitarrino le suonerò.
 If you want to dance, my dear little Count
 I'll play the tune for you on my guitar.
 
+
 # SCENA III
-
-
-
-SCENA III
-Bartolo e Marcellina
-con un contratto in mano
-
-Recitativo
 
 BARTOLO:
 Ed aspettaste il giorno
 fissato a le sue nozze
 per parlarmi di questo?
+"You wait until the day of his wedding to tell me about this?"
+
 
 MARCELLINA:
 Io non mi perdo,
@@ -340,2189 +335,2205 @@ dottor mio, di coraggio:
 per romper de' sponsali
 più avanzati di questo
 bastò spesso un pretesto,
+
+
+
 ed egli ha meco,
 oltre questo contratto,
 certi impegni ...
-so io ... basta ... convien
-la Susanna atterrir. Convien con art
+so io ... 
+
+"I wasn't expecting them to do it this fast! And besides, Figaro has certain... obligations towards me"
+
+basta ... convien
+la Susanna atterrir. Convien con arte
 impuntigliarli a rifiutar il Conte.
-Egli per vendicarsi                H
-prenderà il mio partito,           w
-e Figaro così fia mio marito.      a
-
-BARTOLO:                           B
-[prende il contratto dalle mani    [
-di Marcellina]                     M
-Bene, io tutto farò: senza riserve W
-tutto a me palesate.               d
-[da sé]                            [
-Avrei pur gusto                    H
-di dar per moglie                  t
-la mia serva antica                t
-a chi mi fece un dì rapir l'amica. w
-
-N. 4 Aria                          N
-
-BARTOLO:                           B
-La vendetta, oh, la vendetta!      V
-È un piacer serbato ai saggi.      I
-L'obliar l'onte e gli oltraggi     T
-è bassezza, è ognor viltà.         B
-Con l'astuzia ... coll'arguzia ... W
-col giudizio ... col criterio ...  W
-si potrebbe ... il fatto è serio,  O
-ma credete si farà.                B
-Se tutto il codice                 I
-dovessi volgere,                   t
-se tutto l'indice                  I
-dovessi leggere,                   t
-con un equivoco,                   W
-con un sinonimo                    W
-qualche garbuglio                  T
-si troverà.                        t
-Tutta Siviglia                     A
-conosce Bartolo:                   K
-il birbo Figaro                    t
-vinto [vostro]* sarà.              w
-[parte]                            [
+Egli per vendicarsi
+prenderà il mio partito,
+e Figaro così fia mio marito.
+"Anyway.  All we need to do is get Susanna to refuse Almaviva's advances, and the he'll do the job for me.  He'll call the wedding off, and then Figaro will be mine.  Oh yes, he will."
 
 
 
-
-SCENA IV                           S
-Marcellina, poi Susanna con cuffia M
-da donna, un nastro e un abito     n
-da donna, della Contessa           a
-
-Recitativo                         R
-
-MARCELLINA:                        M
-Tutto ancor non ho perso:          I
-mi resta la speranza.              I
-[entra Susanna]                    [
-Ma Susanna si avanza:              B
-io vo' provarmi ...                I
-Fingiam di non vederla.            I
-[forte; fingendo a parlare da sé]
-E quella buona perla               A
-la vorrebbe sposar!                h
-
-SUSANNA:                           S
-[resta indietro]                   [
-(Di me favella)                    S
-
-MARCELLINA:                        M
-Ma da Figaro alfine                B
-non può meglio sperarsi:           j
-'l'argent fait tout'.              '
-
-SUSANNA:                           S
-(Che lingua! Manco male            W
-ch'ognun sa quanto vale.)          t
-
-MARCELLINA:                        M
-Brava! Questo è giudizio!          B
-Con quegli occhi modesti,          W
-con quell'aria pietosa,            w
-e poi ...                          a
-
-SUSANNA:                           S
-Meglio è partir.                   I
-
-MARCELLINA:                        M
-Che cara sposa!                    W
-[Vanno tutte due per partire       [
-e s'incontrano alla porta.]        a
-
-N. 5 Duettino                      N
-
-MARCELLINA:                        M
-[facendo una riverenza]            [
-Via resti servita,                 D
-Madama brillante.                  M
-
-SUSANNA:                           S
-[facendo una riverenza]            [
-Non sono sì ardita,                I
-madama piccante.                   M
-
-MARCELLINA:                        M
-[riverenza]                        [
-No, prima a lei tocca.             D
-
-SUSANNA:                           S
-[riverenza]                        [
-No, no, tocca a lei.               O
-
-SUSANNA & MARCELLINA:              S
-[riverenze]                        [
-Io so i dover miei,                I
-non fo inciviltà.                  I
-
-MARCELLINA:                        M
-[riverenza]                        [
-La sposa novella!                  T
-
-SUSANNA:                           S
-[riverenza]                        [
-La dama d'onore!                   T
-
-MARCELLINA:                        M
-[riverenza]                        [
-Del Conte la bella!                T
-
-SUSANNA:                           S
-[riverenza]                        [
-Di Spagna l'amore!                 T
-
-MARCELLINA:                        M
-I meriti!                          Y
-
-SUSANNA:                           S
-L'abito!                           Y
-
-MARCELLINA:                        M
-Il posto!                          Y
+BARTOLO:
+[prende il contratto dalle mani
+di Marcellina]
+Bene, io tutto farò: senza riserve
+tutto a me palesate.
+"All right leave it to me.  I'll make some calls".
 
 
-SUSANNA:                           S
-L'età!                             Y
+[da sé]
+Avrei pur gusto
+di dar per moglie
+la mia serva antica
+a chi mi fece un dì rapir l'amica.
+"You see, I was the director that first discovered Rosina, but it was Figaro that convinced her to go across to Almaviva's studios, and thus precipitated the gradual decline of my career.  Nothing could please me more than ruining his wedding plans"
 
-MARCELLINA:                        M
-Per Bacco, precipito,              B
-se ancor resto qua.                i
 
-SUSANNA:                           S
-Sibilla decrepita,                 D
-da rider mi fa.                    y
-[Marcellina parte]                 [
+
+## N. 4 Aria
+
+(literal)
+La vendetta, oh, la vendetta!
+È un piacer serbato ai saggi.
+L'obliar l'onte e gli oltraggi
+è bassezza, è ognor viltà.
+Con l'astuzia ... coll'arguzia ...
+col giudizio ... col criterio ...
+si potrebbe ... il fatto è serio,
+ma credete si farà.
+Vengeance, oh, vengeance
+Is a pleasure reserved for the wise
+To overlook affront and insult
+Belongs to the base and cowardly
+With cunning, with cleverness
+With judgement, with discretion
+One could ... The case is serious
+But, believe me, it will be done
+
+
+
+Se tutto il codice
+dovessi volgere,
+se tutto l'indice
+dovessi leggere,
+con un equivoco,
+con un sinonimo
+qualche garbuglio
+si troverà.
+"Wedding contracts for dummies"
+(? picture caption)
+
+
+Tutta Siviglia
+conosce Bartolo:
+il birbo Figaro
+vinto [vostro] sarà.
+[parte]
+"I still have some clout in this town"
 
 
 
 
-SCENA V                            S
-Susanna e poi Cherubino            S
+# SCENA IV
 
-Recitativo                         R
+[entra Susanna]
+Ma Susanna si avanza:
+io vo' provarmi ...
+Fingiam di non vederla.
+"I'll pretend not so see her"
 
-SUSANNA:                           S
-Va' là, vecchia pedante,           Y
-dottoressa arrogante,              a
-perché hai letti due libri         J
-e seccata madama                   a
-in gioventù ...                    w
+E quella buona perla
+la vorrebbe sposar!
+"And Figaro's going to marry that little tart"
 
-CHERUBINO:                         C
-[esce in fretta]                   [
-Susanetta, sei tu?                 M
+Ma da Figaro alfine
+non può meglio sperarsi:
+'l'argent fait tout'.
+"But then again, he knows Almaviva is sweet on her, so keeping her around is going to advance his career"
 
-SUSANNA:                           S
-Son io, cosa volete?               I
 
-CHERUBINO:                         C
-Ah, cor mio, che accidente!        A
+(Che lingua! Manco male
+ch'ognun sa quanto vale.)
+"That mean old bitch, she's always spreading gossip.  Just as well no-one listens to her!"
 
-SUSANNA:                           S
-Cor vostro! Cosa avvenne?          Y
 
-CHERUBINO:                         C
-Il Conte ieri                      Y
-perché trovommi sol con Barbarina, f
-il congedo mi diede;               a
-e se la Contessina,                A
-la mia bella comare,               m
-grazia non m'intercede,            d
-io vado via,                       I
-io non ti vedo più, Susanna mia!   I
+Brava! Questo è giudizio!
+Con quegli occhi modesti,
+con quell'aria pietosa,
+e poi ...
+"Look at her, all sweetness and light.  But we all know..."
 
-SUSANNA:                           S
-Non vedete più me! Bravo!          N
-Ma dunque                          B
-non più per la Contessa            I
+? may not need next two?
+Che cara sposa!
+"and here's the lovely bride!"
+
+
+## N. 5 Duettino
+
+(captions tbc.)
+
+MARCELLINA:
+Via resti servita,
+Madama brillante.
+"After you, you pretty young thing?"
+
+
+
+Non sono sì ardita,
+madama piccante.
+"Oh no, after you, witty lady"
+
+
+No, prima a lei tocca.
+"after you"
+
+No, no, tocca a lei.
+"after you"
+
+La sposa novella!
+"the bride to be!"
+
+La dama d'onore!
+"the maid of honour!"
+
+
+Del Conte la bella!
+"the boss's favourite"
+
+
+Di Spagna l'amore!
+"Hollywood's golden girl!"
+
+I meriti!
+"your qualifications!"
+
+L'abito!
+"your fashion sense!"
+
+Il posto!
+"your position"
+
+L'età!
+"your age"
+
+
+Per Bacco, precipito,
+se ancor resto qua.
+"_*&*#*!_"
+
+
+Sibilla decrepita,
+da rider mi fa.
+"Don't make me laugh."
+
+
+
+
+# SCENA V
+
+
+Va' là, vecchia pedante,
+dottoressa arrogante,
+perché hai letti due libri
+e seccata madama
+in gioventù ...
+"Grumpy old bitch! Just because you've been around forever doesn't make you better than everybody else!" 
+
+Cor vostro! Cosa avvenne?
+"Cherubino!  What's wrong?"
+
+
+CHERUBINO:
+Il Conte ieri
+perché trovommi sol con Barbarina,
+il congedo mi diede;
+e se la Contessina,
+la mia bella comare,
+grazia non m'intercede,
+io vado via,
+io non ti vedo più, Susanna mia!
+"Almaviva caught me sleeping with one of the extras, and I think he's really going to fire me this time.  Unless Rosina intervenes for me, I'll never see you again, pretty lady"
+
+
+Non vedete più me! Bravo!
+Ma dunque
+non più per la Contessa
 secretamente il vostro cor sospira?
+"You'll never see *me* again?  Isn't Rosina the one you're always pining for?"
 
-CHERUBINO:                         C
-Ah, che troppo rispetto            A
-ella m'ispira!                     t
-Felice te, che puoi                H
-vederla quando vuoi,               s
-che la vesti il mattino,           y
+
+CHERUBINO:
+Ah, che troppo rispetto
+ella m'ispira!
+Felice te, che puoi
+vederla quando vuoi,
+che la vesti il mattino,
 che la sera la spogli, che le metti
-gli spilloni, i merletti ...       h
-Ah, se in tuo loco ...             I
-
-SUSANNA:                           S
-E che ne debbo fare?               A
-
-CHERUBINO:                         C
-Leggila alla padrona,              R
-leggila tu medesma;                R
-leggila a Barbarina, a Marcellina; R
-[estaticamente]                    [
-leggila ad ogni donna del palazzo! r
-
-SUSANNA:                           S
-Povero Cherubin,                   M
-siete voi pazzo!                   h
-
-N. 6 Aria                          N
-
-CHERUBINO:                         C
-Non so più cosa son, cosa faccio,  I
-
-or di foco, ora sono di ghiaccio,  N
-ogni donna cangiar di colore,      E
-ogni donna mi fa palpitar.         E
-Solo ai nomi d'amor, di diletto,   J
-mi si turba, mi s'altera il petto  U
-e a parlare mi sforza d'amore      A
-un desio ch'io non posso spiegar.  F
-Parlo d'amor vegliando,            I
-parlo d'amor sognando,             I
-all'acque, all'ombre, ai monti,    T
-
-ai fiori, all'erbe, ai fonti,      T
-
-all'eco, all'aria, ai venti,       T
-che il suon de' vani accenti       A
-portano via con sé.                I
-E se non ho chi mi oda,            A
-parlo d'amor con me.               I
+gli spilloni, i merletti ...
+Ah, se in tuo loco ...
+"She's too amazing for me.  I wish I were in your place -- you get to dress her in the morning, undress her in the evening..."
 
 
-SCENA VI                           S
-Cherubino, Susanna e poi il Conte  C
+E che ne debbo fare?
+"And what do you want me to do with this?"
 
-Recitativo                         R
 
-CHERUBINO:                         C
-[vedendo il Conte da lontano,      [
-torna indietro impaurito e si      t
-nasconde dietro la sedia]          b
-Ah, son perduto!                   A
+CHERUBINO:
+Leggila alla padrona,
+leggila tu medesma;
+leggila a Barbarina, a Marcellina;
+[estaticamente]
+leggila ad ogni donna del palazzo!
+"Show it to Rosina, watch it yourself, show it to all women!"
 
-SUSANNA:                           S
-[cerca di mascherar Cherubino]     [
+
+
+## N. 6 Aria
+
+CHERUBINO:
+Non so più cosa son, cosa faccio,
+or di foco, ora sono di ghiaccio,
+ogni donna cangiar di colore,
+ogni donna mi fa palpitar.
+Solo ai nomi d'amor, di diletto,
+mi si turba, mi s'altera il petto
+e a parlare mi sforza d'amore
+un desio ch'io non posso spiegar.
+Parlo d'amor vegliando,
+parlo d'amor sognando,
+all'acque, all'ombre, ai monti,
+ai fiori, all'erbe, ai fonti,
+all'eco, all'aria, ai venti,
+che il suon de' vani accenti
+portano via con sé.
+E se non ho chi mi oda,
+parlo d'amor con me.
+
+
+I don't know what I am any more, or what I'm doing
+Now I'm on fire, now I'm freezing
+Every woman makes me change colour,
+Every woman makes my heart flutter.
+Just the name of love, of delight
+Upsets me, and makes my heart flutter,
+And I find myself talking of love
+From a need I can't explain.
+I talk of love when waking
+I talk of love when dreaming,
+To the water, to the shadows, to the mountains,
+To the flowers, to the grass, to the fountains,
+To the echoes, to the air, to the winds,
+And the sound of my useless words
+Is carried away with them.
+And if I don't have anyone to hear me,
+I talk of love to myself!
+
+
+
+# SCENA VI
+
+
+CHERUBINO:
+[vedendo il Conte da lontano,
+torna indietro impaurito e si
+nasconde dietro la sedia]
+Ah, son perduto!
+
+SUSANNA:
+[cerca di mascherar Cherubino]
 Che timor! - Il Conte! - Misera me!
 
-IL CONTE: [entrando]               C
-Susanna, mi sembri                 S
-agitata e confusa.                 a
+IL CONTE: [entrando]
+Susanna, mi sembri
+agitata e confusa.
 
-SUSANNA:                           S
-Signor ... io chiedo scusa ...     M
-ma ... se mai ... qui sorpresa ... b
-per carità! Partite.               f
+SUSANNA:
+Signor ... io chiedo scusa ...
+ma ... se mai ... qui sorpresa ...
+per carità! Partite.
 
-IL CONTE:                          C
-[si mette a sedere sulla sedia,    [
-prende Susanna per la mano]        a
-Un momento, e ti lascio,           A
-odi.                               l
+IL CONTE:
+[si mette a sedere sulla sedia,
+prende Susanna per la mano]
+Un momento, e ti lascio,
+odi.
 
-SUSANNA:                           S
-Non odo nulla.                     I
+SUSANNA:
+Non odo nulla.
 
-IL CONTE:                          C
-Due parole. Tu sai                 T
-che ambasciatore a Londra          t
-il re mi dichiarò; di condur meco  a
-Figaro destinai.                   f
-Tu ben sai quanto io t'amo:        Y
-a te Basilio                       B
-tutto già disse. Or senti,         h
-se per pochi momenti               i
-meco in giardin                    w
-sull'imbrunir del giorno ...       t
-ah, per questo favore io pagherei- a
+IL CONTE:
+Due parole. Tu sai
+che ambasciatore a Londra
+il re mi dichiarò; di condur meco
+Figaro destinai.
+Tu ben sai quanto io t'amo:
+a te Basilio
+tutto già disse. Or senti,
+se per pochi momenti
+meco in giardin
+sull'imbrunir del giorno ...
+ah, per questo favore io pagherei-
 
-BASILIO:                           B
-[dentro la scena]                  [
-È uscito poco fa.                  H
+BASILIO:
+[dentro la scena]
+È uscito poco fa.
 
-IL CONTE:                          C
-Chi parla?                         W
+IL CONTE:
+Chi parla?
 
-SUSANNA:                           S
-Oh Dei!                            O
+SUSANNA:
+Oh Dei!
 
-IL CONTE:                          C
-Esci, e alcun non entri.           G
+IL CONTE:
+Esci, e alcun non entri.
 
-SUSANNA:                           S
-Ch'io vi lasci qui solo?           A
+SUSANNA:
+Ch'io vi lasci qui solo?
 
-BASILIO:                           B
-[dentro]                           [
+BASILIO:
+[dentro]
 Da madama ei sarà: vado a cercarlo.
 
-IL CONTE:                          C
-[addita la sedia]                  [
-Qui dietro mi porrò.               I
+IL CONTE:
+[addita la sedia]
+Qui dietro mi porrò.
 
-SUSANNA:                           S
-Non vi celate.                     O
+SUSANNA:
+Non vi celate.
 
-IL CONTE:                          C
-Taci, e cerca ch'ei parta.         H
-
-SUSANNA:                           S
-Oimè! Che fate?                    O
+IL CONTE:
+Taci, e cerca ch'ei parta.
 
-[Il Conte vuol nascondersi dietro il
-lui: il Conte la spinge dolcemente.
-davanti del sedile, si mette dentro
-vestaglia.]
+SUSANNA:
+Oimè! Che fate?
 
-[The Count goes to hide behind the s
-Cherubino: the Count gently moves he
-the front and curls up on the sofa -
+[Il Conte vuol nascondersi dietro i
 
+[The Count goes to hide behind the
 
 
 
 
 
-SCENA VII                          S
-I suddetti e Basilio               T
 
-BASILIO:                           B
-Susanna, il ciel vi salvi.         S
-Avreste a caso veduto il Conte?    H
+SCENA VII
+I suddetti e Basilio
 
-SUSANNA:                           S
-E cosa                             A
-deve far meco il Conte? -          w
-Animo, uscite.                     -
+BASILIO:
+Susanna, il ciel vi salvi.
+Avreste a caso veduto il Conte?
 
-BASILIO:                           B
-Aspettate, sentite,                W
-Figaro di lui cerca.               F
-
-SUSANNA:                           S
-(Oh cielo!) Ei cerca               (
-chi dopo voi più l'odia.           w
-
-IL CONTE:                          C
-(Veggiam come mi serve.)          (L
-
-BASILIO:                           B
-Io non ho mai nella moral sentito  I
-ch'uno ch'ami la moglie            t
-odi il marito.                     m
-Per dir che il Conte v'ama ...     T
-
-SUSANNA:                           S
-Sortite, vil ministro              G
-dell'altrui sfrenatezza:           o
-Io non ho d'uopo                   I
-della vostra morale,               a
-del Conte, del suo amor ...        a
-
-BASILIO:                           B
-Non c'è alcun male.                O
-Ha ciascun i suoi gusti:           E
-io mi credea                       b
-che preferir dovreste per amante,  y
-come fan tutte quante,             l
-un signor liberal,                 a
-prudente, e saggio,                d
-a un giovinastro, a un paggio ...  t
-
-SUSANNA:                           S
-A Cherubino!                       T
-
-BASILIO:                           B
-A Cherubino! A Cherubin d'amore    T
-ch'oggi sul far del giorno         W
-passeggiava qui d'intorno,         t
-per entrar ...                     l
+SUSANNA:
+E cosa
+deve far meco il Conte? -
+Animo, uscite.
 
-SUSANNA:                           S
-Uom maligno,                       P
-un impostura è questa.             T
-
-BASILIO:                           B
-È un maligno con voi               I
-chi ha gli occhi in testa.         t
-E quella canzonetta?               A
-Ditemi in confidenza; io sono amico,
-ed altrui nulla dico;              a
-è per voi, per madama ...          i
-
-
-SUSANNA:                           S
-Scellerato!                        S
-E perché andate voi                A
-tai menzogne spargendo?            s
-
-BASILIO:                           B
-Io! Che ingiustizia!               M
-Quel che compro io vendo.          I
-A quel che tutti dicono            I
-io non aggiungo un pelo.           t
-
-IL CONTE:                          C
-[sortendo]                         [
-Come, che dicon tutti!             W
-
-BASILIO:                           B
-Oh bella!                          O
-
-SUSANNA:                           S
-Oh cielo!                          O
-
-N. 7 Terzetto                      N
-
-IL CONTE:                          C
-[a Basilio]                        [
-Cosa sento! Tosto andate,          W
-e scacciate il seduttor.           A
-
-BASILIO:                           B
-In mal punto son qui giunto,       I
-perdonate, oh mio signor.          I
-
-SUSANNA:                           S
-Che ruina, me meschina,            W
-[quasi svenuta,                    [
-li tentando a distrarre]           t
-son oppressa dal dolor.            E
-
-BASILIO & IL CONTE:                B
-[sostenendola]                     [
-Ah già svien la poverina!          A
-Come, oh Dio, le batte il cor!     O
-
-BASILIO:                           B
-[approssimandosi al sedile         [
-in atto di farla sedere]           m
-Pian pianin su questo seggio.      C
-
-SUSANNA:                           S
-Dove sono!                         W
-[rinviene]                         [
-Cosa veggio!                       W
-[staccandosi da tutti due]         [
-Che insolenza, andate fuor.        W
-
-BASILIO:                           B
-Siamo qui per aiutarvi,            W
-è sicuro il vostro onor.           Y
-
-IL CONTE:                          C
-Siamo qui per aiutarti,            W
-non turbarti, oh mio tesor.        D
-
-BASILIO:                           B
-[al Conte]                         [
-Ah, del paggio quel che ho detto   A
-era solo un mio sospetto.          W
-
-SUSANNA:                           S
-È un'insidia, una perfidia,        H
-non credete all'impostor.          D
-
-IL CONTE:                          C
-Parta, parta il damerino!          T
-
-SUSANNA & BASILIO:                 S
-Poverino!                          T
-
-IL CONTE:                          C
-Poverino!                          T
-Ma da me sorpreso ancor.           B
-
-
-SUSANNA & BASILIO:                 S
-Come! Che!                         W
-
-IL CONTE:                          C
-Da tua cugina                      A
-l'uscio ier trovai rinchiuso;      y
-picchio, m'apre Barbarina          I
-paurosa fuor dell'uso.             l
-Io dal muso insospettito,          I
-guardo, cerco in ogni sito,        l
-ed alzando pian pianino            a
-il tappetto al tavolino            t
-vedo il paggio ...                 I
-[imita il gesto colla vestaglia    [
-e scopre il paggio]                a
-Ah! cosa veggio!                   A
-
-SUSANNA:                           S
-Ah! crude stelle!                  A
-
-BASILIO:                           B
-Ah! meglio ancora!                 A
-
-IL CONTE:                          C
-Onestissima signora!               S
-Or capisco come va!                N
-
-SUSANNA:                           S
-Accader non può di peggio,         N
-giusti Dei! Che mai sarà!          o
-
-BASILIO: [ridendo]                 B
-Così fan tutte le belle;           A
-non c'è alcuna novità!             T
-
-Recitativo                         R
-
-IL CONTE:                          C
-Basilio, in traccia tosto          B
-di Figaro volate:                  a
-[addita Cherubino che non          [
-si muove di loco]                  w
-io vo' ch'ei veda ...              I
-
-SUSANNA:                           S
-Ed io che senta; andate!           A
-
-IL CONTE:                          C
-Restate: che baldanza!             [
-E quale scusa                      A
-se la colpa è evidente?            w
-
-
-SUSANNA:                           S
-Non ha d'uopo di scusa un'innocente.
-
-IL CONTE:                          C
-Ma costui quando venne?            B
-
-SUSANNA:                           S
-Egli era meco                      H
-quando voi qui giungeste,          w
-e mi chiedea                       a
-d'impegnar la padrona              t
-a intercedergli grazia.            t
-Il vostro arrivo                   Y
-in scompiglio lo pose,             t
-ed allor in quel loco si nascose.  a
-
-IL CONTE:                          C
-Ma s'io stesso m'assisi            B
-quando in camera entrai!           w
-
-CHERUBINO:                         C
-Ed allor di dietro io mi celai.    I
-
-IL CONTE:                          C
-E quando io là mi posi?            A
-
-CHERUBINO:                         C
-Allor io pian mi volsi,            T
-e qui m'ascosi.                    a
-
-IL CONTE:                          C
-[a Susanna]                        [
-Oh ciel, dunque ha sentito         O
-tutto quello ch'io ti dicea!       e
-
-CHERUBINO:                         C
-Feci per non sentir quanto potea.  I
-
-IL CONTE:                          C
-Ah perfidia!                       A
-
-BASILIO:                           B
-Frenatevi: vien gente!             H
-
-IL CONTE:                          C
-[tira Cherubino giù dalla sedia]   [
-E voi restate qui, picciol serpente!
-
-SCENA VIII                         S
-Recitativo                         R
-
-IL CONTE:                          C
-[a Figaro]                         [
-Cos'è questa commedia?             W
-
-FIGARO:                            F
-[piano a Susanna]                  [
-Eccoci in danza:                   H
-Secondami, cor mio.                P
-
-SUSANNA:                           S
-[piano a Figaro]                   [
-(Non ci ho speranza.)              I
-
-FIGARO:                            F
-Signor, non isdegnate              M
-questo del nostro affetto          t
-meritato tributo:                  a
-
-IL CONTE:                          C
-Cosa si brama?                     W
-
-FIGARO:                            F
-"Le nostre nozze 			     Our wedding"
-si son già stabilite.              i
-Or a voi tocca                     N
-costei che un vostro dono          t
-illibata serbò, coprir di questa,  a
-
-simbolo d'onestà, candida vesta.   w
-
-TUTTI:                             A
-Evviva, evviva, evviva!            E
-
-IL CONTE:                          C
-[a Figaro e Susanna]               [
-A voi prometto                     I
-compier la ceremonia:              t
-chiedo sol breve indugio;          I
-io voglio in faccia                I
-de' miei più fidi,                 m
-e con più ricca pompa              a
-rendervi appien felici.            I
-(Marcellina si trovi.)             (
-Andate, amici.                     G
-
-CHERUBINO:                         C
-[s'inginocchia]                    [
-Perdono, mio signor ...            F
-
-IL CONTE:                          C
-Nol meritate.                      Y
-
-SUSANNA:                           S
-Egli è ancora fanciullo!           H
-
-IL CONTE:                          C
-Men di quel che tu credi.          L
-
-CHERUBINO:                         C
-È ver, mancai;                     I
-ma dal mio labbro alfine ...       b
-
-IL CONTE:                          C
-Ben ben; io vi perdono.            W
-Anzi farò di più;                  I
-vacante è un posto                 t
-d'uffizial nel reggimento mio;     f
-io scelgo voi;                     I
-partite tosto: addio.              l
-[Il Conte vuol partire,            [
-Susanna e Figaro l'arrestano.]     S
-
-SUSANNA & FIGARO:                  S
-Ah, fin domani sol ...             A
-
-IL CONTE:                          C
-No, parta tosto.                   N
-
-FIGARO:                            F
-Ehi, capitano,                     W
-a me pure la mano;                 g
-[piano a Cherubino]                [
-io vo' parlarti                    I
-pria che tu parta. Addio,          b
-picciolo Cherubino;                l
-come cangia in un punto            h
-il tuo destino.                    i
-
-N. 10 Aria                         N
-
-FIGARO:                            F
-Non più andrai, farfallone         N
+BASILIO:
+Aspettate, sentite,
+Figaro di lui cerca.
+
+SUSANNA:
+(Oh cielo!) Ei cerca
+chi dopo voi più l'odia.
+
+IL CONTE:
+(Veggiam come mi serve.)
+
+BASILIO:
+Io non ho mai nella moral sentito
+ch'uno ch'ami la moglie
+odi il marito.
+Per dir che il Conte v'ama ...
+
+SUSANNA:
+Sortite, vil ministro
+dell'altrui sfrenatezza:
+Io non ho d'uopo
+della vostra morale,
+del Conte, del suo amor ...
+
+BASILIO:
+Non c'è alcun male.
+Ha ciascun i suoi gusti:
+io mi credea
+che preferir dovreste per amante,
+come fan tutte quante,
+un signor liberal,
+prudente, e saggio,
+a un giovinastro, a un paggio ...
+
+SUSANNA:
+A Cherubino!
+
+BASILIO:
+A Cherubino! A Cherubin d'amore
+ch'oggi sul far del giorno
+passeggiava qui d'intorno,
+per entrar ...
+
+SUSANNA:
+Uom maligno,
+un impostura è questa.
+
+BASILIO:
+È un maligno con voi
+chi ha gli occhi in testa.
+E quella canzonetta?
+Ditemi in confidenza; io sono amico
+ed altrui nulla dico;
+è per voi, per madama ...
+
+
+SUSANNA:
+Scellerato!
+E perché andate voi
+tai menzogne spargendo?
+
+BASILIO:
+Io! Che ingiustizia!
+Quel che compro io vendo.
+A quel che tutti dicono
+io non aggiungo un pelo.
+
+IL CONTE:
+[sortendo]
+Come, che dicon tutti!
+
+BASILIO:
+Oh bella!
+
+SUSANNA:
+Oh cielo!
+
+N. 7 Terzetto
+
+IL CONTE:
+[a Basilio]
+Cosa sento! Tosto andate,
+e scacciate il seduttor.
+
+BASILIO:
+In mal punto son qui giunto,
+perdonate, oh mio signor.
+
+SUSANNA:
+Che ruina, me meschina,
+[quasi svenuta,
+li tentando a distrarre]
+son oppressa dal dolor.
+
+BASILIO & IL CONTE:
+[sostenendola]
+Ah già svien la poverina!
+Come, oh Dio, le batte il cor!
+
+BASILIO:
+[approssimandosi al sedile
+in atto di farla sedere]
+Pian pianin su questo seggio.
+
+SUSANNA:
+Dove sono!
+[rinviene]
+Cosa veggio!
+[staccandosi da tutti due]
+Che insolenza, andate fuor.
+
+BASILIO:
+Siamo qui per aiutarvi,
+è sicuro il vostro onor.
+
+IL CONTE:
+Siamo qui per aiutarti,
+non turbarti, oh mio tesor.
+
+BASILIO:
+[al Conte]
+Ah, del paggio quel che ho detto
+era solo un mio sospetto.
+
+SUSANNA:
+È un'insidia, una perfidia,
+non credete all'impostor.
+
+IL CONTE:
+Parta, parta il damerino!
+
+SUSANNA & BASILIO:
+Poverino!
+
+IL CONTE:
+Poverino!
+Ma da me sorpreso ancor.
+
+
+SUSANNA & BASILIO:
+Come! Che!
+
+IL CONTE:
+Da tua cugina
+l'uscio ier trovai rinchiuso;
+picchio, m'apre Barbarina
+paurosa fuor dell'uso.
+Io dal muso insospettito,
+guardo, cerco in ogni sito,
+ed alzando pian pianino
+il tappetto al tavolino
+vedo il paggio ...
+[imita il gesto colla vestaglia
+e scopre il paggio]
+Ah! cosa veggio!
+
+SUSANNA:
+Ah! crude stelle!
+
+BASILIO:
+Ah! meglio ancora!
+
+IL CONTE:
+Onestissima signora!
+Or capisco come va!
+
+SUSANNA:
+Accader non può di peggio,
+giusti Dei! Che mai sarà!
+
+BASILIO: [ridendo]
+Così fan tutte le belle;
+non c'è alcuna novità!
+
+Recitativo
+
+IL CONTE:
+Basilio, in traccia tosto
+di Figaro volate:
+[addita Cherubino che non
+si muove di loco]
+io vo' ch'ei veda ...
+
+SUSANNA:
+Ed io che senta; andate!
+
+IL CONTE:
+Restate: che baldanza!
+E quale scusa
+se la colpa è evidente?
+
+
+SUSANNA:
+Non ha d'uopo di scusa un'innocente
+
+IL CONTE:
+Ma costui quando venne?
+
+SUSANNA:
+Egli era meco
+quando voi qui giungeste,
+e mi chiedea
+d'impegnar la padrona
+a intercedergli grazia.
+Il vostro arrivo
+in scompiglio lo pose,
+ed allor in quel loco si nascose.
+
+IL CONTE:
+Ma s'io stesso m'assisi
+quando in camera entrai!
+
+CHERUBINO:
+Ed allor di dietro io mi celai.
+
+IL CONTE:
+E quando io là mi posi?
+
+CHERUBINO:
+Allor io pian mi volsi,
+e qui m'ascosi.
+
+IL CONTE:
+[a Susanna]
+Oh ciel, dunque ha sentito
+tutto quello ch'io ti dicea!
+
+CHERUBINO:
+Feci per non sentir quanto potea.
+
+IL CONTE:
+Ah perfidia!
+
+BASILIO:
+Frenatevi: vien gente!
+
+IL CONTE:
+[tira Cherubino giù dalla sedia]
+E voi restate qui, picciol serpente
+
+SCENA VIII
+Recitativo
+
+IL CONTE:
+[a Figaro]
+Cos'è questa commedia?
+
+FIGARO:
+[piano a Susanna]
+Eccoci in danza:
+Secondami, cor mio.
+
+SUSANNA:
+[piano a Figaro]
+(Non ci ho speranza.)
+
+FIGARO:
+Signor, non isdegnate
+questo del nostro affetto
+meritato tributo:
+
+IL CONTE:
+Cosa si brama?
+
+FIGARO:
+"Le nostre nozze 			     Ou  r wedding"
+si son già stabilite.
+Or a voi tocca
+costei che un vostro dono
+illibata serbò, coprir di questa,
+
+simbolo d'onestà, candida vesta.
+
+TUTTI:
+Evviva, evviva, evviva!
+
+IL CONTE:
+[a Figaro e Susanna]
+A voi prometto
+compier la ceremonia:
+chiedo sol breve indugio;
+io voglio in faccia
+de' miei più fidi,
+e con più ricca pompa
+rendervi appien felici.
+(Marcellina si trovi.)
+Andate, amici.
+
+CHERUBINO:
+[s'inginocchia]
+Perdono, mio signor ...
+
+IL CONTE:
+Nol meritate.
+
+SUSANNA:
+Egli è ancora fanciullo!
+
+IL CONTE:
+Men di quel che tu credi.
+
+CHERUBINO:
+È ver, mancai;
+ma dal mio labbro alfine ...
+
+IL CONTE:
+Ben ben; io vi perdono.
+Anzi farò di più;
+vacante è un posto
+d'uffizial nel reggimento mio;
+io scelgo voi;
+partite tosto: addio.
+[Il Conte vuol partire,
+Susanna e Figaro l'arrestano.]
+
+SUSANNA & FIGARO:
+Ah, fin domani sol ...
+
+IL CONTE:
+No, parta tosto.
+
+FIGARO:
+Ehi, capitano,
+a me pure la mano;
+[piano a Cherubino]
+io vo' parlarti
+pria che tu parta. Addio,
+picciolo Cherubino;
+come cangia in un punto
+il tuo destino.
+
+N. 10 Aria
+
+FIGARO:
+Non più andrai, farfallone
          amoroso,
-notte e giorno d'intorno girando;  F
-delle belle turbando il riposo     D
-Narcisetto, Adoncino d'amor.       M
-Non più avrai questi bei           N
+notte e giorno d'intorno girando;
+delle belle turbando il riposo
+Narcisetto, Adoncino d'amor.
+Non più avrai questi bei
 pennacchini,
-quel cappello leggero e galante,   T
-quella chioma, quell'aria brillante,
-quel vermiglio donnesco color.     T
-Tra guerrieri, poffar Bacco!       A
-Gran mustacchi, stretto sacco.     G
-Schioppo in spalla, sciabla al     A
+quel cappello leggero e galante,
+quella chioma, quell'aria brillante
+quel vermiglio donnesco color.
+Tra guerrieri, poffar Bacco!
+Gran mustacchi, stretto sacco.
+Schioppo in spalla, sciabla al
      fianco,
-collo dritto, muso franco,         H
-un gran casco, o un gran turbante, A
-molto onor, poco contante!         P
-Ed invece del fandango,            A
-una marcia per il fango.           A
-Per montagne, per valloni,         O
-con le nevi e i sollioni.          I
-Al concerto di tromboni,           T
-di bombarde, di cannoni,           O
-che le palle in tutti i tuoni      W
-all'orecchio fan fischiar.         M
-Cherubino alla vittoria:           C
-alla gloria militar!               A
-[Partono tutti alla militare.]     [
+collo dritto, muso franco,
+un gran casco, o un gran turbante,
+molto onor, poco contante!
+Ed invece del fandango,
+una marcia per il fango.
+Per montagne, per valloni,
+con le nevi e i sollioni.
+Al concerto di tromboni,
+di bombarde, di cannoni,
+che le palle in tutti i tuoni
+all'orecchio fan fischiar.
+Cherubino alla vittoria:
+alla gloria militar!
+[Partono tutti alla militare.]
 
 
-ATTO SECONDO                       A
+ATTO SECONDO
 
-Camera ricca con alcova            R
-e tre porte                        a
+Camera ricca con alcova
+e tre porte
 
-SCENA I                            S
-La Contessa sola: poi Susanna e    T
-poi Figaro                         l
+SCENA I
+La Contessa sola: poi Susanna e
+poi Figaro
 
-N. 11. Cavatina                    N
+N. 11. Cavatina
 
-LA CONTESSA:                       C
-Porgi, amor, qualche ristoro       O
-al mio duolo, a' miei sospir.      F
-O mi rendi il mio tesoro,          E
-o mi lascia almen morir.           O
+LA CONTESSA:
+Porgi, amor, qualche ristoro
+al mio duolo, a' miei sospir.
+O mi rendi il mio tesoro,
+o mi lascia almen morir.
 
-Recitativo                         R
+Recitativo
 
-LA CONTESSA:                       C
-Vieni, cara Susanna,               C
-finiscimi l'istoria!               f
+LA CONTESSA:
+Vieni, cara Susanna,
+finiscimi l'istoria!
 
-SUSANNA:                           S
-[entra]                            [
-È già finita.                      I
+SUSANNA:
+[entra]
+È già finita.
 
-LA CONTESSA:                       C
-Dunque volle sedurti?              S
+LA CONTESSA:
+Dunque volle sedurti?
 
-SUSANNA:                           S
-Oh, il signor Conte                O
-non fa tai complimenti             d
-colle donne mie pari;              t
-egli venne a contratto di danari.  f
+SUSANNA:
+Oh, il signor Conte
+non fa tai complimenti
+colle donne mie pari;
+egli venne a contratto di danari.
 
-LA CONTESSA:                       C
-Ah, il crudel più non m'ama!       A
+LA CONTESSA:
+Ah, il crudel più non m'ama!
 
-SUSANNA:                           S
-E come poi                         W
-è geloso di voi?                   i
+SUSANNA:
+E come poi
+è geloso di voi?
 
-LA CONTESSA:                       C
-Come lo sono                       T
-i moderni mariti: per sistema      h
-infedeli, per genio capricciosi,   a
-e per orgoglio poi tutti gelosi.   a
-Ma se Figaro t'ama ...             B
-ei sol potria ...                  h
+LA CONTESSA:
+Come lo sono
+i moderni mariti: per sistema
+infedeli, per genio capricciosi,
+e per orgoglio poi tutti gelosi.
+Ma se Figaro t'ama ...
+ei sol potria ...
 
-FIGARO:                            F
-[cantando entro la scena]          [
-La la la ...                       L
+FIGARO:
+[cantando entro la scena]
+La la la ...
 
-SUSANNA:                           S
-Eccolo: vieni, amico.              H
-Madama impaziente ...              M
+SUSANNA:
+Eccolo: vieni, amico.
+Madama impaziente ...
 
-FIGARO:                            F
-A voi non tocca                    Y
-stare in pena per questo.          b
+FIGARO:
+A voi non tocca
+stare in pena per questo.
 
-SUSANNA:                           S
-Ed hai coraggio                    A
-di trattar scherzando              t
-un negozio sì serio?               s
-
-
-FIGARO:                            F
-Non vi basta                       I
-che scherzando io ci pensi?        t
-Ecco il progetto:                  H
-per Basilio un biglietto           I
-io gli fi capitar che l'avvertisca w
-di certo appuntamento              a
-[alla Contessa]                    [
-che per l'ora del ballo            t
-a un amante voi deste ...          f
-
-LA CONTESSA:                       C
-O ciel! Che sento!                 O
-Ad un uom sì geloso! ...           T
-
-FIGARO:                            F
-Ancora meglio.                     A
-Così potrem più presto imbarazzarlo,
-confonderlo, imbrogliarlo,         c
-rovesciargli i progetti,           u
-empierlo di sospetti,              d
-e porgli in testa                  a
-che la moderna festa               t
-ch'ei di fare a me tenta           w
-altri a lui faccia;                c
-onde qua perda il tempo,           s
-ivi la traccia.                    t
-
-SUSANNA:                           S
-È ver, ma in di lui vece           T
-s'opporrà Marcellina.              M
-
-FIGARO:                            F
-Aspetta: al Conte                  A
-farai subito dir, che verso sera   t
-attendati in giardino,             h
-il picciol Cherubino               t
-per mio consiglio                  (
-non ancora partito                 h
-da femmina vestito,                w
-faremo che in sua vece ivi sen vada.
-Questa è l'unica strada            T
-onde monsù sorpreso da madama      w
-sia costretto a far poi            c
-quel che si brama.                 t
-
-LA CONTESSA:                       C
-[a Susanna]                        [
-Che ti par?                        W
-
-SUSANNA:                           S
-Non c'è mal.                       N
-
-LA CONTESSA:                       C
-Nel nostro caso ...                I
-
-SUSANNA:                           S
-Quand'egli è persuaso ...          W
-e dove è il tempo?                 a
-
-FIGARO:                            F
-Ito è il Conte alla caccia;        T
-e per qualch'ora                   a
-non sarà di ritorno;               f
-io vado e tosto                    I
-Cherubino vi mando; lascio a voi   s
-la cura di vestirlo.               t
+SUSANNA:
+Ed hai coraggio
+di trattar scherzando
+un negozio sì serio?
 
 
-LA CONTESSA:                       C
-E poi? ...                         A
+FIGARO:
+Non vi basta
+che scherzando io ci pensi?
+Ecco il progetto:
+per Basilio un biglietto
+io gli fi capitar che l'avvertisca
+di certo appuntamento
+[alla Contessa]
+che per l'ora del ballo
+a un amante voi deste ...
 
-FIGARO:                            F
-E poi ...                          A
-Se vuol ballare signor Contino,    I
-il chitarrino le suonerò.          I
-[parte]                            [
+LA CONTESSA:
+O ciel! Che sento!
+Ad un uom sì geloso! ...
+
+FIGARO:
+Ancora meglio.
+Così potrem più presto imbarazzarlo
+confonderlo, imbrogliarlo,
+rovesciargli i progetti,
+empierlo di sospetti,
+e porgli in testa
+che la moderna festa
+ch'ei di fare a me tenta
+altri a lui faccia;
+onde qua perda il tempo,
+ivi la traccia.
+
+SUSANNA:
+È ver, ma in di lui vece
+s'opporrà Marcellina.
+
+FIGARO:
+Aspetta: al Conte
+farai subito dir, che verso sera
+attendati in giardino,
+il picciol Cherubino
+per mio consiglio
+non ancora partito
+da femmina vestito,
+faremo che in sua vece ivi sen vada
+Questa è l'unica strada
+onde monsù sorpreso da madama
+sia costretto a far poi
+quel che si brama.
+
+LA CONTESSA:
+[a Susanna]
+Che ti par?
+
+SUSANNA:
+Non c'è mal.
+
+LA CONTESSA:
+Nel nostro caso ...
+
+SUSANNA:
+Quand'egli è persuaso ...
+e dove è il tempo?
+
+FIGARO:
+Ito è il Conte alla caccia;
+e per qualch'ora
+non sarà di ritorno;
+io vado e tosto
+Cherubino vi mando; lascio a voi
+la cura di vestirlo.
 
 
-SCENA II                           S
+LA CONTESSA:
+E poi? ...
+
+FIGARO:
+E poi ...
+Se vuol ballare signor Contino,
+il chitarrino le suonerò.
+[parte]
+
+
+SCENA II
 La Contessa, Susanna, poi Cherubino
 
-Recitativo                         R
-LA CONTESSA:                       C
-Quanto duolmi, Susanna,            I
-che questo giovinotto              t
-abbia del Conte                    t
-le stravaganze udite! Ah tu non sai!
-Ma per qual causa mai              B
-Da me stessa ei non venne? ...     d
-Dov'è la canzonetta?               W
+Recitativo
+LA CONTESSA:
+Quanto duolmi, Susanna,
+che questo giovinotto
+abbia del Conte
+le stravaganze udite! Ah tu non sai
+Ma per qual causa mai
+Da me stessa ei non venne? ...
+Dov'è la canzonetta?
 
-SUSANNA:                           S
-Eccola: appunto                    H
-facciam che ce la canti.           W
-Zitto, vien gente! È desso:        H
-avanti, avanti,                    c
-signor uffiziale.                  S
+SUSANNA:
+Eccola: appunto
+facciam che ce la canti.
+Zitto, vien gente! È desso:
+avanti, avanti,
+signor uffiziale.
 
-CHERUBINO:                         C
-Ah, non chiamarmi                  A
-con nome sì fatale! Ei mi rammenta b
-che abbandonar degg'io             t
-comare tanto buona ...             a
+CHERUBINO:
+Ah, non chiamarmi
+con nome sì fatale! Ei mi rammenta
+che abbandonar degg'io
+comare tanto buona ...
 
-SUSANNA:                           S
-E tanto bella!                     A
+SUSANNA:
+E tanto bella!
 
-CHERUBINO:                         C
-Ah sì ... certo ...                A
+CHERUBINO:
+Ah sì ... certo ...
 
-SUSANNA:                           S
-'Ah sì ... certo' ... Ipocritone!  '
-Via presto la canzone              G
-che stamane a me deste             w
-a madama cantate.                  s
+SUSANNA:
+'Ah sì ... certo' ... Ipocritone!
+Via presto la canzone
+che stamane a me deste
+a madama cantate.
 
-LA CONTESSA:                       C
-Chi n'è l'autor?                   W
+LA CONTESSA:
+Chi n'è l'autor?
 
-SUSANNA:                           S
-[additando Cherubino]              [
-Guardate: egli ha due braccia      L
+SUSANNA:
+[additando Cherubino]
+Guardate: egli ha due braccia
 di rossor sulla faccia.
 
-CHERUBINO:                         C
-Io sono sì tremante ...            I
-ma se madama vuole ...             B
+CHERUBINO:
+Io sono sì tremante ...
+ma se madama vuole ...
 
-SUSANNA:                           S
-Lo vuole, sì, lo vuol.             S
-Manco parole.                      E
+SUSANNA:
+Lo vuole, sì, lo vuol.
+Manco parole.
 
 
 
-N. 12. Arietta                     N
+N. 12. Arietta
 
-CHERUBINO:                         C
-Voi che sapete che cosa è amor,    Y
-donne, vedete s'io l'ho nel cor.   L
-Quello ch'io provo vi ridirò,      I
-è per me nuovo, capir nol so.      I
-Sento un affetto pien di desir,    I
-ch'ora è diletto, ch'ora è martir. T
-Gelo e poi sento l'alma avvampar,  I
-e in un momento torno a gelar.     A
-Ricerco un bene fuori di me,       I
+CHERUBINO:
+Voi che sapete che cosa è amor,
+donne, vedete s'io l'ho nel cor.
+Quello ch'io provo vi ridirò,
+è per me nuovo, capir nol so.
+Sento un affetto pien di desir,
+ch'ora è diletto, ch'ora è martir.
+Gelo e poi sento l'alma avvampar,
+e in un momento torno a gelar.
+Ricerco un bene fuori di me,
 
-non so chi'l tiene, non so cos'è.  I
+non so chi'l tiene, non so cos'è.
 
-Sospiro e gemo senza voler,        I
-palpito e tremo senza saper.       I
-Non trovo pace notte né dì,        I
-ma pur mi piace languir così.      A
-Voi che sapete che cosa è amor,    Y
-donne, vedete s'io l'ho nel cor.   L
+Sospiro e gemo senza voler,
+palpito e tremo senza saper.
+Non trovo pace notte né dì,
+ma pur mi piace languir così.
+Voi che sapete che cosa è amor,
+donne, vedete s'io l'ho nel cor.
 
-Recitativo                         R
+Recitativo
 
-LA CONTESSA:                       C
-Bravo! Che bella voce!             B
-Io non sapea                       I
-che cantaste sì bene.              t
+LA CONTESSA:
+Bravo! Che bella voce!
+Io non sapea
+che cantaste sì bene.
 
-SUSANNA:                           S
-Oh, in verità                      O
-egli fa tutto ben quello ch'ei fa. e
-Presto a noi, bel soldato.         A
-Figaro v'informò ...               F
+SUSANNA:
+Oh, in verità
+egli fa tutto ben quello ch'ei fa.
+Presto a noi, bel soldato.
+Figaro v'informò ...
 
-CHERUBINO:                         C
-Tutto mi disse.                    H
+CHERUBINO:
+Tutto mi disse.
 
-SUSANNA:                           S
-[si misura con Cherubino]          [
-Lasciatemi veder. Andrà benissimo! L
-Siam d'uguale statura ...          W
-giù quel manto.                    t
-[gli cava il manto]                [
+SUSANNA:
+[si misura con Cherubino]
+Lasciatemi veder. Andrà benissimo!
+Siam d'uguale statura ...
+giù quel manto.
+[gli cava il manto]
 
-LA CONTESSA:                       C
-Che fai?                           W
+LA CONTESSA:
+Che fai?
 
-SUSANNA:                           S
-Niente paura.                      D
+SUSANNA:
+Niente paura.
 
-LA CONTESSA:                       C
-E se qualcuno entrasse?            A
+LA CONTESSA:
+E se qualcuno entrasse?
 
-SUSANNA:                           S
-Entri, che mal facciamo?           L
-Ma come poi acconciargli i cappelli?
+SUSANNA:
+Entri, che mal facciamo?
+Ma come poi acconciargli i cappelli
 
-LA CONTESSA:                       C
-Una mia cuffia                     F
-prendi nel gabinetto.              f
-Presto!                            Q
+LA CONTESSA:
+Una mia cuffia
+prendi nel gabinetto.
+Presto!
 
 [Susanna va nel gabinetto a pigliar
-Contessa, e gli lascia veder la pate
-prende, l'apre e vede che manca il s
 
-[Susanna goes into the cupboard to f
-the Countess, and shows her his comm
-unsealed.]
+[Susanna goes into the cupboard to
 
-Che carta è quella?                W
+Che carta è quella?
 
-CHERUBINO:                         C
-La patente.                        M
+CHERUBINO:
+La patente.
 
-LA CONTESSA:                       C
-Che sollecita gente!               H
+LA CONTESSA:
+Che sollecita gente!
 
-CHERUBINO:                         C
-L'ebbi or da Basilio.              I
+CHERUBINO:
+L'ebbi or da Basilio.
 
-LA CONTESSA:                       C
-[gliela rende]                     [
-Dalla fretta                       I
-obliato hanno il sigillo.          t
+LA CONTESSA:
+[gliela rende]
+Dalla fretta
+obliato hanno il sigillo.
 
-SUSANNA:                           S
-[sorte]                            [
-Il sigillo di che?                 T
+SUSANNA:
+[sorte]
+Il sigillo di che?
 
-LA CONTESSA:                       C
-Della patente.                     T
+LA CONTESSA:
+Della patente.
 
-SUSANNA:                           S
-Cospetto! Che premura!             H
-Ecco la cuffia.                    H
+SUSANNA:
+Cospetto! Che premura!
+Ecco la cuffia.
 
-LA CONTESSA:                       C
-Spicciati: va bene!                H
+LA CONTESSA:
+Spicciati: va bene!
 
-SUSANNA:                           S
-Ma se ne sono io medesma gelosa;   I
-ehi, serpentello,                  h
+SUSANNA:
+Ma se ne sono io medesma gelosa;
+ehi, serpentello,
 volete tralasciar d'esser sì bello!
 
-LA CONTESSA:                       C
-Finiam le ragazzate:               S
-or quelle maniche                  n
-oltre il gomito gli alza,          u
-onde più agiatamente               s
-l'abita gli si adatti.             w
+LA CONTESSA:
+Finiam le ragazzate:
+or quelle maniche
+oltre il gomito gli alza,
+onde più agiatamente
+l'abita gli si adatti.
 
-SUSANNA:                           S
-[eseguisce]                        [
-Ecco.                              H
+SUSANNA:
+[eseguisce]
+Ecco.
 
-LA CONTESSA:                       C
-Più indietro.                      H
+LA CONTESSA:
+Più indietro.
 
-SUSANNA:                           S
-"Cospetto				     Heavens!"
-Ha il braccio più candido del mio! H
-Qualche ragazza ...                S
+SUSANNA:
+"Cospetto				     Heaven  s!"
+Ha il braccio più candido del mio!
+Qualche ragazza ...
 
-LA CONTESSA:                       C
-E segui a far la pazza?            A
-Va nel mio gabinettto,             G
-e prendi un poco                   a
-d'inglese taffetà:                 E
-ch'è sullo scrigno:                i
+LA CONTESSA:
+E segui a far la pazza?
+Va nel mio gabinettto,
+e prendi un poco
+d'inglese taffetà:
+ch'è sullo scrigno:
 
-CHERUBINO:                         C
-"Susanna scherza; 			     Susanna moc"
-ed io frattanto parto..            a
+CHERUBINO:
+"Susanna scherza; 			     Su  sanna mo"
+ed io frattanto parto..
 
-LA CONTESSA:                       C
-Poverin! Che sventura!             P
+LA CONTESSA:
+Poverin! Che sventura!
 
-CHERUBINO:                         C
-Oh, me infelice!                   O
+CHERUBINO:
+Oh, me infelice!
 
-LA CONTESSA:                       C
-Or piange ...                      N
+LA CONTESSA:
+Or piange ...
 
-CHERUBINO:                         C
-Oh ciel! Perché morir non lice!    O
+CHERUBINO:
+Oh ciel! Perché morir non lice!
 Forse vicino all'ultimo momento ...
-questa bocca ...                   t
+questa bocca ...
 
-LA CONTESSA:                       C
-Siate saggio; cos'è questa follia? B
-[si sente picchiare alla porta.]   [
-Chi picchia alla mia porta?        W
+LA CONTESSA:
+Siate saggio; cos'è questa follia?
+[si sente picchiare alla porta.]
+Chi picchia alla mia porta?
 
-IL CONTE:                          C
-[fuori della porta]                [
-Perché è chiusa?                   W
+IL CONTE:
+[fuori della porta]
+Perché è chiusa?
 
-LA CONTESSA:                       C
-Il mio sposo, oh Dei! Son morta!   M
-Voi qui senza mantello!            Y
-In quello stato!                   I
-Un ricevuto foglio ...             H
-la sua gran gelosia!               h
+LA CONTESSA:
+Il mio sposo, oh Dei! Son morta!
+Voi qui senza mantello!
+In quello stato!
+Un ricevuto foglio ...
+la sua gran gelosia!
 
-IL CONTE:                          C
-Cosa indugiate?                    W
+IL CONTE:
+Cosa indugiate?
 
-LA CONTESSA:                       C
-Son sola ... anzi son sola ...     O
+LA CONTESSA:
+Son sola ... anzi son sola ...
 
-IL CONTE:                          C
-E a chi parlate?                   A
+IL CONTE:
+E a chi parlate?
 
-LA CONTESSA:                       C
-A voi ... certo ...                T
-a voi stesso ...                   o
+LA CONTESSA:
+A voi ... certo ...
+a voi stesso ...
 
-CHERUBINO:                         C
-Dopo quel ch'è successo,           A
-il suo furore ...                  h
-non trovo altro consiglio!         t
-[entra nel gabinetto e chiude]     [
+CHERUBINO:
+Dopo quel ch'è successo,
+il suo furore ...
+non trovo altro consiglio!
+[entra nel gabinetto e chiude]
 
-LA CONTESSA:                       C
-[prende la chiave]                 [
-Ah, mi difenda il cielo            A
-in tal periglio!                   i
-[corre ad aprire al Conte]         [
+LA CONTESSA:
+[prende la chiave]
+Ah, mi difenda il cielo
+in tal periglio!
+[corre ad aprire al Conte]
 
-SCENA III                          S
-La Contessa ed il Conte            T
-da cacciatore                      i
+SCENA III
+La Contessa ed il Conte
+da cacciatore
 
-IL CONTE:                          C
-Che novità! Non fu mai             W
-vostra usanza                      y
-di rinchiudervi in stanza!         t
+IL CONTE:
+Che novità! Non fu mai
+vostra usanza
+di rinchiudervi in stanza!
 
-LA CONTESSA:                       C
-È ver; ma io ...                   Y
-io stava qui mettendo ...          I
+LA CONTESSA:
+È ver; ma io ...
+io stava qui mettendo ...
 
-IL CONTE:                          C
-Via, mettendo ...                  G
+IL CONTE:
+Via, mettendo ...
 
-LA CONTESSA:                       C
- ... certe robe ...                .
-era meco la Susanna ...            S
-che in sua camera è andata.        s
+LA CONTESSA:
+ ... certe robe ...
+era meco la Susanna ...
+che in sua camera è andata.
 
-IL CONTE:                          C
-Ad ogni modo                       I
-voi non siete tranquilla.          y
-Guardate questo foglio!            L
+IL CONTE:
+Ad ogni modo
+voi non siete tranquilla.
+Guardate questo foglio!
 
-LA CONTESSA:                       C
-(Numi! È il foglio                 (
-che Figaro gli scrisse ... )       w
-[Cherubino fa cadere un tavolino,  [
-ed una sedia in gabinetto,         a
-con molto strepito.]               m
+LA CONTESSA:
+(Numi! È il foglio
+che Figaro gli scrisse ... )
+[Cherubino fa cadere un tavolino,
+ed una sedia in gabinetto,
+con molto strepito.]
 
-IL CONTE:                          C
-Cos'è codesto strepito?            W
+IL CONTE:
+Cos'è codesto strepito?
 In gabinetto qualche cosa è caduta.
 
-LA CONTESSA:                       C
-Io non intesi niente.              I
+LA CONTESSA:
+Io non intesi niente.
 
-IL CONTE:                          C
-Convien che abbiate                Y
-i gran pensieri in mente.          w
+IL CONTE:
+Convien che abbiate
+i gran pensieri in mente.
 
-LA CONTESSA:                       C
-Di che?                            S
+LA CONTESSA:
+Di che?
 
-IL CONTE:                          C
-Là v'è qualchuno.                  T
+IL CONTE:
+Là v'è qualchuno.
 
-LA CONTESSA:                       C
-Chi volete che sia?                W
+LA CONTESSA:
+Chi volete che sia?
 
-IL CONTE:                          C
-Io chiedo a voi.                   I
-Io vengo in questo punto           I
+IL CONTE:
+Io chiedo a voi.
+Io vengo in questo punto
 
-LA CONTESSA:                       C
-Ah sì, Susanna ... appunto ...     O
+LA CONTESSA:
+Ah sì, Susanna ... appunto ...
 
-IL CONTE:                          C
-Che passò mi diceste               O
-alla sua stanza!                   i
+IL CONTE:
+Che passò mi diceste
+alla sua stanza!
 
-LA CONTESSA:                       C
-Alla sua stanza, o qui -           T
-non vidi bene ...                  I
+LA CONTESSA:
+Alla sua stanza, o qui -
+non vidi bene ...
 
-IL CONTE:                          C
-Susanna! - E donde viene           S
-che siete sì turbata?              y
+IL CONTE:
+Susanna! - E donde viene
+che siete sì turbata?
 
-LA CONTESSA:                       C
-Per la mia cameriera?              A
+LA CONTESSA:
+Per la mia cameriera?
 
-IL CONTE:                          C
-Io non so nulla;                   H
-ma turbata senz'altro.             b
+IL CONTE:
+Io non so nulla;
+ma turbata senz'altro.
 
-LA CONTESSA:                       C
-Ah, questa serva                   A
-più che non turba me               “
-turba voi stesso.                  m
+LA CONTESSA:
+Ah, questa serva
+più che non turba me
+turba voi stesso.
 
-IL CONTE:                          C
-È vero, è vero,                    T
-e lo vedrete adesso.               a
+IL CONTE:
+È vero, è vero,
+e lo vedrete adesso.
 
-[La Susanna entra per la porta ond'è
-dalla porta del gabinetto sta batten
+[La Susanna entra per la porta ond'
+dalla porta del gabinetto sta batte
 l'alcova.]
 
-[Susanna comes in through the door s
-is shouting, pounding at the door of
+[Susanna comes in through the door
+is shouting, pounding at the door o
 unseen by Count or Countess]
 
-N. 14. Terzetto                    N
+N. 14. Terzetto
 
-IL CONTE:                          C
-Susanna, or via, sortite,          S
-sortite, io così vo'.              C
+IL CONTE:
+Susanna, or via, sortite,
+sortite, io così vo'.
 
-LA CONTESSA:                       C
-Fermatevi ... sentite ...          S
-Sortire ella non può.              S
+LA CONTESSA:
+Fermatevi ... sentite ...
+Sortire ella non può.
 
-SUSANNA:                           S
-Cos'è codesta lite!                W
-Il paggio dove andò!               W
+SUSANNA:
+Cos'è codesta lite!
+Il paggio dove andò!
 
-IL CONTE:                          C
-E chi vietarlo or osa?             A
+IL CONTE:
+E chi vietarlo or osa?
 
-LA CONTESSA:                       C
-Lo vieta l'onestà.                 M
-Un abito da sposa                  S
-provando ella si sta.              H
+LA CONTESSA:
+Lo vieta l'onestà.
+Un abito da sposa
+provando ella si sta.
 
-IL CONTE:                          C
-Chiarissima è la cosa:             I
-l'amante qui sarà.                 H
+IL CONTE:
+Chiarissima è la cosa:
+l'amante qui sarà.
 
-LA CONTESSA:                       C
-Bruttissima è la cosa,             T
-chi sa cosa sarà.                  W
+LA CONTESSA:
+Bruttissima è la cosa,
+chi sa cosa sarà.
 
-SUSANNA:                           S
-Capisco qualche cosa,              I
-veggiamo come va.                  W
+SUSANNA:
+Capisco qualche cosa,
+veggiamo come va.
 
-IL CONTE:                          C
-Dunque parlate almeno.             W
-Susanna, se qui siete ...          S
+IL CONTE:
+Dunque parlate almeno.
+Susanna, se qui siete ...
 
-LA CONTESSA:                       C
-Nemmen, nemmen, nemmeno,           N
-io v'ordino: tacete.               I
+LA CONTESSA:
+Nemmen, nemmen, nemmeno,
+io v'ordino: tacete.
 
-IL CONTE:                          C
-Consorte mia, giudizio,            B
-un scandalo, un disordine,         A
-schiviam per carità!               i
+IL CONTE:
+Consorte mia, giudizio,
+un scandalo, un disordine,
+schiviam per carità!
 
-SUSANNA:                           S
-Oh cielo, un precipizio,           O
-un scandalo, un disordine,         a
-qui certo nascerà.                 w
+SUSANNA:
+Oh cielo, un precipizio,
+un scandalo, un disordine,
+qui certo nascerà.
 
 
-LA CONTESSA:                       C
-Consorte mio, giudizio,            B
-un scandalo, un disordine,         A
-schiviam per carità!               i
+LA CONTESSA:
+Consorte mio, giudizio,
+un scandalo, un disordine,
+schiviam per carità!
 
-Recitativo                         R
+Recitativo
 
-IL CONTE:                          C
-Dunque voi non aprite?             T
+IL CONTE:
+Dunque voi non aprite?
 
-LA CONTESSA:                       C
-E perché degg'io                   A
-le mie camere aprir?               o
+LA CONTESSA:
+E perché degg'io
+le mie camere aprir?
 
-IL CONTE:                          C
-Ebben, lasciate,                   F
-l'aprirem senza chiavi.            I
-[chiamando] Ehi, gente!            [
+IL CONTE:
+Ebben, lasciate,
+l'aprirem senza chiavi.
+[chiamando] Ehi, gente!
 
-LA CONTESSA:                       C
-Come?                              W
-Porreste a repentaglio             Y
-d'una dama l'onore?                w
+LA CONTESSA:
+Come?
+Porreste a repentaglio
+d'una dama l'onore?
 
-IL CONTE:                          C
-È vero, io sbaglio.                T
-Posso senza rumore,                I
-senza scandalo alcun di nostra gente
-andar io stesso                    I
-a prender l'occorrente.            t
-Attendete pur qui,                 Y
-ma perché in tutto                 b
-sia il mio dubbio distrutto        o
-anco le porte io prima chiuderò.   I
-[chiude a chiave la porta che      [
-conduce alle stanze delle          S
+IL CONTE:
+È vero, io sbaglio.
+Posso senza rumore,
+senza scandalo alcun di nostra gent
+andar io stesso
+a prender l'occorrente.
+Attendete pur qui,
+ma perché in tutto
+sia il mio dubbio distrutto
+anco le porte io prima chiuderò.
+[chiude a chiave la porta che
+conduce alle stanze delle
 cameriere]
 
-LA CONTESSA:                       C
-(Che imprudenza!)                  (
+LA CONTESSA:
+(Che imprudenza!)
 
-IL CONTE:                          C
-Voi la condiscendenza              A
-di venir meco avrete.              t
+IL CONTE:
+Voi la condiscendenza
+di venir meco avrete.
 Madama, eccovi il braccio, andiamo.
 
-LA CONTESSA:                       C
-Andiamo.                           L
+LA CONTESSA:
+Andiamo.
 
-IL CONTE:                          C
-'Susanna' starà qui                '
-finché torniamo.                   u
-[Partono.]                         [
+IL CONTE:
+'Susanna' starà qui
+finché torniamo.
+[Partono.]
 
-SCENA IV                           S
-Susanna e Cherubino                S
+SCENA IV
+Susanna e Cherubino
 
-N. 15. Duettino                    N
+N. 15. Duettino
 
-SUSANNA:                           S
-[uscendo dall'alcova in fretta;    [
-alla porta del gabinetto]          a
-Aprite, presto, aprite;            O
-aprite, è la Susanna.              O
-Sortite, via sortite,              C
-andate via di qua.                 G
+SUSANNA:
+[uscendo dall'alcova in fretta;
+alla porta del gabinetto]
+Aprite, presto, aprite;
+aprite, è la Susanna.
+Sortite, via sortite,
+andate via di qua.
 
 
-CHERUBINO: [uscendo]               C
-Oimè, che scena orribile!          O
-Che gran fatalità!                 W
+CHERUBINO: [uscendo]
+Oimè, che scena orribile!
+Che gran fatalità!
 
-SUSANNA:                           S
-[accostandosi or ad una, or        [
-ad un'altra porta]                 t
-Di qua, di là.                     G
+SUSANNA:
+[accostandosi or ad una, or
+ad un'altra porta]
+Di qua, di là.
 
 [Cherubino tries both doors]
 
-SUSANNA & CHERUBINO:               S
-Le porte son serrate,              T
-che mai, che mai sarà!             w
-
-CHERUBINO:                         C
-Qui perdersi non giova.            I
-
-SUSANNA:                           S
-V'uccide se vi trova.              H
-
-CHERUBINO:                         C
-[affacciandosi alla finestra]      [
-Veggiamo un po' qui fuori.         I
-Dà proprio nel giardino.           I
-[facendo moto di saltar giù]       [
-
-SUSANNA:                           S
-[trattenendolo]                    [
-Fermate, Cherubino!                D
-Fermate per pietà!                 S
-
-CHERUBINO:                         C
-Qui perdersi non giova.            I
-
-SUSANNA:                           S
-Fermate, Cherubino!                S
-
-CHERUBINO:                         C
-M'uccide se mi trova.              H
-
-SUSANNA:                           S
-[trattenendolo sempre]             [
-Tropp'alto per un salto,           I
-fermate per pietà!                 s
-
-CHERUBINO:                         C
-[si scioglie]                      [
-Lasciami, pria di nuocerle         L
-nel fuoco volerei.                 I
-Abbraccio te per lei -             I
-addio, così si fa.                 f
-
-SUSANNA:                           S
-Ei va a perire, oh Dei!            I
-Fermate per pietà; fermate!        S
-
-[salta fuori]                      [
-
-Recitativo                         R
-
-SUSANNA:                           S
-Oh, guarda il demonietto!          O
-Come fugge!                        H
-È già un miglio lontano.           H
-Ma non perdiamoci invano.          B
-Entriam nel gabinetto,             W
-venga poi lo smargiasso,           l
-io qui l'aspetto.                  I
-[entra in gabinetto e si chiude    [
-dietro la porta]                   t
-
-SCENA V                            S
-La Contessa, il Conte con martello T
-e tenaglia in mano;                h
-al suo arrivo esamina              o
-tutte le porte.                    a
-
-IL CONTE:                          C
-Tutto è come il lasciai:           E
-volete dunque                      s
-aprir voi stessa, o deggio -       t
-
-LA CONTESSA:                       C
-Ahimé, fermate;                    F
-e ascoltatemi un poco.             L
-Mi credete capace                  D
-di mancar al dover?                o
-
-IL CONTE:                          C
-Come vi piace.                     A
-Entro quel gabinetto               I
-chi v'è chiuso vedrò.              a
-
-LA CONTESSA:                       C
-Sì, lo vedrete ...                 Y
-Ma uditemi tranquillo.             B
-
-IL CONTE:                          C
-Non è dunque Susanna!              T
-
-LA CONTESSA:                       C
-No, ma invece è un oggetto         N
-che ragion di sospetto             w
-non vi deve lasciar.               t
-Per questa sera ...                F
-una burla innocente ...            a
-di far si disponeva ...            t
-ed io vi giuro                     a
-che l'onor, l'onestà -             t
-
-IL CONTE:                          C
-Chi è dunque! Dite ...             W
-l'ucciderò.                        I
+SUSANNA & CHERUBINO:
+Le porte son serrate,
+che mai, che mai sarà!
+
+CHERUBINO:
+Qui perdersi non giova.
+
+SUSANNA:
+V'uccide se vi trova.
+
+CHERUBINO:
+[affacciandosi alla finestra]
+Veggiamo un po' qui fuori.
+Dà proprio nel giardino.
+[facendo moto di saltar giù]
+
+SUSANNA:
+[trattenendolo]
+Fermate, Cherubino!
+Fermate per pietà!
+
+CHERUBINO:
+Qui perdersi non giova.
+
+SUSANNA:
+Fermate, Cherubino!
+
+CHERUBINO:
+M'uccide se mi trova.
+
+SUSANNA:
+[trattenendolo sempre]
+Tropp'alto per un salto,
+fermate per pietà!
+
+CHERUBINO:
+[si scioglie]
+Lasciami, pria di nuocerle
+nel fuoco volerei.
+Abbraccio te per lei -
+addio, così si fa.
+
+SUSANNA:
+Ei va a perire, oh Dei!
+Fermate per pietà; fermate!
+
+[salta fuori]
+
+Recitativo
+
+SUSANNA:
+Oh, guarda il demonietto!
+Come fugge!
+È già un miglio lontano.
+Ma non perdiamoci invano.
+Entriam nel gabinetto,
+venga poi lo smargiasso,
+io qui l'aspetto.
+[entra in gabinetto e si chiude
+dietro la porta]
+
+SCENA V
+La Contessa, il Conte con martello
+e tenaglia in mano;
+al suo arrivo esamina
+tutte le porte.
+
+IL CONTE:
+Tutto è come il lasciai:
+volete dunque
+aprir voi stessa, o deggio -
+
+LA CONTESSA:
+Ahimé, fermate;
+e ascoltatemi un poco.
+Mi credete capace
+di mancar al dover?
+
+IL CONTE:
+Come vi piace.
+Entro quel gabinetto
+chi v'è chiuso vedrò.
+
+LA CONTESSA:
+Sì, lo vedrete ...
+Ma uditemi tranquillo.
+
+IL CONTE:
+Non è dunque Susanna!
+
+LA CONTESSA:
+No, ma invece è un oggetto
+che ragion di sospetto
+non vi deve lasciar.
+Per questa sera ...
+una burla innocente ...
+di far si disponeva ...
+ed io vi giuro
+che l'onor, l'onestà -
+
+IL CONTE:
+Chi è dunque! Dite ...
+l'ucciderò.
 
-LA CONTESSA:                       C
-Sentite!                           L
-Ah, non ho cor!                    O
+LA CONTESSA:
+Sentite!
+Ah, non ho cor!
 
-IL CONTE:                          C
-Parlate.                           T
+IL CONTE:
+Parlate.
 
-LA CONTESSA:                       C
-È un fanciullo ...                 H
+LA CONTESSA:
+È un fanciullo ...
 
-IL CONTE:                          C
-Un fanciul! ...                    A
+IL CONTE:
+Un fanciul! ...
 
-LA CONTESSA:                       C
-Sì ... Cherubino ...               Y
+LA CONTESSA:
+Sì ... Cherubino ...
 
-IL CONTE:                          C
-(E mi farà il destino              I
-ritrovar questo paggio in ogni loco!
-Come? Non è partito? Scellerati!   W
-Ecco i dubbi spiegati,             H
-ecco l'imbroglio,                  h
-ecco il raggiro,                   h
-onde m'avverte il foglio.          t
+IL CONTE:
+(E mi farà il destino
+ritrovar questo paggio in ogni loco
+Come? Non è partito? Scellerati!
+Ecco i dubbi spiegati,
+ecco l'imbroglio,
+ecco il raggiro,
+onde m'avverte il foglio.
 
-SCENA VI                           S
-La Contessa ed il Conte            T
+SCENA VI
+La Contessa ed il Conte
 
-N. 16. Finale                      N
-
-IL CONTE:                          C
-[alla porta del gabinetto]         [
-Esci omai, garzon malnato,         C
-sciagurato, non tardar.            w
+N. 16. Finale
+
+IL CONTE:
+[alla porta del gabinetto]
+Esci omai, garzon malnato,
+sciagurato, non tardar.
 
-LA CONTESSA:                       C
-Ah, signore, quel furore           A
-per lui fammi il cor tremar.       m
+LA CONTESSA:
+Ah, signore, quel furore
+per lui fammi il cor tremar.
 
-IL CONTE:                          C
-E d'opporvi ancor osate?           A
+IL CONTE:
+E d'opporvi ancor osate?
 
-LA CONTESSA:                       C
-No, sentite ...                    N
+LA CONTESSA:
+No, sentite ...
 
-IL CONTE:                          C
-Via parlate.                       G
+IL CONTE:
+Via parlate.
 
-LA CONTESSA:                       C
-Giuro al ciel ch'ogni sospetto ... I
-e lo stato in che il trovate ...   a
-sciolto il collo ...               w
-nudo il petto ...                  h
+LA CONTESSA:
+Giuro al ciel ch'ogni sospetto ...
+e lo stato in che il trovate ...
+sciolto il collo ...
+nudo il petto ...
 
-IL CONTE:                          C
-Sciolto il collo!                  H
-Nudo il petto! Seguitate!          H
+IL CONTE:
+Sciolto il collo!
+Nudo il petto! Seguitate!
 
-LA CONTESSA:                       C
-Per vestir femminee spoglie ...    T
+LA CONTESSA:
+Per vestir femminee spoglie ...
 
-IL CONTE:                          C
-Ah comprendo, indegna moglie,      O
-mi vo' tosto vendicar.             I
+IL CONTE:
+Ah comprendo, indegna moglie,
+mi vo' tosto vendicar.
 
-LA CONTESSA:                       C
-Mi fa torto quel trasporto,        T
-m'oltraggiate a dubitar.           i
+LA CONTESSA:
+Mi fa torto quel trasporto,
+m'oltraggiate a dubitar.
 
-IL CONTE:                          C
-Qua la chiave!                     G
-
-LA CONTESSA:                       C
-Egli è innocente.                  H
-[dandogli la chiave]               [
-Voi sapete ...                     Y
+IL CONTE:
+Qua la chiave!
+
+LA CONTESSA:
+Egli è innocente.
+[dandogli la chiave]
+Voi sapete ...
 
-IL CONTE:                          C
-Non so niente.                     I
-Va lontan dagl'occhi miei,         A
-un'infida, un'empia sei            y
-e mi cerchi d'infamar.             a
+IL CONTE:
+Non so niente.
+Va lontan dagl'occhi miei,
+un'infida, un'empia sei
+e mi cerchi d'infamar.
 
-LA CONTESSA:                       C
-Vado ... sì ... ma ...             I
-
-IL CONTE:                          C
-Non ascolto.                       I
+LA CONTESSA:
+Vado ... sì ... ma ...
+
+IL CONTE:
+Non ascolto.
 
-LA CONTESSA:                       C
-Non son rea.                       I
+LA CONTESSA:
+Non son rea.
 
-IL CONTE:                          C
-Vel leggo in volto!                I
-Mora, mora, e più non sia,         H
-ria cagion del mio penar.          t
+IL CONTE:
+Vel leggo in volto!
+Mora, mora, e più non sia,
+ria cagion del mio penar.
 
-LA CONTESSA:                       C
-Ah, la cieca gelosia               A
-qualche eccesso gli fa far.        d
-
-SCENA VII                          S
-I suddetti e Susanna               T
-
-[Il Conte apre il gabinetto e     [T
-Susanna esce sulla porta, ed ivi  of
-si ferma.]                        st
-
-IL CONTE:                          C
-Susanna!                           S
-
-LA CONTESSA:                       C
-Susanna!                           S
-
-SUSANNA:                           S
-Signore,                           M
-cos'è quel stupore?                w
-Il brando prendete,                T
-il paggio uccidete,                K
-quel paggio malnato,               t
-vedetelo qua.                      s
-
-IL CONTE:                          C
-(Che scola! La testa               (
-girando mi va.)                    M
-
-LA CONTESSA:                       C
-(Che storia è mai questa,         (W
-Susanna v'è là.)                   S
-
-SUSANNA:                           S
-(Confusa han la testa,             (
-non san come va.)                  t
-
-IL CONTE:                          C
-Sei sola?                          O
-
-SUSANNA:                           S
-Guardate,                          L
-qui ascoso sarà.                   a
-
-IL CONTE:                          C
-Guardiamo, qui ascoso sarà.        I
-[entra nel gabinetto]              [
-
-
-SCENA VIII                         S
-Susanna, la Contessa e poi il Conte.
-
-LA CONTESSA:                       C
-Susanna, son morta,                S
-il fiato mi manca.                 m
-
-SUSANNA:                           S
-[addita alla Contessa la finestra  [
-onde è saltato Cherubino]          C
-Più lieta, più franca,             E
-in salvo è di già.                 h
-
-IL CONTE:                          C
-[esce dal gabinetto]               [
-Che sbaglio mai presi!             W
-Appena lo credo;                   I
-se a torto v'offesi                i
-perdono vi chiedo;                 I
-ma far burla simile                b
-è poi crudeltà.                    i
-
-LA CONTESSA & SUSANNA:             C
-Le vostre follie                   Y
-non mertan pietà.                  d
-
-IL CONTE:                          C
-Io v'amo.                          I
-
-LA CONTESSA:                       C
-Nol dite!                          D
-
-IL CONTE:                          C
-Vel giuro.                         I
-
-LA CONTESSA:                       C
-Mentite.                           Y
-Son l'empia, l'infida              I
-che ognora v'inganna.              w
-
-IL CONTE:                          C
-Quell'ira, Susanna,                H
-m'aita a calmar.                   H
-
-SUSANNA:                           S
-Così si condanna                   T
-chi può sospettar.                 a
-
-LA CONTESSA:                       C
-Adunque la fede                    T
-d'un'anima amante                  o
-sì fiera mercede                   c
-doveva sperar?                     f
-[quasi piangendo]                  [
-
-IL CONTE:                          C
-Quell'ira, Susanna,                T
-m'aita a calmar.                   H
-
-SUSANNA:                           S
-Così si condanna                   T
-chi può sospettar.                 a
-[consolando alla Contessa]         [
-Signora!                           M
-
-IL CONTE:                          C
-Rosina!                            R
-
-LA CONTESSA:                       C
-[al Conte]                         [
-Crudele!                           C
-Più quella non sono;               I
-ma il misero oggetto               b
-del vostro abbandono               o
-che avete diletto                  y
-di far disperar.                   i
-
-IL CONTE:                          C
-Confuso, pentito,                  I
-son troppo punito,                 I
-abbiate pietà.                     h
-
-SUSANNA:                           S
-Confuso, pentito,                  H
-è troppo punito,                   h
-abbiate pietà.                     h
-
-LA CONTESSA:                       C
-Soffrir sì gran torto              T
-quest'alma non sa.                 h
-
-IL CONTE:                          C
-Ma il paggio rinchiuso?            B
-
-
-LA CONTESSA:                       C
-Fu sol per provarvi.               O
-
-IL CONTE:                          C
-Ma i tremiti, i palpiti?           B
-
-LA CONTESSA:                       C
-Fu sol per burlarvi.               O
-
-IL CONTE:                          C
-Ma un foglio sì barbaro?           B
-
-LA CONTESSA & SUSANNA:             C
-Di Figaro è il foglio,             W
-e a voi per Basilio.               a
-
-IL CONTE:                          C
-Ah perfidi! Io voglio ...          A
-
-LA CONTESSA & SUSANNA:             C
-Perdono non merta                  H
-chi agli altri nol da.             w
-
-IL CONTE:                          C
-Ebben, se vi piace                 W
-comune è la pace;                  w
-Rosina inflessibile                R
-con me non sarà.                   b
-
-LA CONTESSA:                       C
-Ah quanto, Susanna,                A
-son dolce di core!                 h
-Di donne al furore                 W
-chi più crederà?                   i
-
-SUSANNA:                           S
-Cogl'uomin, signora,               W
-girate, volgete,                   y
-vedrete che ognora                 y
-si cade poi là.                    w
-
-IL CONTE:                          C
-Guardatemi ...                     L
-
-LA CONTESSA:                       C
-Ingrato!                           U
-
-IL CONTE:                          C
-Ho torto, e mi pento.              I
-
-LA CONTESSA, SUSANNA & IL CONTE:   C
-Da questo momento                  F
-quest'alma a conoscermi/la/vi      t
-apprender potrà.                   t
-
-SCENA IX                           S
-I suddetti e Figaro                T
-
-FIGARO:                            F
-Signori, di fuori                  M
-son già i suonatori.               t
-Le trombe sentite,                 Y
-i pifferi udite,                   y
-tra canti, tra balli               w
-de' nostri vassalli                o
-corriamo, voliamo                  l
-le nozze a compir.                 t
-[prendendo Susanna sotto il braccio]
-
-IL CONTE:                          C
-Pian piano, men fretta;            J
-
-FIGARO:                            F
-La turba m'aspetta.                T
-
-IL CONTE:                          C
-Un dubbio toglietemi               J
-in pria di partir.                 b
-
-LA CONTESSA, SUSANNA & FIGARO:     C
-La cosa è scabrosa;                T
-com'ha da finir!                   h
-
-IL CONTE:                          C
-(Con arte le carte                 (
+LA CONTESSA:
+Ah, la cieca gelosia
+qualche eccesso gli fa far.
+
+SCENA VII
+I suddetti e Susanna
+
+[Il Conte apre il gabinetto e     [
+Susanna esce sulla porta, ed ivi  o
+si ferma.]                        s
+
+IL CONTE:
+Susanna!
+
+LA CONTESSA:
+Susanna!
+
+SUSANNA:
+Signore,
+cos'è quel stupore?
+Il brando prendete,
+il paggio uccidete,
+quel paggio malnato,
+vedetelo qua.
+
+IL CONTE:
+(Che scola! La testa
+girando mi va.)
+
+LA CONTESSA:
+(Che storia è mai questa,         (
+Susanna v'è là.)
+
+SUSANNA:
+(Confusa han la testa,
+non san come va.)
+
+IL CONTE:
+Sei sola?
+
+SUSANNA:
+Guardate,
+qui ascoso sarà.
+
+IL CONTE:
+Guardiamo, qui ascoso sarà.
+[entra nel gabinetto]
+
+
+SCENA VIII
+Susanna, la Contessa e poi il Conte
+
+LA CONTESSA:
+Susanna, son morta,
+il fiato mi manca.
+
+SUSANNA:
+[addita alla Contessa la finestra
+onde è saltato Cherubino]
+Più lieta, più franca,
+in salvo è di già.
+
+IL CONTE:
+[esce dal gabinetto]
+Che sbaglio mai presi!
+Appena lo credo;
+se a torto v'offesi
+perdono vi chiedo;
+ma far burla simile
+è poi crudeltà.
+
+LA CONTESSA & SUSANNA:
+Le vostre follie
+non mertan pietà.
+
+IL CONTE:
+Io v'amo.
+
+LA CONTESSA:
+Nol dite!
+
+IL CONTE:
+Vel giuro.
+
+LA CONTESSA:
+Mentite.
+Son l'empia, l'infida
+che ognora v'inganna.
+
+IL CONTE:
+Quell'ira, Susanna,
+m'aita a calmar.
+
+SUSANNA:
+Così si condanna
+chi può sospettar.
+
+LA CONTESSA:
+Adunque la fede
+d'un'anima amante
+sì fiera mercede
+doveva sperar?
+[quasi piangendo]
+
+IL CONTE:
+Quell'ira, Susanna,
+m'aita a calmar.
+
+SUSANNA:
+Così si condanna
+chi può sospettar.
+[consolando alla Contessa]
+Signora!
+
+IL CONTE:
+Rosina!
+
+LA CONTESSA:
+[al Conte]
+Crudele!
+Più quella non sono;
+ma il misero oggetto
+del vostro abbandono
+che avete diletto
+di far disperar.
+
+IL CONTE:
+Confuso, pentito,
+son troppo punito,
+abbiate pietà.
+
+SUSANNA:
+Confuso, pentito,
+è troppo punito,
+abbiate pietà.
+
+LA CONTESSA:
+Soffrir sì gran torto
+quest'alma non sa.
+
+IL CONTE:
+Ma il paggio rinchiuso?
+
+
+LA CONTESSA:
+Fu sol per provarvi.
+
+IL CONTE:
+Ma i tremiti, i palpiti?
+
+LA CONTESSA:
+Fu sol per burlarvi.
+
+IL CONTE:
+Ma un foglio sì barbaro?
+
+LA CONTESSA & SUSANNA:
+Di Figaro è il foglio,
+e a voi per Basilio.
+
+IL CONTE:
+Ah perfidi! Io voglio ...
+
+LA CONTESSA & SUSANNA:
+Perdono non merta
+chi agli altri nol da.
+
+IL CONTE:
+Ebben, se vi piace
+comune è la pace;
+Rosina inflessibile
+con me non sarà.
+
+LA CONTESSA:
+Ah quanto, Susanna,
+son dolce di core!
+Di donne al furore
+chi più crederà?
+
+SUSANNA:
+Cogl'uomin, signora,
+girate, volgete,
+vedrete che ognora
+si cade poi là.
+
+IL CONTE:
+Guardatemi ...
+
+LA CONTESSA:
+Ingrato!
+
+IL CONTE:
+Ho torto, e mi pento.
+
+LA CONTESSA, SUSANNA & IL CONTE:
+Da questo momento
+quest'alma a conoscermi/la/vi
+apprender potrà.
+
+SCENA IX
+I suddetti e Figaro
+
+FIGARO:
+Signori, di fuori
+son già i suonatori.
+Le trombe sentite,
+i pifferi udite,
+tra canti, tra balli
+de' nostri vassalli
+corriamo, voliamo
+le nozze a compir.
+[prendendo Susanna sotto il braccio
+
+IL CONTE:
+Pian piano, men fretta;
+
+FIGARO:
+La turba m'aspetta.
+
+IL CONTE:
+Un dubbio toglietemi
+in pria di partir.
+
+LA CONTESSA, SUSANNA & FIGARO:
+La cosa è scabrosa;
+com'ha da finir!
+
+IL CONTE:
+(Con arte le carte
 convien qui scoprir.)
-[a Figaro]                         [
-Conoscete, signor Figaro,          D
-[mostrandogli il foglio]           [
-questo foglio chi vergò?           w
+[a Figaro]
+Conoscete, signor Figaro,
+[mostrandogli il foglio]
+questo foglio chi vergò?
 
-FIGARO:                            F
-Nol conosco ...                    I
+FIGARO:
+Nol conosco ...
 
-SUSANNA, LA CONTESSA & IL CONTE:   S
-Nol conosci?                       Y
+SUSANNA, LA CONTESSA & IL CONTE:
+Nol conosci?
 
-FIGARO:                            F
-No, no, no!                        N
+FIGARO:
+No, no, no!
 
-SUSANNA:                           S
-E nol desti a Don Basilio ...      A
+SUSANNA:
+E nol desti a Don Basilio ...
 
-LA CONTESSA:                       C
-Per recarlo ...                    T
+LA CONTESSA:
+Per recarlo ...
 
-IL CONTE:                          C
-Tu c'intendi ...                   Y
+IL CONTE:
+Tu c'intendi ...
 
-FIGARO:                            F
-Oibò, oibò.                        N
+FIGARO:
+Oibò, oibò.
 
-SUSANNA:                           S
-E non sai del damerino ...         A
+SUSANNA:
+E non sai del damerino ...
 
-LA CONTESSA:                       C
-Che stasera nel giardino ...       W
+LA CONTESSA:
+Che stasera nel giardino ...
 
-IL CONTE:                          C
-Già capisci ...                    U
+IL CONTE:
+Già capisci ...
 
-FIGARO:                            F
-Io non lo so.                      N
+FIGARO:
+Io non lo so.
 
-IL CONTE:                          C
-Cerchi invan difesa e scusa        Y
-il tuo ceffo già t'accusa,         y
-vedo ben che vuoi mentir.          I
+IL CONTE:
+Cerchi invan difesa e scusa
+il tuo ceffo già t'accusa,
+vedo ben che vuoi mentir.
 
-FIGARO:                            F
-Mente il ceffo, io già non mento.  W
+FIGARO:
+Mente il ceffo, io già non mento.
 
-LA CONTESSA & SUSANNA:             C
-Il talento aguzzi invano           A
-palesato abbiam l'arcano,          w
-non v'è nulla da ridir.            t
-
-
-IL CONTE:                          C
-Che rispondi?                      S
-
-FIGARO:                            F
-Niente, niente.                    N
-
-IL CONTE:                          C
-Dunque accordi?                    T
-
-FIGARO:                            F
-Non accordo.                       N
-
-SUSANNA & LA CONTESSA:             S
-Eh via, chetati, balordo,          H
-la burletta ha da finir.           t
-
-FIGARO:                            F
-Per finirla lietamente             T
-e all'usanza teatrale              a
-un'azion matrimoniale              w
-le faremo ora seguir.              w
-
-LA CONTESSA, SUSANNA & FIGARO:     C
-[al Conte]                         [
-Deh signor, nol contrastate,       O
-consolate i lor/miei desir.        f
-
-IL CONTE:                          C
-(Marcellina, Marcellina!           (
-Quanto tardi a comparir!)          H
-
-SCENA X                            S
-I suddetti ed Antonio giardiniere  T
-con un vaso di garofani schiacciato.
-
-ANTONIO:                           A
-Ah, signor ... signor ...          O
-
-IL CONTE:                          C
-Cosa è stato? ...                  W
-
-ANTONIO:                           A
-Che insolenza! Chi'l fece! Chi fu! W
-
-LA CONTESSA, SUSANNA,              C
-IL CONTE & FIGARO:                 C
-Cosa dici, cos'hai, cosa è nato?   W
+LA CONTESSA & SUSANNA:
+Il talento aguzzi invano
+palesato abbiam l'arcano,
+non v'è nulla da ridir.
 
 
-ANTONIO:                           A
-Ascoltate ...                      L
+IL CONTE:
+Che rispondi?
 
-LA CONTESSA, SUSANNA,              C
-IL CONTE & FIGARO:                 C
-Via, parla, di', su.               G
+FIGARO:
+Niente, niente.
 
-ANTONIO:                           A
-Dal balcone che guarda in giardino F
-mille cose ogni dì gittar veggio,  I
-e poc'anzi, può darsi di peggio,   a
-vidi un uom, signor mio, gittar giù.
+IL CONTE:
+Dunque accordi?
 
-IL CONTE:                          C
-Dal balcone?                       F
+FIGARO:
+Non accordo.
 
-ANTONIO:                           A
-[mostrandogli il vaso]             [
-Vedete i garofani?                 S
+SUSANNA & LA CONTESSA:
+Eh via, chetati, balordo,
+la burletta ha da finir.
 
-IL CONTE:                          C
-In giardino?                       I
+FIGARO:
+Per finirla lietamente
+e all'usanza teatrale
+un'azion matrimoniale
+le faremo ora seguir.
 
-ANTONIO:                           A
-Sì!                                Y
+LA CONTESSA, SUSANNA & FIGARO:
+[al Conte]
+Deh signor, nol contrastate,
+consolate i lor/miei desir.
 
-SUSANNA & LA CONTESSA:             S
-[piano a Figaro]                   [
-Figaro, all'erta.                  F
+IL CONTE:
+(Marcellina, Marcellina!
+Quanto tardi a comparir!)
 
-IL CONTE:                          C
-Cosa sento!                        W
+SCENA X
+I suddetti ed Antonio giardiniere
+con un vaso di garofani schiacciato
 
-SUSANNA, LA CONTESSA & FIGARO:     S
-Costui ci sconcerta,               (
-quel briaco che viene far qui?     W
+ANTONIO:
+Ah, signor ... signor ...
 
-IL CONTE:                          C
-[ad Antonio]                       [
-Dunque un uom ... ma dov'è,        S
-dov'è gito?                        w
+IL CONTE:
+Cosa è stato? ...
 
-ANTONIO:                           A
-Ratto, ratto, il birbone è fuggito T
-e ad un tratto di vista m'uscì.    a
+ANTONIO:
+Che insolenza! Chi'l fece! Chi fu!
 
-SUSANNA:                           S
-[piano a Figaro]                   [
-Sai che il paggio ...              Y
+LA CONTESSA, SUSANNA,
+IL CONTE & FIGARO:
+Cosa dici, cos'hai, cosa è nato?
 
-FIGARO:                            F
-[piano a Susanna]                  [
-So tutto, lo vidi.                 I
-(forte, ridendo)                   [
-Ah, ah, ah, ah!                    H
 
-IL CONTE:                          C
-Taci là.                           Q
+ANTONIO:
+Ascoltate ...
 
-ANTONIO:                           A
-[a Figaro]                         [
-Cosa ridi?                         W
+LA CONTESSA, SUSANNA,
+IL CONTE & FIGARO:
+Via, parla, di', su.
 
-FIGARO:                            F
-[ad Antonio]                       [
-Tu sei cotto dal sorger del dì.    Y
+ANTONIO:
+Dal balcone che guarda in giardino
+mille cose ogni dì gittar veggio,
+e poc'anzi, può darsi di peggio,
+vidi un uom, signor mio, gittar giù
 
-IL CONTE:                          C
-[ad Antonio]                       [
-Or ripetimi: un uom dal balcone -  N
+IL CONTE:
+Dal balcone?
 
-ANTONIO:                           A
-Dal balcone ...                    F
+ANTONIO:
+[mostrandogli il vaso]
+Vedete i garofani?
 
-IL CONTE:                          C
-In giardino ...                    I
+IL CONTE:
+In giardino?
 
-ANTONIO:                           A
-In giardino ...                    I
+ANTONIO:
+Sì!
 
-SUSANNA, LA CONTESSA & FIGARO:     S
-Ma, signore,                       B
-se in lui parla il vino!           i
+SUSANNA & LA CONTESSA:
+[piano a Figaro]
+Figaro, all'erta.
 
-IL CONTE:                          C
-[ad Antonio]                       [
+IL CONTE:
+Cosa sento!
+
+SUSANNA, LA CONTESSA & FIGARO:
+Costui ci sconcerta,
+quel briaco che viene far qui?
+
+IL CONTE:
+[ad Antonio]
+Dunque un uom ... ma dov'è,
+dov'è gito?
+
+ANTONIO:
+Ratto, ratto, il birbone è fuggito
+e ad un tratto di vista m'uscì.
+
+SUSANNA:
+[piano a Figaro]
+Sai che il paggio ...
+
+FIGARO:
+[piano a Susanna]
+So tutto, lo vidi.
+(forte, ridendo)
+Ah, ah, ah, ah!
+
+IL CONTE:
+Taci là.
+
+ANTONIO:
+[a Figaro]
+Cosa ridi?
+
+FIGARO:
+[ad Antonio]
+Tu sei cotto dal sorger del dì.
+
+IL CONTE:
+[ad Antonio]
+Or ripetimi: un uom dal balcone -
+
+ANTONIO:
+Dal balcone ...
+
+IL CONTE:
+In giardino ...
+
+ANTONIO:
+In giardino ...
+
+SUSANNA, LA CONTESSA & FIGARO:
+Ma, signore,
+se in lui parla il vino!
+
+IL CONTE:
+[ad Antonio]
 Segui pure, né in volto il vedesti?
 
 
-ANTONIO:                           A
-No, nol vidi.                      N
+ANTONIO:
+No, nol vidi.
 
-SUSANNA & LA CONTESSA:             S
-[piano a Figaro]                   [
-Olá, Figaro, ascolta!              Q
+SUSANNA & LA CONTESSA:
+[piano a Figaro]
+Olá, Figaro, ascolta!
 
-FIGARO:                            F
-[ad Antonio]                       [
-Via, piangione, sta zitto una volta,
+FIGARO:
+[ad Antonio]
+Via, piangione, sta zitto una volta
 
-per tre soldi far tanto tumulto!   T
-Giacché il fatto non può star occult
-sono io stesso saltato di lì.      i
+per tre soldi far tanto tumulto!
+Giacché il fatto non può star occul
+sono io stesso saltato di lì.
 
-IL CONTE:                          C
-Chi? Voi stesso?                   W
+IL CONTE:
+Chi? Voi stesso?
 
-SUSANNA & LA CONTESSA:             S
-Che testa! Che ingegno!            W
+SUSANNA & LA CONTESSA:
+Che testa! Che ingegno!
 
-FIGARO:                            F
-[al Conte]                         [
-Che stupor!                        W
+FIGARO:
+[al Conte]
+Che stupor!
 
-ANTONIO:                           A
-[a Figaro]                         [
-Chi? Voi stesso?                   W
+ANTONIO:
+[a Figaro]
+Chi? Voi stesso?
 
-IL CONTE:                          C
-Già creder nol posso.              I
+IL CONTE:
+Già creder nol posso.
 
-ANTONIO:                           A
-[a Figaro]                         [
-Come mai diventaste sì grosso?     H
-Dopo il salto non foste così.      Y
+ANTONIO:
+[a Figaro]
+Come mai diventaste sì grosso?
+Dopo il salto non foste così.
 
-FIGARO:                            F
-A chi salta succede così.          T
+FIGARO:
+A chi salta succede così.
 
-ANTONIO:                           A
-Chi'l direbbe?                     W
+ANTONIO:
+Chi'l direbbe?
 
-SUSANNA & LA CONTESSA:             S
-[a Figaro]                         [
-Ed insiste quel pazzo!             A
+SUSANNA & LA CONTESSA:
+[a Figaro]
+Ed insiste quel pazzo!
 
 
-IL CONTE:                          C
-[ad Antonio]                       [
-Tu che dici?                       W
+IL CONTE:
+[ad Antonio]
+Tu che dici?
 
-ANTONIO:                           A
-A me parve il ragazzo.             T
+ANTONIO:
+A me parve il ragazzo.
 
-IL CONTE:                          C
-Cherubin!                          C
+IL CONTE:
+Cherubin!
 
-SUSANNA & LA CONTESSA:             S
-Maledetto!                         C
+SUSANNA & LA CONTESSA:
+Maledetto!
 
-FIGARO:                            F
-Esso appunto                       B
-da Siviglia a cavallo qui giunto,  h
+FIGARO:
+Esso appunto
+da Siviglia a cavallo qui giunto,
 
-da Siviglia ov'ei forse sarà.      w
+da Siviglia ov'ei forse sarà.
 
-ANTONIO:                           A
-Questo no, questo no,              N
-che il cavallo                     I
-io non vidi saltare di là.         j
+ANTONIO:
+Questo no, questo no,
+che il cavallo
+io non vidi saltare di là.
 
-IL CONTE:                          C
-Che pazienza! Finiam questo ballo! T
+IL CONTE:
+Che pazienza! Finiam questo ballo!
 
-SUSANNA & LA CONTESSA:             S
-Come mai, giusto ciel, finirà?     H
+SUSANNA & LA CONTESSA:
+Come mai, giusto ciel, finirà?
 
-IL CONTE:                          C
-[a Figaro]                         [
-Dunque tu..                        S
+IL CONTE:
+[a Figaro]
+Dunque tu..
 
-FIGARO:                            F
-Saltai giù.                        I
+FIGARO:
+Saltai giù.
 
-IL CONTE:                          C
-Ma perché?                         B
+IL CONTE:
+Ma perché?
 
-FIGARO:                            F
-Il timor ...                       F
+FIGARO:
+Il timor ...
 
-IL CONTE:                          C
-Che timor?                         F
+IL CONTE:
+Che timor?
 
-FIGARO:                            F
-[additando la camera delle serve]  [
-Là rinchiuso                       W
-aspettando quel caro visetto ...   f
-Tippe tappe, un sussurro fuor d'uso,
+FIGARO:
+[additando la camera delle serve]
+Là rinchiuso
+aspettando quel caro visetto ...
+Tippe tappe, un sussurro fuor d'uso
 voi gridaste! lo scritto biglietto,
-saltai giù dal terrore confuso ... I
-[fingendo d'aversi stroppiato      [
+saltai giù dal terrore confuso ...
+[fingendo d'aversi stroppiato
 il piede]
 e stravolto m'ho un nervo del pie'!
 
-ANTONIO:                           A
-[porgendo a Figaro alcune          [
-carte chiuse]                      s
-Vostre dunque saran queste carte   T
-che perdeste ...                   w
+ANTONIO:
+[porgendo a Figaro alcune
+carte chiuse]
+Vostre dunque saran queste carte
+che perdeste ...
 
-IL CONTE:                          C
-[togliendogliele]                  [
-Olà, porgile a me.                 O
-
-
-FIGARO:                            F
-[piano alla Contessa e Susanna]    [
-Sono in trappola.                  N
-
-SUSANNA & LA CONTESSA:             S
-[piano a Figaro]                   [
-Figaro, all'erta.                  F
-
-IL CONTE:                          C
-[apre il foglio e lo chiude tosto] [
-
-Dite un po', questo foglio cos'è?  T
-
-FIGARO:                            F
-[cavando di tasca alcune           [
-carte per guardare]                f
-Tosto, tosto ...                   J
-ne ho tanti - aspettate.           I
-
-ANTONIO:                           A
-Sarà forse il sommario de' debiti. P
-
-FIGARO:                            F
-No, la lista degl'osti.            I
-
-IL CONTE:                          C
-[a Figaro]                         [
-Parlate.                           S
-[ad Antonio]                       [
-E tu lascialo; e parti.            A
-
-SUSANNA, LA CONTESSA & FIGARO:     S
-[ad Antonio]                       [
-Lascialo/Lasciami, e parti.        L
-
-ANTONIO:                           A
-Parto, sì, ma se torno a trovarti- I
+IL CONTE:
+[togliendogliele]
+Olà, porgile a me.
 
 
-FIGARO:                            F
-Vanne, vanne, non temo di te.      G
+FIGARO:
+[piano alla Contessa e Susanna]
+Sono in trappola.
 
-[parte Antonio]                    [
+SUSANNA & LA CONTESSA:
+[piano a Figaro]
+Figaro, all'erta.
 
- IL CONTE:                         C
-[riapre la carta e poi tosto       [
-la chiude; a Figaro]               a
-Dunque ...                         W
+IL CONTE:
+[apre il foglio e lo chiude tosto]
 
-LA CONTESSA:                       C
-[piano a Susanna]                  [
-O ciel! La patente del paggio!     O
+Dite un po', questo foglio cos'è?
 
-SUSANNA:                           S
-[piano a Figaro]                   [
-Giusti Dei, la patente!            G
+FIGARO:
+[cavando di tasca alcune
+carte per guardare]
+Tosto, tosto ...
+ne ho tanti - aspettate.
 
-IL CONTE:                          C
-[a Figaro]                         [
-Coraggio!                          C
+ANTONIO:
+Sarà forse il sommario de' debiti.
 
-FIGARO:                            F
-Uh, che testa! Questa è la patente O
-che poc'anzi il fanciullo mi die'. t
+FIGARO:
+No, la lista degl'osti.
 
-IL CONTE:                          C
-Per che fare?                      W
+IL CONTE:
+[a Figaro]
+Parlate.
+[ad Antonio]
+E tu lascialo; e parti.
 
-FIGARO:                            F
-Vi manca ...                       I
+SUSANNA, LA CONTESSA & FIGARO:
+[ad Antonio]
+Lascialo/Lasciami, e parti.
 
-IL CONTE:                          C
-Vi manca?                          I
+ANTONIO:
+Parto, sì, ma se torno a trovarti-
 
-LA CONTESSA:                       C
-[piano a Susanna]                  [
-Il suggello.                       S
 
-SUSANNA:                           S
-[piano a Figaro]                   [
-Il suggello.                       S
+FIGARO:
+Vanne, vanne, non temo di te.
 
-IL CONTE:                          C
-Rispondi.                          A
+[parte Antonio]
 
-FIGARO:                            F
-È l'usanza ...                     I
+ IL CONTE:
+[riapre la carta e poi tosto
+la chiude; a Figaro]
+Dunque ...
 
-IL CONTE:                          C
-Su via, ti confondi?               D
+LA CONTESSA:
+[piano a Susanna]
+O ciel! La patente del paggio!
 
-FIGARO:                            F
-È l'usanza di porvi il suggello.   I
+SUSANNA:
+[piano a Figaro]
+Giusti Dei, la patente!
 
-IL CONTE:                          C
-[guarda e vede che manca il        [
-sigillo; guasta il foglio          a
-e con somma collera lo getta]      t
-(Questo birbo mi toglie il cervello,
+IL CONTE:
+[a Figaro]
+Coraggio!
+
+FIGARO:
+Uh, che testa! Questa è la patente
+che poc'anzi il fanciullo mi die'.
+
+IL CONTE:
+Per che fare?
+
+FIGARO:
+Vi manca ...
+
+IL CONTE:
+Vi manca?
+
+LA CONTESSA:
+[piano a Susanna]
+Il suggello.
+
+SUSANNA:
+[piano a Figaro]
+Il suggello.
+
+IL CONTE:
+Rispondi.
+
+FIGARO:
+È l'usanza ...
+
+IL CONTE:
+Su via, ti confondi?
+
+FIGARO:
+È l'usanza di porvi il suggello.
+
+IL CONTE:
+[guarda e vede che manca il
+sigillo; guasta il foglio
+e con somma collera lo getta]
+(Questo birbo mi toglie il cervello
 tutto, tutto è un mistero per me.)
 
-SUSANNA & LA CONTESSA:             S
-(Se mi salvo da questa tempesta    (
-più non avvi naufragio per me.)    w
+SUSANNA & LA CONTESSA:
+(Se mi salvo da questa tempesta
+più non avvi naufragio per me.)
 
 FIGARO:
 (Sbuffa invano e la terra calpesta;
@@ -2530,84 +2541,84 @@ poverino ne sa men di me.)
 
 
 
-SCENA XI ED ULTIMA                 S
-I suddetti , Marcellina,           T
-Bartolo e Basilio                  B
+SCENA XI ED ULTIMA
+I suddetti , Marcellina,
+Bartolo e Basilio
 
-MARCELLINA, BASILIO & BARTOLO:     M
-[al Conte]                         [
-Voi signor, che giusto siete       Y
-ci dovete ascoltar.                m
+MARCELLINA, BASILIO & BARTOLO:
+[al Conte]
+Voi signor, che giusto siete
+ci dovete ascoltar.
 
-IL CONTE:                          C
-(Son venuti a vendicarmi           (
-io mi sento a consolar.)           I
+IL CONTE:
+(Son venuti a vendicarmi
+io mi sento a consolar.)
 
-SUSANNA, LA CONTESSA & FIGARO:     S
-(Son venuti a sconcertarmi         (
+SUSANNA, LA CONTESSA & FIGARO:
+(Son venuti a sconcertarmi
 qual rimedio ritrovar?)
 
-FIGARO:                            F
-[al Conte]                         [
-Son tre stolidi, tre pazzi,        T
-cosa mai vengono a far?            w
+FIGARO:
+[al Conte]
+Son tre stolidi, tre pazzi,
+cosa mai vengono a far?
 
-IL CONTE:                          C
-Pian pianin, senza schiamazzi      H
-dica ognun quel che gli par.       l
+IL CONTE:
+Pian pianin, senza schiamazzi
+dica ognun quel che gli par.
 
-MARCELLINA:                        M
-Un impegno nuziale                 T
-ha costui con me contratto.        a
-E pretendo che il contratto        a
-deva meco effettuar.               m
+MARCELLINA:
+Un impegno nuziale
+ha costui con me contratto.
+E pretendo che il contratto
+deva meco effettuar.
 
-SUSANNA, LA CONTESSA & FIGARO:     S
-Come! Come!                        W
+SUSANNA, LA CONTESSA & FIGARO:
+Come! Come!
 
-IL CONTE:                          C
-Olà, silenzio!                     N
-Io son qui per giudicar.           I
+IL CONTE:
+Olà, silenzio!
+Io son qui per giudicar.
 
-BARTOLO:                           B
-Io da lei scelto avvocato          I
-vengo a far le sue difese,         c
-le legittime pretese,              i
-io qui vengo a palesar.            h
+BARTOLO:
+Io da lei scelto avvocato
+vengo a far le sue difese,
+le legittime pretese,
+io qui vengo a palesar.
 
-SUSANNA, LA CONTESSA & FIGARO:     S
-È un birbante!                     H
+SUSANNA, LA CONTESSA & FIGARO:
+È un birbante!
 
-IL CONTE:                          C
-Olà, silenzio!                     D
-Io son qui per giudicar.           I
+IL CONTE:
+Olà, silenzio!
+Io son qui per giudicar.
 
-BASILIO:                           B
-Io, com'uom al mondo cognito       I
-vengo qui per testimonio           c
-del promesso matrimonio            t
-con prestanza di danar.            w
+BASILIO:
+Io, com'uom al mondo cognito
+vengo qui per testimonio
+del promesso matrimonio
+con prestanza di danar.
 
-SUSANNA, LA CONTESSA & FIGARO:     S
-Son tre matti.                     T
+SUSANNA, LA CONTESSA & FIGARO:
+Son tre matti.
 
-IL CONTE:                          C
-Olà, silenzio! Lo vedremo,         B
-il contratto leggeremo,            w
-tutto in ordin deve andar.         e
+IL CONTE:
+Olà, silenzio! Lo vedremo,
+il contratto leggeremo,
+tutto in ordin deve andar.
 
-SUSANNA, LA CONTESSA & FIGARO:     S
-Son confusa/o, son stordita/o,     I
-disperata/o, sbalordita/o.         d
-Certo un diavol dell'inferno       I
-qui li ha fatti capitar.           w
+SUSANNA, LA CONTESSA & FIGARO:
+Son confusa/o, son stordita/o,
+disperata/o, sbalordita/o.
+Certo un diavol dell'inferno
+qui li ha fatti capitar.
 
-MARCELLINA, BASILIO,               M
-BARTOLO & IL CONTE:                B
-Che bel colpo, che bel caso!       W
-È cresciuto a tutti il naso,       I
-qualche nume a noi propizio        w
-qui ci/li ha fatti capitar.        t
+MARCELLINA, BASILIO,
+BARTOLO & IL CONTE:
+Che bel colpo, che bel caso!
+È cresciuto a tutti il naso,
+qualche nume a noi propizio
+qui ci/li ha fatti capitar.
 
 
 
@@ -2651,7 +2662,7 @@ che ti attenda in giardino.
 
 IL CONTE:
 Saprò se Cherubino
-era giunto a Siviglia. A tale oggett
+era giunto a Siviglia. A tale oggetto
 ho mandato Basilio ...
 
 SUSANNA:
@@ -2670,7 +2681,7 @@ SUSANNA:
 Oh Dio ... non oso!
 
 LA CONTESSA:
-Pensa, ch'è in tua mano il mio ripos
+Pensa, ch'è in tua mano il mio riposo
 [esce]
 
 IL CONTE:
@@ -2792,7 +2803,7 @@ attenderà il fiaschetto.
 
 SUSANNA:
 Eh, fu un pretesto.
-Parlato io non avrei senza di questo
+Parlato io non avrei senza di questo.
 
 IL CONTE:
 [vuole baciarla]
@@ -2970,7 +2981,7 @@ due mille pezzi duri.
 
 FIGARO:
 Son gentiluomo, e senza
-l'assenso de' miei nobili parenti ..
+l'assenso de' miei nobili parenti ...
 
 IL CONTE:
 Dove sono? Chi sono?
@@ -3222,7 +3233,7 @@ resister or sa.
 
 
 SCENA VI
-Susanna, Marcellina, Figaro e Bartol
+Susanna, Marcellina, Figaro e Bartolo
 
 Recitativo
 
@@ -3248,7 +3259,7 @@ del danar che a me devi,
 ed è tua dote.
 
 SUSANNA:
-[getta per terra una borsa di danari
+[getta per terra una borsa di danari]
 
 Prendi ancor questa borsa.
 
@@ -3323,7 +3334,7 @@ LA CONTESSA:
 Sotto i pini del boschetto.
 
 SUSANNA:
-"Sotto i pini ... del boschetto ...
+Sotto i pini ... del boschetto ... 
 
 LA CONTESSA:
 Ei già il resto capirà.
@@ -3351,7 +3362,7 @@ SUSANNA:
 di quel della patente.
 
 LA CONTESSA:
-Presto nascondi, io sento venir gent
+Presto nascondi, io sento venir gente
 [Susanna si pone
 il biglietto nel seno.]
 
@@ -3365,7 +3376,7 @@ ch'ha l'aria sì modesta?
 
 LA CONTESSA:
 Onoriamo la bella forestiera,
-venite qui ... datemi i vostri fiori
+venite qui ... datemi i vostri fiori.
 [prende i fiori di Cherubino
 e lo bacia in fronte]
 Come arrossì ...
@@ -3465,12 +3476,7 @@ Marcellina, Bartolo,
 Antonio, Barbarina, cacciatori,
 contadini e contadine
 
-[Due giovinette che portano il cappe
-un bianco velo, due altre i guanti e
-Marcellina. Due altre giovinette che
-Bartolo con Susanna. Due giovinette
-Bartolo conduce la Susanna al Conte
-cappello ecc.  Figaro conduce Marcel
+[Due giovinette che portano il cappel
 
 [Two girls carry a white bride’s hat
 
@@ -3488,31 +3494,21 @@ TUTTI:
 Cantiamo, lodiamo
 sì saggio signor!
 
-[I figuranti ballano. Susanna essend
-per l'abito, gli mostra il biglietti
-spettatori alla testa, dove pare che
-il biglietto. Il Conte se lo mette f
-fa una riverenza. Figaro viene a ric
-s'alza un po' più tardi. Bartolo vie
+[I figuranti ballano. Susanna essendo
 
-[They dance.  Susanna, while kneelin
-shows him the letter, then puts her
-adjust her hat, and gives him the ti
-clothes, Susanna rises, and curtsies
-dance the fandango. Marcellina rises
-her from the Countess.]
+[They dance.  Susanna, while kneeling
 
 IL CONTE:
 [cava il biglietto e nel aprirlo
 si punge il dito]
 Eh già, la solita usanza,
-le donne ficcan gli aghi in ogni loc
+le donne ficcan gli aghi in ogni loco
 Ah, ah, capisco il gioco.
 
 FIGARO:
 [vede tutto e dice a Susanna]
 Un biglietto amoroso
-che gli diè nel passar qualche galan
+che gli diè nel passar qualche galant
 ed era sigillato d'una spilla,
 ond'ei si punse il dito,
 [Il Conte legge, bacia il biglietto,
@@ -3525,12 +3521,12 @@ oh, che stordito!
 IL CONTE:
 Andate, amici! E sia per questa sera
 disposto l'apparato nuziale
-colla più ricca pompa; io vo' che si
-magnifica la feste, e canti e fuochi
+colla più ricca pompa; io vo' che sia
+magnifica la feste, e canti e fuochi,
 
 e gran cena, e gran ballo,
 e ognuno impari
-com'io tratto color che a me son car
+com'io tratto color che a me son cari
 
 CORO:
 Amanti costanti,
@@ -3573,7 +3569,7 @@ MARCELLINA:
 Flemma, flemma, e poi flemma!
 Il fatto è serio;
 e pensarci convien, ma pensa un poco
-che ancor non sai di chi prenda gioc
+che ancor non sai di chi prenda gioco
 
 FIGARO:
 Ah, quella spilla, oh madre,
@@ -3598,7 +3594,7 @@ Recitativo
 
 MARCELLINA:
 Presto avvertiam Susanna:
-io la credo innocente: quella faccia
+io la credo innocente: quella faccia,
 quell'aria di modestia ...
 è caso ancora
 ch'ella non fosse ...
@@ -3636,7 +3632,7 @@ Voi da questi contorni
 non vi scostate; intanto
 io vado a dar certi ordini,
 e torno in pochi istanti.
-A un fischio mio correte tutti quant
+A un fischio mio correte tutti quanti
 [Partono tutti eccettuati
 Bartolo e Basilio.]
 
@@ -3818,7 +3814,7 @@ Vieni, ben mio,
 tra queste piante ascose,
 ti vo' la fronte incoronar di rose.
 
-[Susanna parte al destro, e la Conte
+[Susanna parte al destro, e la Contes
 entra, travestite come Susanna]
 
 
@@ -4312,7 +4308,7 @@ No, no, no!
 
 LA CONTESSA:
 [esce dall'altra nicchia e vuole
-inginocchiarsi, il Conte nol permett
+inginocchiarsi, il Conte nol permette
 Almeno io per loro
 perdono otterrò.
 
@@ -4343,5 +4339,4 @@ Sposi, amici, al ballo, al gioco,
 alle mine date foco!
 Ed al suon di lieta marcia
 corriam tutti a festeggiar!
-
 
