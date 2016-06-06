@@ -616,32 +616,21 @@ I talk of love to myself!
 
 
 CHERUBINO:
-[vedendo il Conte da lontano,
-torna indietro impaurito e si
-nasconde dietro la sedia]
 Ah, son perduto!
+"Here he comes!"
 
-SUSANNA:
-[cerca di mascherar Cherubino]
-Che timor! - Il Conte! - Misera me!
-
-IL CONTE: [entrando]
+IL CONTE:
 Susanna, mi sembri
 agitata e confusa.
+"Susanna?  You look upset"
 
 SUSANNA:
 Signor ... io chiedo scusa ...
 ma ... se mai ... qui sorpresa ...
 per carità! Partite.
+?no caption?
 
-IL CONTE:
-[si mette a sedere sulla sedia,
-prende Susanna per la mano]
-Un momento, e ti lascio,
-odi.
 
-SUSANNA:
-Non odo nulla.
 
 IL CONTE:
 Due parole. Tu sai
@@ -655,6 +644,8 @@ se per pochi momenti
 meco in giardin
 sull'imbrunir del giorno ...
 ah, per questo favore io pagherei-
+"You know our next film involves a lot of shoots on location. This will be a big deal for Figaro's career. You and he are going to be spending a lot of time in this caravan.  A lot of fun times... Maybe you and I should have a little fun in here before we leave?  Would be good for your career...."
+
 
 BASILIO:
 [dentro la scena]
@@ -975,7 +966,7 @@ IL CONTE:
 Cosa si brama?
 
 FIGARO:
-"Le nostre nozze 			     Ou  r wedding"
+"Le nostre nozze
 si son già stabilite.
 Or a voi tocca
 costei che un vostro dono
@@ -1395,7 +1386,7 @@ LA CONTESSA:
 Più indietro.
 
 SUSANNA:
-"Cospetto				     Heaven  s!"
+"Cospetto
 Ha il braccio più candido del mio!
 Qualche ragazza ...
 
@@ -1407,7 +1398,7 @@ d'inglese taffetà:
 ch'è sullo scrigno:
 
 CHERUBINO:
-"Susanna scherza; 			     Su  sanna mo"
+"Susanna scherza;
 ed io frattanto parto..
 
 LA CONTESSA:
@@ -3271,7 +3262,7 @@ FIGARO:
 Bravi,
 gittate pur ch'io piglio ognora.
 
-"SUSANNA:					 SUSANNA:"
+"SUSANNA:
 Chi al par di me contenta!
 
 FIGARO, BARTOLO & MARCELLINA:
@@ -3415,7 +3406,7 @@ FIGARO:
 Senza fallo.
 Andiamo dunque, andiamo.
 
-"IL CONTE:					 COUNT:"
+"IL CONTE:
 E intanto a cavallo
 di galoppo a Siviglia
 andava il paggio.
