@@ -2,8 +2,10 @@ pazzo.
 nozze
 Grazie 
 guarda
-madama?
-Il Conte
+
+Il Conte -- the director
+La contessa, madama -- the star, our leading lady
+
 presto - quickly
 addio
 Ascolta ...
@@ -20,6 +22,14 @@ certe mezz'ore ...
 Coraggio
 padrone
 pazzo
+
+un biglietto
+
+
+(programme idea:  keeping track of the bits of paper
+- marcellina contract
+- fake love note
+- cherubino contract)
 
 
 

@@ -644,79 +644,65 @@ se per pochi momenti
 meco in giardin
 sull'imbrunir del giorno ...
 ah, per questo favore io pagherei-
-"You know our next film involves a lot of shoots on location. This will be a big deal for Figaro's career. You and he are going to be spending a lot of time in this caravan.  A lot of fun times... Maybe you and I should have a little fun in here before we leave?  Would be good for your career...."
+"You know our next film involves a lot of shoots on location. This will be a big deal for Figaro's career. You and he are going to be spending a lot of time in this caravan.  A lot of fun times... Maybe you and I should have a little fun in here before we leave?  Would be good for your career..."
 
 
 BASILIO:
-[dentro la scena]
 È uscito poco fa.
-
-IL CONTE:
-Chi parla?
-
-SUSANNA:
-Oh Dei!
+Where's the count?
 
 IL CONTE:
 Esci, e alcun non entri.
+Get rid of him!
+
 
 SUSANNA:
 Ch'io vi lasci qui solo?
+You can't stay here!
 
-BASILIO:
-[dentro]
-Da madama ei sarà: vado a cercarlo.
 
 IL CONTE:
-[addita la sedia]
 Qui dietro mi porrò.
-
-SUSANNA:
-Non vi celate.
-
-IL CONTE:
-Taci, e cerca ch'ei parta.
-
-SUSANNA:
-Oimè! Che fate?
-
-[Il Conte vuol nascondersi dietro i
-
-[The Count goes to hide behind the
+I'll hide under here
 
 
 
+# SCENA VII
 
-
-
-SCENA VII
-I suddetti e Basilio
 
 BASILIO:
 Susanna, il ciel vi salvi.
 Avreste a caso veduto il Conte?
+Susanna, babe, have you seen Almaviva?
+
 
 SUSANNA:
-E cosa
-deve far meco il Conte? -
+E cosa deve far meco il Conte? -
 Animo, uscite.
+I haven't seen him!  Why would you think that?
+
+
 
 BASILIO:
 Aspettate, sentite,
 Figaro di lui cerca.
+Figaro's looking for him
+
+
 
 SUSANNA:
 (Oh cielo!) Ei cerca
 chi dopo voi più l'odia.
+Why? The two of you really have it in for Figaro!
 
-IL CONTE:
-(Veggiam come mi serve.)
 
 BASILIO:
 Io non ho mai nella moral sentito
 ch'uno ch'ami la moglie
 odi il marito.
 Per dir che il Conte v'ama ...
+Hey babe, just cos the boss is sweet on you doesn't mean he don't like your husband.  Know what I mean?
+
 
 SUSANNA:
 Sortite, vil ministro
@@ -724,6 +710,10 @@ dell'altrui sfrenatezza:
 Io non ho d'uopo
 della vostra morale,
 del Conte, del suo amor ...
+?literal?
+"Get out, you vile panderer of slanders!  I don't want to hear any more of your morals, or of Almaviva's affections"
+
+
 
 BASILIO:
 Non c'è alcun male.
@@ -734,9 +724,12 @@ come fan tutte quante,
 un signor liberal,
 prudente, e saggio,
 a un giovinastro, a un paggio ...
+Hey to each their own!  But I'd have thought you would prefer an affair with the boss of the studio rather than with some work experience kid.  What's this tape? 
+
 
 SUSANNA:
 A Cherubino!
+
 
 BASILIO:
 A Cherubino! A Cherubin d'amore
@@ -756,54 +749,59 @@ Ditemi in confidenza; io sono amico
 ed altrui nulla dico;
 è per voi, per madama ...
 
+Come on, you can tell me. Did he make it for you, or was it another one of his tributes to our leading lady?
+
 
 SUSANNA:
 Scellerato!
 E perché andate voi
 tai menzogne spargendo?
+Go sell it to the National Enquirer!
+
 
 BASILIO:
 Io! Che ingiustizia!
 Quel che compro io vendo.
 A quel che tutti dicono
 io non aggiungo un pelo.
+Hey I'm just repeating what everyone's saying!
+
+
 
 IL CONTE:
-[sortendo]
 Come, che dicon tutti!
+And what exactly is it that everyone is saying?
 
-BASILIO:
-Oh bella!
 
-SUSANNA:
-Oh cielo!
 
-N. 7 Terzetto
+## N. 7 Terzetto
 
 IL CONTE:
 [a Basilio]
 Cosa sento! Tosto andate,
 e scacciate il seduttor.
+You know my rule about on-set relationships!  Where is he?
+
+
 
 BASILIO:
 In mal punto son qui giunto,
 perdonate, oh mio signor.
 
+Ah, sorry, I obviously came at a bad time...
+
+
 SUSANNA:
 Che ruina, me meschina,
-[quasi svenuta,
 li tentando a distrarre]
 son oppressa dal dolor.
+I don't feel well
 
-BASILIO & IL CONTE:
-[sostenendola]
-Ah già svien la poverina!
-Come, oh Dio, le batte il cor!
 
 BASILIO:
-[approssimandosi al sedile
-in atto di farla sedere]
 Pian pianin su questo seggio.
+Put her on the bed...
+
 
 SUSANNA:
 Dove sono!
@@ -811,90 +809,100 @@ Dove sono!
 Cosa veggio!
 [staccandosi da tutti due]
 Che insolenza, andate fuor.
+Actually I'm fine now!
+
 
 BASILIO:
 Siamo qui per aiutarvi,
 è sicuro il vostro onor.
-
 IL CONTE:
 Siamo qui per aiutarti,
 non turbarti, oh mio tesor.
+Take it easy, we're only trying to help
+
 
 BASILIO:
 [al Conte]
 Ah, del paggio quel che ho detto
 era solo un mio sospetto.
+Listen, the rumours about the boy, I was just repeating what I heard
+
 
 SUSANNA:
 È un'insidia, una perfidia,
 non credete all'impostor.
+No-one should ever listen to you!
+
 
 IL CONTE:
 Parta, parta il damerino!
+Well, I've already fired him!
+
+
 
 SUSANNA & BASILIO:
 Poverino!
+Poor kid!
+
+
+
 
 IL CONTE:
-Poverino!
-Ma da me sorpreso ancor.
+Poor kid?  Poor kid? I was just in the costume department the other day, one of the extras is in there with half her clothes off, I pull back a bunch of costume sitting, and what do I find?  Cherubino, naked!
 
+or:
 
-SUSANNA & BASILIO:
-Come! Che!
+Poor kid? Poor kid?  The other day I notice one of the extras' dresses doesn't look right, so I pull it up, and what do I find under there?  The kid!
 
-IL CONTE:
-Da tua cugina
-l'uscio ier trovai rinchiuso;
-picchio, m'apre Barbarina
-paurosa fuor dell'uso.
-Io dal muso insospettito,
-guardo, cerco in ogni sito,
-ed alzando pian pianino
-il tappetto al tavolino
-vedo il paggio ...
-[imita il gesto colla vestaglia
-e scopre il paggio]
-Ah! cosa veggio!
-
-SUSANNA:
-Ah! crude stelle!
 
 BASILIO:
 Ah! meglio ancora!
+This keeps getting better and better...
+
 
 IL CONTE:
 Onestissima signora!
 Or capisco come va!
+I see what's going on!
+
 
 SUSANNA:
 Accader non può di peggio,
 giusti Dei! Che mai sarà!
-
 BASILIO: [ridendo]
 Così fan tutte le belle;
 non c'è alcuna novità!
+?
+
+
 
 Recitativo
+
 
 IL CONTE:
 Basilio, in traccia tosto
 di Figaro volate:
-[addita Cherubino che non
-si muove di loco]
+[addita Cherubino che non si muove di loco]
 io vo' ch'ei veda ...
+Go fetch Figaro.  I want him to see this.
+
 
 SUSANNA:
 Ed io che senta; andate!
+Yeah you go.  I want him to hear this!
+
 
 IL CONTE:
 Restate: che baldanza!
 E quale scusa
 se la colpa è evidente?
+Oh really?  And what excuse will you give him?
 
 
 SUSANNA:
 Non ha d'uopo di scusa un'innocente
+Innocence needs no excuse
+
 
 IL CONTE:
 Ma costui quando venne?
@@ -908,77 +916,52 @@ a intercedergli grazia.
 Il vostro arrivo
 in scompiglio lo pose,
 ed allor in quel loco si nascose.
+He's been in here the whole time.  He was asking me for help trying to keep his job... (?thrown off set).  And he hid in there when you came in.
 
-IL CONTE:
-Ma s'io stesso m'assisi
-quando in camera entrai!
-
-CHERUBINO:
-Ed allor di dietro io mi celai.
-
-IL CONTE:
-E quando io là mi posi?
-
-CHERUBINO:
-Allor io pian mi volsi,
-e qui m'ascosi.
 
 IL CONTE:
 [a Susanna]
 Oh ciel, dunque ha sentito
 tutto quello ch'io ti dicea!
+So he heard everything!
+
 
 CHERUBINO:
 Feci per non sentir quanto potea.
+Hey I did my best to not hear anything at all!
+
 
 IL CONTE:
-Ah perfidia!
-
-BASILIO:
-Frenatevi: vien gente!
-
-IL CONTE:
-[tira Cherubino giù dalla sedia]
 E voi restate qui, picciol serpente
+You stay right here you piece of shit!
 
-SCENA VIII
-Recitativo
+
+
+
+# SCENA VIII
+
 
 IL CONTE:
 [a Figaro]
 Cos'è questa commedia?
+What's going on here?
 
-FIGARO:
-[piano a Susanna]
-Eccoci in danza:
-Secondami, cor mio.
-
-SUSANNA:
-[piano a Figaro]
-(Non ci ho speranza.)
 
 FIGARO:
 Signor, non isdegnate
 questo del nostro affetto
 meritato tributo:
-
-IL CONTE:
-Cosa si brama?
-
-FIGARO:
-"Le nostre nozze
+Le nostre nozze
 si son già stabilite.
 Or a voi tocca
 costei che un vostro dono
 illibata serbò, coprir di questa,
-
 simbolo d'onestà, candida vesta.
+"You know we're planning our wedding during the wrap party...
+? will you be father of the bride?
 
-TUTTI:
-Evviva, evviva, evviva!
 
 IL CONTE:
-[a Figaro e Susanna]
 A voi prometto
 compier la ceremonia:
 chiedo sol breve indugio;
@@ -989,22 +972,23 @@ rendervi appien felici.
 (Marcellina si trovi.)
 Andate, amici.
 
-CHERUBINO:
-[s'inginocchia]
-Perdono, mio signor ...
+I said I'd do it, and I will, as long as we finish shooting today.  And we'll have to run it past Marcellina for Health & Safety of course...
 
-IL CONTE:
-Nol meritate.
+
 
 SUSANNA:
 Egli è ancora fanciullo!
+Give him a break!
 
 IL CONTE:
 Men di quel che tu credi.
+He doesn't deserve one...
+
 
 CHERUBINO:
 È ver, mancai;
 ma dal mio labbro alfine ...
+I know I don't.  But look, about what I heard just now. I'll never breathe a word to...
 
 IL CONTE:
 Ben ben; io vi perdono.
@@ -1013,30 +997,34 @@ vacante è un posto
 d'uffizial nel reggimento mio;
 io scelgo voi;
 partite tosto: addio.
-[Il Conte vuol partire,
-Susanna e Figaro l'arrestano.]
+OK OK you're not fired.  Tell you what, you wanted to learn about the movie business?  We need more orcs for the big fantasy epic down in New Zealand.  You can leave today.
+
 
 SUSANNA & FIGARO:
 Ah, fin domani sol ...
+Let's wait til tomorrow.
+
 
 IL CONTE:
 No, parta tosto.
+today.
+
 
 FIGARO:
 Ehi, capitano,
 a me pure la mano;
-[piano a Cherubino]
 io vo' parlarti
 pria che tu parta. Addio,
 picciolo Cherubino;
 come cangia in un punto
 il tuo destino.
 
-N. 10 Aria
+
+
+## N. 10 Aria
 
 FIGARO:
-Non più andrai, farfallone
-         amoroso,
+Non più andrai, farfallone amoroso,
 notte e giorno d'intorno girando;
 delle belle turbando il riposo
 Narcisetto, Adoncino d'amor.
@@ -1047,8 +1035,7 @@ quella chioma, quell'aria brillante
 quel vermiglio donnesco color.
 Tra guerrieri, poffar Bacco!
 Gran mustacchi, stretto sacco.
-Schioppo in spalla, sciabla al
-     fianco,
+Schioppo in spalla, sciabla al fianco,
 collo dritto, muso franco,
 un gran casco, o un gran turbante,
 molto onor, poco contante!
@@ -1063,37 +1050,39 @@ all'orecchio fan fischiar.
 Cherubino alla vittoria:
 alla gloria militar!
 [Partono tutti alla militare.]
+(? depends on orcs vs military film vs war correspondent)
 
 
-ATTO SECONDO
 
-Camera ricca con alcova
-e tre porte
+# ATTO SECONDO
 
-SCENA I
-La Contessa sola: poi Susanna e
-poi Figaro
+# SCENA I
 
-N. 11. Cavatina
+## N. 11. Cavatina
 
 LA CONTESSA:
 Porgi, amor, qualche ristoro
 al mio duolo, a' miei sospir.
 O mi rendi il mio tesoro,
 o mi lascia almen morir.
+(literal)
+O Love, give me some remedy
+For my pain, for my sighs!
+Either return my love to me
+Or at least let me die.
 
-Recitativo
+
 
 LA CONTESSA:
 Vieni, cara Susanna,
 finiscimi l'istoria!
+Out with it.  Tell me the rest of the story!
 
-SUSANNA:
-[entra]
-È già finita.
 
 LA CONTESSA:
 Dunque volle sedurti?
+So he tried to seduce you?
+
 
 SUSANNA:
 Oh, il signor Conte
@@ -1101,37 +1090,43 @@ non fa tai complimenti
 colle donne mie pari;
 egli venne a contratto di danari.
 
-LA CONTESSA:
-Ah, il crudel più non m'ama!
+For him, I don't think it's about seduction, with girls like me.  He's just
+after another notch on his bedpost
+
 
 SUSANNA:
-E come poi
-è geloso di voi?
+E come poi è geloso di voi?
+If he doesn't love you, why is he so jealous?
+
+
 
 LA CONTESSA:
 Come lo sono
 i moderni mariti: per sistema
 infedeli, per genio capricciosi,
 e per orgoglio poi tutti gelosi.
+Men!
+
 Ma se Figaro t'ama ...
 ei sol potria ...
+But Figaro is different...
 
-FIGARO:
-[cantando entro la scena]
-La la la ...
 
-SUSANNA:
-Eccolo: vieni, amico.
-Madama impaziente ...
+
 
 FIGARO:
 A voi non tocca
 stare in pena per questo.
+Take it easy girls!
+
+
 
 SUSANNA:
 Ed hai coraggio
 di trattar scherzando
 un negozio sì serio?
+Don't joke about this!
+
 
 
 FIGARO:
@@ -1144,10 +1139,16 @@ di certo appuntamento
 [alla Contessa]
 che per l'ora del ballo
 a un amante voi deste ...
+Hey, I can make jokes and come up with brilliant plans at the same time.  Here's the deal.  We'll give Basilio a letter, ostensibly written by Rosina to one of her lovers.
+
+
 
 LA CONTESSA:
-O ciel! Che sento!
-Ad un uom sì geloso! ...
+O ciel! Che sento! Ad un uom sì geloso! ...
+But my husband is so jealous!
+
+
+
 
 FIGARO:
 Ancora meglio.
@@ -1161,10 +1162,15 @@ ch'ei di fare a me tenta
 altri a lui faccia;
 onde qua perda il tempo,
 ivi la traccia.
+Exactly!  A little taste of his own medicine.  And it'll buy us time...
+
+
 
 SUSANNA:
 È ver, ma in di lui vece
 s'opporrà Marcellina.
+What about Marcellina?
+
 
 FIGARO:
 Aspetta: al Conte
@@ -1179,20 +1185,29 @@ Questa è l'unica strada
 onde monsù sorpreso da madama
 sia costretto a far poi
 quel che si brama.
+But wait, there's more.  We'll tell him that
+you're going to meet him on the green stage
+later tonight.  But we'll actually send
+Cherubino, dressed up as you, and then we'll
+organise for his leading lady to catch him
+in the act.
 
-LA CONTESSA:
-[a Susanna]
-Che ti par?
 
 SUSANNA:
 Non c'è mal.
+Yeah. Foolproof.
+
 
 LA CONTESSA:
 Nel nostro caso ...
+We don't have a lot of other choices...
+
 
 SUSANNA:
 Quand'egli è persuaso ...
 e dove è il tempo?
+When will we find time for all this?
+
 
 FIGARO:
 Ito è il Conte alla caccia;
@@ -1202,21 +1217,27 @@ io vado e tosto
 Cherubino vi mando; lascio a voi
 la cura di vestirlo.
 
+He's out for lunch, so he won't be back for a couple of hours.  I'll send
+Cherubino over to you, and you can take care of the disguises.  After all,
+that's your speciality!
+
 
 LA CONTESSA:
 E poi? ...
+Then what?
+
 
 FIGARO:
 E poi ...
 Se vuol ballare signor Contino,
 il chitarrino le suonerò.
-[parte]
+Then me an' the director, we're gonna dance.
 
 
-SCENA II
-La Contessa, Susanna, poi Cherubino
 
-Recitativo
+# SCENA II
+
+
 LA CONTESSA:
 Quanto duolmi, Susanna,
 che questo giovinotto
@@ -1225,6 +1246,8 @@ le stravaganze udite! Ah tu non sai
 Ma per qual causa mai
 Da me stessa ei non venne? ...
 Dov'è la canzonetta?
+Poor Cherubino.  Why didn't he just come to me with his problems...  Hey, where's this tape?
+
 
 SUSANNA:
 Eccola: appunto
@@ -1232,64 +1255,96 @@ facciam che ce la canti.
 Zitto, vien gente! È desso:
 avanti, avanti,
 signor uffiziale.
+Here he is.  Come on in Private Ryan!
+
+
 
 CHERUBINO:
 Ah, non chiamarmi
 con nome sì fatale! Ei mi rammenta
 che abbandonar degg'io
 comare tanto buona ...
+Ugh, don't remind me.  I'm just sad to be away from such an inspirational, talented actress
+
 
 SUSANNA:
 E tanto bella!
+And beautiful too...
+
 
 CHERUBINO:
 Ah sì ... certo ...
+Well.  Of course...
+
 
 SUSANNA:
 'Ah sì ... certo' ... Ipocritone!
 Via presto la canzone
 che stamane a me deste
 a madama cantate.
+Well of course.  Why don't you show us your film?
+
 
 LA CONTESSA:
 Chi n'è l'autor?
+Who's the director?
+
 
 SUSANNA:
-[additando Cherubino]
 Guardate: egli ha due braccia
 di rossor sulla faccia.
-
-CHERUBINO:
-Io sono sì tremante ...
-ma se madama vuole ...
-
-SUSANNA:
-Lo vuole, sì, lo vuol.
-Manco parole.
+He's the one currently blushing.
 
 
 
-N. 12. Arietta
+## N. 12. Arietta
 
 CHERUBINO:
 Voi che sapete che cosa è amor,
 donne, vedete s'io l'ho nel cor.
 Quello ch'io provo vi ridirò,
 è per me nuovo, capir nol so.
+
+You, ladies, who know what love is,
+Look to see if I have it in my heart!
+I'll tell you what I'm going through,
+It's new to me; I can't understand it.
+
+
 Sento un affetto pien di desir,
 ch'ora è diletto, ch'ora è martir.
 Gelo e poi sento l'alma avvampar,
 e in un momento torno a gelar.
 Ricerco un bene fuori di me,
-
 non so chi'l tiene, non so cos'è.
+
+I feel a warmth full of desire
+That now is pleasure, now is agony.
+I freeze, and then feel my soul burning,
+And in another moment go back to freezing.
+I look for something beautiful outside of myself,
+I don't know who has it, I don't know what it is.
+
 
 Sospiro e gemo senza voler,
 palpito e tremo senza saper.
 Non trovo pace notte né dì,
 ma pur mi piace languir così.
+
+I sigh and groan without wanting to,
+I quiver and tremble without knowing it,
+I find no peace night or day,
+And yet I like suffering this way!
+
+
 Voi che sapete che cosa è amor,
 donne, vedete s'io l'ho nel cor.
+
+You, ladies, who know what love is,
+Look to see if I have it in my heart!
+
+
+
 
 Recitativo
 
@@ -1297,79 +1352,64 @@ LA CONTESSA:
 Bravo! Che bella voce!
 Io non sapea
 che cantaste sì bene.
+I didn't know you were such an auteur
+
 
 SUSANNA:
 Oh, in verità
 egli fa tutto ben quello ch'ei fa.
 Presto a noi, bel soldato.
 Figaro v'informò ...
+Yes he takes it very seriously.  That and coffee and fixed-wheel bikes.  Now, about our plan...
+
 
 CHERUBINO:
 Tutto mi disse.
 
 SUSANNA:
-[si misura con Cherubino]
 Lasciatemi veder. Andrà benissimo!
 Siam d'uguale statura ...
 giù quel manto.
-[gli cava il manto]
+Let's have a look.  We're about the same size...  You do have quite a feminine build don't you?
 
-LA CONTESSA:
-Che fai?
-
-SUSANNA:
-Niente paura.
 
 LA CONTESSA:
 E se qualcuno entrasse?
+What if someone comes in?
+
 
 SUSANNA:
 Entri, che mal facciamo?
 Ma come poi acconciargli i cappelli
+Don't worry about it, we're not doing anything wrong.  Now what are we going to do with this hair?
+
+
 
 LA CONTESSA:
 Una mia cuffia
 prendi nel gabinetto.
 Presto!
+I have a hat...
 
-[Susanna va nel gabinetto a pigliar
 
-[Susanna goes into the cupboard to
-
-Che carta è quella?
 
 CHERUBINO:
 La patente.
+It's my employment contract for the war film.
+
+
 
 LA CONTESSA:
-Che sollecita gente!
+Dalla fretta obliato hanno il sigillo.
+Looks like they forgot to sign it.
 
-CHERUBINO:
-L'ebbi or da Basilio.
-
-LA CONTESSA:
-[gliela rende]
-Dalla fretta
-obliato hanno il sigillo.
-
-SUSANNA:
-[sorte]
-Il sigillo di che?
-
-LA CONTESSA:
-Della patente.
-
-SUSANNA:
-Cospetto! Che premura!
-Ecco la cuffia.
-
-LA CONTESSA:
-Spicciati: va bene!
 
 SUSANNA:
 Ma se ne sono io medesma gelosa;
 ehi, serpentello,
 volete tralasciar d'esser sì bello!
+I'm almost jealous.  Stop being so beautiful!
+
 
 LA CONTESSA:
 Finiam le ragazzate:
@@ -1377,18 +1417,21 @@ or quelle maniche
 oltre il gomito gli alza,
 onde più agiatamente
 l'abita gli si adatti.
+joke?
 
-SUSANNA:
-[eseguisce]
-Ecco.
 
 LA CONTESSA:
 Più indietro.
+
 
 SUSANNA:
 "Cospetto
 Ha il braccio più candido del mio!
 Qualche ragazza ...
+?crying game gag?
+
+
+
 
 LA CONTESSA:
 E segui a far la pazza?
@@ -1396,33 +1439,29 @@ Va nel mio gabinettto,
 e prendi un poco
 d'inglese taffetà:
 ch'è sullo scrigno:
+Let's get on with this now. Go off to wardrobe and get him something more retro...
+
 
 CHERUBINO:
-"Susanna scherza;
-ed io frattanto parto..
+"Susanna scherza; ed io frattanto parto..
+Susanna's laughing at me.  And I have to leave, so soon...
+
 
 LA CONTESSA:
 Poverin! Che sventura!
+Oh you poor kid.  What bad luck.
 
-CHERUBINO:
-Oh, me infelice!
 
-LA CONTESSA:
-Or piange ...
+
 
 CHERUBINO:
 Oh ciel! Perché morir non lice!
 Forse vicino all'ultimo momento ...
 questa bocca ...
+This might be our last moments together...
 
-LA CONTESSA:
-Siate saggio; cos'è questa follia?
-[si sente picchiare alla porta.]
-Chi picchia alla mia porta?
 
-IL CONTE:
-[fuori della porta]
-Perché è chiusa?
+
 
 LA CONTESSA:
 Il mio sposo, oh Dei! Son morta!
@@ -1430,129 +1469,110 @@ Voi qui senza mantello!
 In quello stato!
 Un ricevuto foglio ...
 la sua gran gelosia!
+My husband!  And you here!  And he'll have received the letter.  The other letter.
 
-IL CONTE:
-Cosa indugiate?
 
 LA CONTESSA:
 Son sola ... anzi son sola ...
+It's just me...
+
 
 IL CONTE:
 E a chi parlate?
+Who are you talking to?
+
 
 LA CONTESSA:
 A voi ... certo ...
 a voi stesso ...
+Um, no-one. You?
+
 
 CHERUBINO:
 Dopo quel ch'è successo,
 il suo furore ...
 non trovo altro consiglio!
-[entra nel gabinetto e chiude]
+I"m going to hide.  That's worked well every time so far.
 
-LA CONTESSA:
-[prende la chiave]
-Ah, mi difenda il cielo
-in tal periglio!
-[corre ad aprire al Conte]
 
-SCENA III
-La Contessa ed il Conte
-da cacciatore
+
+
+# SCENA III
 
 IL CONTE:
-Che novità! Non fu mai
-vostra usanza
+Che novità! Non fu mai vostra usanza
 di rinchiudervi in stanza!
+Since when do you lock doors?
+
+
+
 
 LA CONTESSA:
 È ver; ma io ...
 io stava qui mettendo ...
+I was just changing...
 
-IL CONTE:
-Via, mettendo ...
 
 LA CONTESSA:
  ... certe robe ...
 era meco la Susanna ...
 che in sua camera è andata.
+Susanna was with me.
+
+
 
 IL CONTE:
 Ad ogni modo
 voi non siete tranquilla.
 Guardate questo foglio!
+You're out of sorts in any case.  Now let's talk about this letter.
 
-LA CONTESSA:
-(Numi! È il foglio
-che Figaro gli scrisse ... )
-[Cherubino fa cadere un tavolino,
-ed una sedia in gabinetto,
-con molto strepito.]
 
-IL CONTE:
-Cos'è codesto strepito?
-In gabinetto qualche cosa è caduta.
 
 LA CONTESSA:
 Io non intesi niente.
+I didn't hear anything
+
 
 IL CONTE:
 Convien che abbiate
 i gran pensieri in mente.
+Because there's something else on your mind?
 
-LA CONTESSA:
-Di che?
-
-IL CONTE:
-Là v'è qualchuno.
-
-LA CONTESSA:
-Chi volete che sia?
 
 IL CONTE:
-Io chiedo a voi.
-Io vengo in questo punto
+Someone's in here.
 
 LA CONTESSA:
 Ah sì, Susanna ... appunto ...
+Maybe it's Susanna?
+
 
 IL CONTE:
-Che passò mi diceste
-alla sua stanza!
+Che passò mi diceste alla sua stanza!
+Who you just told me went off to the wardrobe department?
+
 
 LA CONTESSA:
-Alla sua stanza, o qui -
-non vidi bene ...
+Alla sua stanza, o qui - non vidi bene ...
+Well, either there, or to the wardrobe in here.  I didn't specify.
+
 
 IL CONTE:
-Susanna! - E donde viene
-che siete sì turbata?
+Io non so nulla; ma turbata senz'altro.
+Seems to me that you're all flustered about something
+
 
 LA CONTESSA:
-Per la mia cameriera?
+Ah, questa serva più che non turba me turba voi stesso.
+
 
 IL CONTE:
-Io non so nulla;
-ma turbata senz'altro.
+È vero, è vero, e lo vedrete adesso.
 
-LA CONTESSA:
-Ah, questa serva
-più che non turba me
-turba voi stesso.
 
-IL CONTE:
-È vero, è vero,
-e lo vedrete adesso.
 
-[La Susanna entra per la porta ond'
-dalla porta del gabinetto sta batte
-l'alcova.]
-
-[Susanna comes in through the door
-is shouting, pounding at the door o
-unseen by Count or Countess]
-
-N. 14. Terzetto
+# N. 14. Terzetto
 
 IL CONTE:
 Susanna, or via, sortite,
@@ -1562,9 +1582,11 @@ LA CONTESSA:
 Fermatevi ... sentite ...
 Sortire ella non può.
 
+
 SUSANNA:
 Cos'è codesta lite!
 Il paggio dove andò!
+
 
 IL CONTE:
 E chi vietarlo or osa?
