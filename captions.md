@@ -918,6 +918,7 @@ Innocence needs no excuse
 IL CONTE:
 Ma costui quando venne?
 
+
 SUSANNA:
 Egli era meco
 quando voi qui giungeste,
@@ -942,6 +943,7 @@ Feci per non sentir quanto potea.
 Hey I did my best to not hear anything at all!
 
 
+
 IL CONTE:
 E voi restate qui, picciol serpente
 You stay right here you piece of shit!
@@ -957,6 +959,7 @@ IL CONTE:
 Cos'è questa commedia?
 What's going on here?
 
+fig + sus back + forth
 
 FIGARO:
 Signor, non isdegnate
@@ -1055,7 +1058,7 @@ Let's wait til tomorrow.
 
 IL CONTE:
 No, parta tosto.
-today.
+Today!
 
 
 FIGARO:
@@ -1078,27 +1081,46 @@ Non più andrai, farfallone amoroso,
 notte e giorno d'intorno girando;
 delle belle turbando il riposo
 Narcisetto, Adoncino d'amor.
-Non più avrai questi bei
-pennacchini,
+Non più avrai questi bei pennacchini,
 quel cappello leggero e galante,
 quella chioma, quell'aria brillante
 quel vermiglio donnesco color.
+(bis)
+
+[figaro fetches the script ? this could all be a script]
+
 Tra guerrieri, poffar Bacco!
 Gran mustacchi, stretto sacco.
 Schioppo in spalla, sciabla al fianco,
 collo dritto, muso franco,
 un gran casco, o un gran turbante,
 molto onor, poco contante!
+
+[fig dances with suz]
+
 Ed invece del fandango,
 una marcia per il fango.
+
+[signing contract]
+
+
 Per montagne, per valloni,
 con le nevi e i sollioni.
 Al concerto di tromboni,
 di bombarde, di cannoni,
 che le palle in tutti i tuoni
 all'orecchio fan fischiar.
+(non piu avrai, etc, etc)
+
+[figaro removes cherubino's camera]
+
+(non piu andrai, etc)
+
 Cherubino alla vittoria:
 alla gloria militar!
+
+[more contract antics?]
+
 [Partono tutti alla militare.]
 (? depends on orcs vs military film vs war correspondent)
 

@@ -961,6 +961,8 @@ pennacchini,                          feathers,
 quel cappello leggero e galante,     This smart and jaunty cap,
 quella chioma, quell'aria brillante, Those curls and that lively air
 quel vermiglio donnesco color.       Those rosy, girlish cheeks.
+(bis)
+
 Tra guerrieri, poffar Bacco!         Among soldiers, by Bacchus!
 Gran mustacchi, stretto sacco.       Great moustaches, well-guarded knapsack
 Schioppo in spalla, sciabla al       A gun at your shoulder, a sabre at your 
