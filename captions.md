@@ -30,14 +30,6 @@ typewriter text?
 * fighting off unwanted attention from almaviva
 
 
-## Mr Almaviva
-
-* producer & director
-* first keycard, 10 years ago
-* owns the film company. famous.
-* enthusiastic proponent of the casting couch
-
-
 ## Marcellina
 
 * head of security?  stage manager?  (need to find right label)
@@ -46,7 +38,27 @@ typewriter text?
 * previously employed at Bartolo Studios. poached by Almaviva productions for more money.
 
 
-## Bartolo
+## Cherubino
+
+* position: intern
+* keycard activated x ago
+* access denied
+
+
+? "figaro to the stage" (count asks m to get fig.  may not be clear?)
+
+
+
+## Mr Almaviva
+
+* producer & director
+* first keycard, 10 years ago
+* owns the film company. famous.
+* enthusiastic proponent of the casting couch
+
+
+
+## Bartolo (not in overture)
 
 * Director from another studio
 * keycard activated: today
@@ -69,7 +81,6 @@ typewriter text?
 * suspects Almaviva of infidelity
 
 
-Cherubino access denied?
 
 
 # SCENA I
