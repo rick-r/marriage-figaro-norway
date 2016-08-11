@@ -962,14 +962,26 @@ FIGARO:
 Signor, non isdegnate
 questo del nostro affetto
 meritato tributo:
+
+CONTE:
+cosa si brama?
+
+
+FIGARO:
 Le nostre nozze
 si son già stabilite.
 Or a voi tocca
 costei che un vostro dono
 illibata serbò, coprir di questa,
 simbolo d'onestà, candida vesta.
+
 "You know we're planning our wedding during the wrap party...
 ? will you be father of the bride?
+? we thought you might like to give susanna away?
+
+
+TUTTI:
+evivva!
 
 
 IL CONTE:
@@ -980,16 +992,30 @@ io voglio in faccia
 de' miei più fidi,
 e con più ricca pompa
 rendervi appien felici.
+
 (Marcellina si trovi.)
 Andate, amici.
 
-I said I'd do it, and I will, as long as we finish shooting today.  And we'll have to run it past Marcellina for Health & Safety of course...
+(I said I'd do it, and I will, as long as we finish shooting today.)
 
+Er.  Yes, sounds great, and I promise we'll have a huge party with
+everyone there.  But first we have to finish the shoot!  
+
+
+(go find marcellina) (aside to Basilio)
+//And we'll have to run it past Marcellina for Health & Safety of course...
+
+Let's go!
+
+
+CHERUBINO
+perdono
 
 
 SUSANNA:
 Egli è ancora fanciullo!
 Give him a break!
+
 
 IL CONTE:
 Men di quel che tu credi.
@@ -999,7 +1025,9 @@ He doesn't deserve one...
 CHERUBINO:
 È ver, mancai;
 ma dal mio labbro alfine ...
-I know I don't.  But look, about what I heard just now. I'll never breathe a word to...
+Listen, my lips are sealed!  I never tell anyone about --
+
+
 
 IL CONTE:
 Ben ben; io vi perdono.
@@ -1008,12 +1036,21 @@ vacante è un posto
 d'uffizial nel reggimento mio;
 io scelgo voi;
 partite tosto: addio.
-OK OK you're not fired.  Tell you what, you wanted to learn about the movie business?  We need more orcs for the big fantasy epic down in New Zealand.  You can leave today.
+
+OK OK you're not fired.  Tell you what, you wanted to learn about the movie
+business?  We need more orcs for the big fantasy epic down in New Zealand.
+You can leave today.  Bye now!
+
+OK OK you're not fired.  Tell you what, you wanted to learn about the
+movie business?  I think we need more extras for my big war movie epic in
+Belgium. Yes. You can leave today.  Bye now!
+
 
 
 SUSANNA & FIGARO:
 Ah, fin domani sol ...
 Let's wait til tomorrow.
+
 
 
 IL CONTE:
@@ -1029,6 +1066,8 @@ pria che tu parta. Addio,
 picciolo Cherubino;
 come cangia in un punto
 il tuo destino.
+
+OK Private Ryan, let me have a word with you before you go off to war
 
 
 
