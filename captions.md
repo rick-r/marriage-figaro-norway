@@ -16,18 +16,19 @@ typewriter text?
 (also except rosina who's already on set/ not introduced til act 2)
 
 
+## Susanna
+
+* wardrobe and makeup 
+* keycard activated 2 years ago
+* fighting off unwanted attention from almaviva
+
+
 ## Figaro
 
 * first assistant director
 * keycard activated 5 years ago
 * in love with Susanna, hoping to have a shotgun wedding during wrap party tonight
 
-
-## Susanna
-
-* wardrobe and makeup 
-* keycard activated 2 years ago
-* fighting off unwanted attention from almaviva
 
 
 ## Marcellina
@@ -45,11 +46,19 @@ typewriter text?
 * access denied
 
 
+## Basilio
+
+* Talent agent.  represents rosina (and Almaviva?)
+* keycard activated: 4 years ago
+* ivan's xtc.  a bit sleazy/slick/ liberal with the truth.  PR/gossip
+
+
+
 ? "figaro to the stage" (count asks m to get fig.  may not be clear?)
 
 
 
-## Mr Almaviva
+## Mr Almaviva  (doesnt scan keycard)
 
 * producer & director
 * first keycard, 10 years ago
@@ -63,13 +72,6 @@ typewriter text?
 * Director from another studio
 * keycard activated: today
 * launched rosina's career. old school hollywood royalty.  old friends with Marcellina
-
-
-## Basilio
-
-* Talent agent.  represents rosina (and Almaviva?)
-* keycard activated: 4 years ago
-* ivan's xtc.  a bit sleazy/slick/ liberal with the truth.  PR/gossip
 
 
 ## Rosina (introduced later)
@@ -92,10 +94,9 @@ typewriter text?
 Cinque ... dieci ... venti ...
 trenta ... trentasei ... quarantatre
 
-"5 horsepower, 10 cylinders, 36 watts airconditioning, caravan caravan"
-(maybe repeated/more) 
-
-TODO: look up some airstream specs online?
+// "5 horsepower, 10 cylinders, 36 watts airconditioning, caravan caravan"
+(maybe repeated/more)
+5 grand? 10? 20? 30?  36? 43?  43 grand!
 
 
 
@@ -111,7 +112,7 @@ guarda adesso il mio cappello.
 Sì mio core, or è più bello,
 sembra fatto inver per te.
 
-"Looks great darling!"
+"Yeah yeah, looks great darling!"
 
 
 
@@ -136,7 +137,7 @@ Io guardo se quel letto
 che ci destina il Conte
 farà buona figura in questo loco.
 
-"I'm just checking out all the specs of our new trailer"
+"I'm just checking out all the specs of... our new trailer!"
 
 
 (No caption for s)
@@ -145,7 +146,7 @@ farà buona figura in questo loco.
 Certo: a noi la cede
 generoso il padrone.
 
-"Yes!  Mr. Almaviva is giving to us as a wedding gift"
+"Mr. Almaviva is giving to us as a wedding gift"
 
 
 
@@ -193,7 +194,7 @@ che vuolmi il padrone,
 don, don; in tre salti
 lo vado a servir.
 
-"Just think -- when we're out on location, instead of being in a hotel, we can park it right next to Rosina's trailer, and you can be with her whenever she needs you"
+"Just think -- when we're out on location, instead of being in a hotel, we can park it right next to Rosina's trailer, and you can be with her whenever she needs you.  And I can be near Mr Almaviva."
 
 
 Così se il mattino
@@ -205,6 +206,11 @@ il diavol lo porta,
 ed ecco in tre salti ...
 "Yeah.  And we'll be parked right by Almaviva too, and once he's sent you off on a mission to buying 1000 brown M&Ms, he can be at my doorstep at a moment's notice"
 
+
+FIGARO:                              FIGARO:
+Susanna, pian, pian.                 Susanna, hush.
+
+FIG
 fa presto
 "what are you saying?"
 
@@ -230,6 +236,7 @@ these doubts and suspicions
 make my blood run cold.
 
 
+
 Il signor Conte,
 stanco di andar cacciando
 le straniere bellezze forestiere,
@@ -244,7 +251,8 @@ appetito gli viene ...
 Di me medesma; ed ha speranza,
 che al nobil suo progetto
 utilissima sia tal vicinanza.
-"that's the whole point of this flashy caravan -- he wants to keep me close by"
+"Who do you think?  That's the whole point of this flashy caravan -- he wants to keep me close by"
+
 
 ?not caption next one.
 
@@ -255,6 +263,7 @@ mio maestro di canto, e suo mezzano,
 nel darmi la lezione
 mi ripete ogni dì questa canzone.
 "I've already got Basilio whispering in my ear, telling me this could be the perfect way to advance my career"
+
 
 
 E tu credevi
@@ -276,6 +285,8 @@ certe mezz'ore ...
 Chi suona? La Contessa.
 "It's Rosina"
 
+
+?e tu cervello
 
 
 # SCENA II
@@ -302,14 +313,18 @@ Se vuol ballare, Signor Contino,
 il chitarrino le suonerò.
 Se vuol venire nella mia scuola
 la capriola le insegnerò.
-Saprò ... ma piano,
-meglio ogni arcano
-dissimulando
-scoprir potrò!
+
 If you want to dance, my dear little Count,
 I'll play the tune for you on my guitar.
 If you want to attend my school
 I'll teach you all the moves.
+
+
+Saprò ... ma piano,
+meglio ogni arcano
+dissimulando
+scoprir potrò!
+
 I'll know how ... but gently!
 best to hide secrets:
 by dissembling
@@ -319,6 +334,7 @@ I can discover it all.
 L'arte schermendo, l'arte adoprando,
 di qua pungendo, di là scherzando,
 tutte le macchine rovescerò.
+(bis)
 
 The art of fencing, the arts I'll adopt
 Stinging here, joking there,
@@ -356,12 +372,15 @@ so io ...
 
 "I wasn't expecting them to do it this fast! And besides, Figaro has certain... obligations towards me"
 
+
+
 basta ... convien
 la Susanna atterrir. Convien con arte
 impuntigliarli a rifiutar il Conte.
 Egli per vendicarsi
 prenderà il mio partito,
 e Figaro così fia mio marito.
+
 "Anyway.  All we need to do is get Susanna to refuse Almaviva's advances, and the he'll do the job for me.  He'll call the wedding off, and then Figaro will be mine.  Oh yes, he will."
 
 
@@ -380,6 +399,7 @@ di dar per moglie
 la mia serva antica
 a chi mi fece un dì rapir l'amica.
 "You see, I was the director that first discovered Rosina, but it was Figaro that convinced her to go across to Almaviva's studios, and thus precipitated the gradual decline of my career.  Nothing could please me more than ruining his wedding plans"
+(way too long!)
 
 
 
@@ -394,14 +414,18 @@ Con l'astuzia ... coll'arguzia ...
 col giudizio ... col criterio ...
 si potrebbe ... il fatto è serio,
 ma credete si farà.
+
 Vengeance, oh, vengeance
 Is a pleasure reserved for the wise
 To overlook affront and insult
 Belongs to the base and cowardly
+
 With cunning, with cleverness
 With judgement, with discretion
 One could ... The case is serious
 But, believe me, it will be done
+
+(more abstract one here?)
 
 
 
@@ -409,10 +433,10 @@ Se tutto il codice
 dovessi volgere,
 se tutto l'indice
 dovessi leggere,
-con un equivoco,
-con un sinonimo
+con un equivoco, con un sinonimo
 qualche garbuglio
 si troverà.
+
 "Wedding contracts for dummies"
 (? picture caption)
 
@@ -433,20 +457,23 @@ vinto [vostro] sarà.
 Ma Susanna si avanza:
 io vo' provarmi ...
 Fingiam di non vederla.
-"I'll pretend not so see her"
+"Let's pretend not so see her"
 
 E quella buona perla
 la vorrebbe sposar!
-"And Figaro's going to marry that little tart"
 
 Ma da Figaro alfine
 non può meglio sperarsi:
 'l'argent fait tout'.
-"But then again, he knows Almaviva is sweet on her, so keeping her around is going to advance his career"
+
+I can't believe Figaro's going to marry that little tart!
+I suppose he knows Almaviva is sweet on her, so keeping her around is
+good for his career...
 
 
 (Che lingua! Manco male
 ch'ognun sa quanto vale.)
+
 "That mean old bitch, she's always spreading gossip.  Just as well no-one listens to her!"
 
 
@@ -468,12 +495,14 @@ Che cara sposa!
 MARCELLINA:
 Via resti servita,
 Madama brillante.
+
 "After you, you pretty young thing?"
 
 
 
 Non sono sì ardita,
 madama piccante.
+
 "Oh no, after you, witty lady"
 
 
@@ -489,13 +518,15 @@ La sposa novella!
 La dama d'onore!
 "the maid of honour!"
 
+(some duet. ?)
+
 
 Del Conte la bella!
 "the boss's favourite"
 
-
 Di Spagna l'amore!
 "Hollywood's golden girl!"
+
 
 I meriti!
 "your qualifications!"
@@ -532,6 +563,7 @@ e seccata madama
 in gioventù ...
 "Grumpy old bitch! Just because you've been around forever doesn't make you better than everybody else!" 
 
+
 Cor vostro! Cosa avvenne?
 "Cherubino!  What's wrong?"
 
@@ -545,7 +577,9 @@ la mia bella comare,
 grazia non m'intercede,
 io vado via,
 io non ti vedo più, Susanna mia!
+
 "Almaviva caught me sleeping with one of the extras, and I think he's really going to fire me this time.  Unless Rosina intervenes for me, I'll never see you again, pretty lady"
+
 
 
 Non vedete più me! Bravo!
@@ -592,16 +626,6 @@ Solo ai nomi d'amor, di diletto,
 mi si turba, mi s'altera il petto
 e a parlare mi sforza d'amore
 un desio ch'io non posso spiegar.
-Parlo d'amor vegliando,
-parlo d'amor sognando,
-all'acque, all'ombre, ai monti,
-ai fiori, all'erbe, ai fonti,
-all'eco, all'aria, ai venti,
-che il suon de' vani accenti
-portano via con sé.
-E se non ho chi mi oda,
-parlo d'amor con me.
-
 
 I don't know what I am any more, or what I'm doing
 Now I'm on fire, now I'm freezing
@@ -611,6 +635,22 @@ Just the name of love, of delight
 Upsets me, and makes my heart flutter,
 And I find myself talking of love
 From a need I can't explain.
+
+non so piu, etc
+
+
+Parlo d'amor vegliando,
+parlo d'amor sognando,
+all'acque, all'ombre, ai monti,
+ai fiori, all'erbe, ai fonti,
+all'eco, all'aria, ai venti,
+che il suon de' vani accenti
+portano via con sé.
+
+E se non ho chi mi oda,
+parlo d'amor con me.
+
+
 I talk of love when waking
 I talk of love when dreaming,
 To the water, to the shadows, to the mountains,
@@ -618,6 +658,7 @@ To the flowers, to the grass, to the fountains,
 To the echoes, to the air, to the winds,
 And the sound of my useless words
 Is carried away with them.
+
 And if I don't have anyone to hear me,
 I talk of love to myself!
 
@@ -655,7 +696,11 @@ se per pochi momenti
 meco in giardin
 sull'imbrunir del giorno ...
 ah, per questo favore io pagherei-
-"You know our next film involves a lot of shoots on location. This will be a big deal for Figaro's career. You and he are going to be spending a lot of time in this caravan.  A lot of fun times... Maybe you and I should have a little fun in here before we leave?  Would be good for your career..."
+
+"You know our next film involves a lot of shoots on location. This will be a
+big deal for Figaro's career. You and he are going to be spending a lot of
+time in this caravan.  A lot of fun times... Maybe you and I should have a
+little fun in here before we leave?  Would be good for your career..."
 
 
 BASILIO:
@@ -735,7 +780,8 @@ come fan tutte quante,
 un signor liberal,
 prudente, e saggio,
 a un giovinastro, a un paggio ...
-Hey to each their own!  But I'd have thought you would prefer an affair with the boss of the studio rather than with some work experience kid.  What's this tape? 
+
+Hey to each their own!  But I'd have thought you would prefer an affair with the boss of the studio rather than... with some work experience kid!  What's this tape? 
 
 
 SUSANNA:
@@ -760,13 +806,15 @@ Ditemi in confidenza; io sono amico
 ed altrui nulla dico;
 è per voi, per madama ...
 
-Come on, you can tell me. Did he make it for you, or was it another one of his tributes to our leading lady?
+Come on, you can tell me. Did he make it for you, or is it another one of his
+tributes to our leading lady?
 
 
 SUSANNA:
 Scellerato!
 E perché andate voi
 tai menzogne spargendo?
+
 Go sell it to the National Enquirer!
 
 
@@ -775,13 +823,17 @@ Io! Che ingiustizia!
 Quel che compro io vendo.
 A quel che tutti dicono
 io non aggiungo un pelo.
+
 Hey I'm just repeating what everyone's saying!
+
 
 
 
 IL CONTE:
 Come, che dicon tutti!
+
 And what exactly is it that everyone is saying?
+
 
 
 
@@ -791,6 +843,7 @@ IL CONTE:
 [a Basilio]
 Cosa sento! Tosto andate,
 e scacciate il seduttor.
+
 You know my rule about on-set relationships!  Where is he?
 
 
@@ -806,8 +859,12 @@ SUSANNA:
 Che ruina, me meschina,
 li tentando a distrarre]
 son oppressa dal dolor.
-I don't feel well
+I don't feel well.  Oh, oh!
 
+BASILIO & IL CONTE:                  BASILIO & COUNT:
+?literal?
+Ah già svien la poverina!            Ah, the poor girl's almost fainting!
+Come, oh Dio, le batte il cor!       Oh god, how her heart beats!
 
 BASILIO:
 Pian pianin su questo seggio.
@@ -874,6 +931,7 @@ This keeps getting better and better...
 IL CONTE:
 Onestissima signora!
 Or capisco come va!
+
 I see what's going on!
 
 
@@ -885,6 +943,8 @@ Così fan tutte le belle;
 non c'è alcuna novità!
 ?
 
+
+?? then something abstract for the ending terzetto?
 
 
 Recitativo
@@ -958,8 +1018,10 @@ IL CONTE:
 [a Figaro]
 Cos'è questa commedia?
 What's going on here?
+?or nothing
 
 fig + sus back + forth
+
 
 FIGARO:
 Signor, non isdegnate
@@ -996,18 +1058,20 @@ de' miei più fidi,
 e con più ricca pompa
 rendervi appien felici.
 
-(Marcellina si trovi.)
-Andate, amici.
 
 (I said I'd do it, and I will, as long as we finish shooting today.)
 
 Er.  Yes, sounds great, and I promise we'll have a huge party with
-everyone there.  But first we have to finish the shoot!  
+everyone there.  But first we have to get back to work, and finish this shoot!  
 
+
+(Marcellina si trovi.)
 
 (go find marcellina) (aside to Basilio)
 //And we'll have to run it past Marcellina for Health & Safety of course...
 
+
+Andate, amici.
 Let's go!
 
 
@@ -1040,10 +1104,6 @@ d'uffizial nel reggimento mio;
 io scelgo voi;
 partite tosto: addio.
 
-OK OK you're not fired.  Tell you what, you wanted to learn about the movie
-business?  We need more orcs for the big fantasy epic down in New Zealand.
-You can leave today.  Bye now!
-
 OK OK you're not fired.  Tell you what, you wanted to learn about the
 movie business?  I think we need more extras for my big war movie epic in
 Belgium. Yes. You can leave today.  Bye now!
@@ -1071,6 +1131,8 @@ come cangia in un punto
 il tuo destino.
 
 OK Private Ryan, let me have a word with you before you go off to war
+
+? q for j.  what's the little aside / whisper?
 
 
 
