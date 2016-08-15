@@ -1504,6 +1504,7 @@ SUSANNA:                             SUSANNA [aside]:
 Capisco qualche cosa,                I understand what's happened,
 veggiamo come va.                    We'll see how things go.
          
+
 IL CONTE:                            COUNT:
 Dunque parlate almeno.               Well, speak up then, 
 Susanna, se qui siete ...            Susanna - if you're there.
@@ -1522,7 +1523,6 @@ Oh cielo, un precipizio,             Oh heavens, a disgrace,
 un scandalo, un disordine,           a scandal, a confusion,
 qui certo nascerà.                   will come out of this for sure.
          
-
 LA CONTESSA:                         COUNTESS:
 Consorte mio, giudizio,              Be careful, my husband,
 un scandalo, un disordine,           A scandal, a confusion,
@@ -1806,13 +1806,14 @@ ria cagion del mio penar.            the cause of my troubles.
 LA CONTESSA:                         COUNTESS:
 Ah, la cieca gelosia                 Ah, his blind jealousy
 qualche eccesso gli fa far.          drives him to such excesses!
+
          
 SCENA VII                            SCENE VII
 I suddetti e Susanna                 The above and Susanna 
          
-[Il Conte apre il gabinetto e     [  The Count throws open the door 
-Susanna esce sulla porta, ed ivi  o  f the closet, and Susanna 
-si ferma.]                        s  teps out.]
+[Il Conte apre il gabinetto e        [The Count throws open the door 
+Susanna esce sulla porta, ed ivi     of the closet, and Susanna 
+si ferma.]                           steps out.]
          
 IL CONTE:                            COUNT:
 Susanna!                             Susanna!
