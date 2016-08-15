@@ -882,7 +882,7 @@ IL CONTE:                            COUNT:
 Cosa si brama?                       What do you want?
          
 FIGARO:                              FIGARO:
-Le nostre nozze 			     Ou  r wedding
+Le nostre nozze                      Our wedding
 si son già stabilite.                is already appointed.  
 Or a voi tocca                       Now we ask you
 costei che un vostro dono            to place this white veil
@@ -1304,7 +1304,7 @@ LA CONTESSA:                         COUNTESS:
 Più indietro.                        Higher.
 
 SUSANNA:                             SUSANNA:
-Cospetto				     Heaven  s!  
+Cospetto                             Heavens!  
 Ha il braccio più candido del mio!   His arm's whiter than mine!  
 Qualche ragazza ...                  Some girl ...
          
@@ -1316,7 +1316,7 @@ d'inglese taffetà:                   English taffeta:
 ch'è sullo scrigno:                  it's on the casket:
 
 CHERUBINO:                           CHERUBINO:
-Susanna scherza; 			     Su  sanna mocks me; 
+Susanna scherza;                     Susanna mocks me;
 ed io frattanto parto..              and I must so shortly leave her ... 
          
 LA CONTESSA:                         COUNTESS: 
@@ -3180,7 +3180,7 @@ FIGARO:                              FIGARO:
 Bravi,                               Bravo, 
 gittate pur ch'io piglio ognora.     throw as many as I can catch.
  
-SUSANNA:					 SUSANNA:
+SUSANNA:                     SUSANNA:
 Chi al par di me contenta!           Who could be as happy as I am!
                     
 FIGARO, BARTOLO & MARCELLINA:        FIGARO, BARTOLO & MARCELLINA:             
@@ -3324,7 +3324,7 @@ FIGARO:                              FIGARO:
 Senza fallo.                         Certainly.
 Andiamo dunque, andiamo.             Let's go, then, let's go.
                     
-IL CONTE:					 COUNT:             
+IL CONTE:                            COUNT:             
 E intanto a cavallo                  And meanwhile, the page
 di galoppo a Siviglia                went galloping off on horseback
 andava il paggio.                    to Seville.
