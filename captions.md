@@ -947,7 +947,7 @@ non c'è alcuna novità!
 ?? then something abstract for the ending terzetto?
 
 
-Recitativo
+## Recitativo
 
 
 IL CONTE:
@@ -1538,7 +1538,7 @@ Look to see if I have it in my heart!
 
 
 
-Recitativo
+## Recitativo
 
 LA CONTESSA:
 Bravo! Che bella voce!
@@ -1911,7 +1911,7 @@ is looming over us!"
 
 
 
-# Recitativo
+## Recitativo
 
 IL CONTE:
 Dunque voi non aprite?
@@ -3489,7 +3489,7 @@ SUSANNA:
 Scusatemi se mento,
 voi che intendete amor.
 
-Recitativo
+## Recitativo
 
 IL CONTE:
 E perché fosti meco
@@ -3536,7 +3536,7 @@ oh signor scaltro.)
 
 
 
-SCENA III
+# SCENA III
 Figaro, Susanna ed il Conte
 
 FIGARO:
@@ -3552,10 +3552,10 @@ Cos'è nato?
 [la segue]
 
 
-SCENA IV
+# SCENA IV
 Il Conte solo
 
-N. 18. Recitativo ed Aria
+## N. 18. Recitativo ed Aria
 
 IL CONTE:
 Hai già vinta la causa!
@@ -3594,10 +3594,10 @@ quest'anima consola,
 e giubilar mi fa.
 
 
-SCENA (VIII)
+# SCENA (VIII)
 La Contessa sola
 
-N. 20. Recitativo ed Aria
+## N. 20. Recitativo ed Aria
 
 LA CONTESSA:
 E Susanna non vien! Sono ansiosa
@@ -3637,11 +3637,11 @@ di cangiar l'ingrato cor.
 
 
 
-SCENA V
+# SCENA V
 Il Conte, Marcellina, Don Curzio,
 Figaro e Bartolo; poi Susanna
 
-Recitativo
+## Recitativo
 
 DON CURZIO:
 È decisa la lite.
@@ -3776,7 +3776,7 @@ Cosa sento!
 MARCELLINA:
 Ecco tuo padre.
 
-N. 19. Sestetto
+## N. 19. Sestetto
 
 MARCELLINA:
 [abbracciando Figaro]
@@ -3944,10 +3944,10 @@ resister or sa.
  [Il Conte e Don Curzio partono.]
 
 
-SCENA VI
+# SCENA VI
 Susanna, Marcellina, Figaro e Bartolo
 
-Recitativo
+## Recitativo
 
 MARCELLINA:
 [a Bartolo]
@@ -3995,7 +3995,7 @@ E schiatti il signor Conte
 al gusto mio.
 
 
-SCENA X
+# SCENA X
 LA CONTESSA:
 Piano,
 che meglio or lo porremo in gabbia.
@@ -4018,7 +4018,7 @@ Eh, scrivi dico; e tutto
 io prendo su me stessa.
 Canzonetta sull'aria ... 
 
-N.21. Duettino
+## N.21. Duettino
 
 SUSANNA:
 [scrivendo]
@@ -4054,7 +4054,7 @@ Ei già il resto capirà.
 SUSANNA:
 Certo, certo il capirà.
 
-Recitativo
+## Recitativo
 
 SUSANNA:
 [piega la lettera]
@@ -4080,7 +4080,7 @@ il biglietto nel seno.]
 
 
 
-SCENA XI
+# SCENA XI
 LA CONTESSA:
 E chi è, narratemi,
 quell'amabil fanciulla
@@ -4099,7 +4099,7 @@ SUSANNA:
 Al naturale.
 
 
-SCENA XIII
+# SCENA XIII
 I suddetti Conte e Figaro
 
 FIGARO:
@@ -4148,7 +4148,7 @@ Io non impugno mai quel che non so.
 [S'ode la marcia da lontano]
 
 
-N. 23. Finale
+## N. 23. Finale
 
 FIGARO:
 Ecco la marcia, andiamo;
@@ -4182,7 +4182,7 @@ Seggiamo (e meditiam vendetta).
 
 [Siedono; la marcia s'avvicina.]
 
-SCENA XIV
+# SCENA XIV
 I suddetti, Figaro, Susanna,
 Marcellina, Bartolo,
 Antonio, Barbarina, cacciatori,
@@ -4255,11 +4255,11 @@ sì saggio signor!
 [Tutti partono.]
 
 
-ATTO QUARTO
+# ATTO QUARTO
 
 Giardino
 
-SCENA III
+# SCENA III
 Marcellina e Figaro
 
 FIGARO:
@@ -4299,10 +4299,10 @@ A vendicar tutti i mariti: addio.
 [parte]
 
 
-SCENA IV
+# SCENA IV
 Marcellina sola
 
-Recitativo
+## Recitativo
 
 MARCELLINA:
 Presto avvertiam Susanna:
@@ -4318,7 +4318,7 @@ da questi uomini ingrati
 a torto oppresso.
 
 
-SCENA VI
+# SCENA VI
 
 BARTOLO:
 [a Figaro]
@@ -4349,7 +4349,7 @@ A un fischio mio correte tutti quanti
 Bartolo e Basilio.]
 
 
-SCENA VII
+# SCENA VII
 Basilio e Bartolo
 
 BASILIO:
@@ -4384,10 +4384,10 @@ e han vinto ancora.
 [Basilio e Bartolo partono.]
 
 
-SCENA VIII
+# SCENA VIII
 Figaro solo
 
-N. 27. Recitativo ed Aria
+## N. 27. Recitativo ed Aria
 
 FIGARO:
 Tutto è disposto: l'ora
@@ -4441,10 +4441,10 @@ già ognun lo sa!
 [si ritira]
 
 
-SCENA IX
+# SCENA IX
 Susanna, la Contessa; Marcellina
 
-Recitativo
+## Recitativo
 
 SUSANNA:
 Signora, ella mi disse
@@ -4463,7 +4463,7 @@ MARCELLINA:
 [entra dove entrò Barbarina]
 Io voglio qui celarmi.
 
-SCENA X
+# SCENA X
 I suddetti, Figaro in disparte
 
 SUSANNA:
@@ -4494,7 +4494,7 @@ Il birbo è in sentinella.
 Divertiamci anche noi,
 diamogli la mercé de' dubbi suoi.
 
-N. 28. Recitativo ed Aria
+## N. 28. Recitativo ed Aria
 
 SUSANNA:
 Giunse alfin il momento
@@ -4531,10 +4531,10 @@ entra, travestite come Susanna]
 
 
 
-SCENA XI
+# SCENA XI
 I suddetti e poi Cherubino
 
-Recitativo
+## Recitativo
 
 FIGARO:
 Perfida! e in quella forma
@@ -4564,7 +4564,7 @@ LA CONTESSA:
 E se il Conte ora vien,
 sorte tiranna!
 
-N.29. Finale
+## N.29. Finale
 
 CHERUBINO:
 Pian pianin le andrò più presso,
@@ -4591,7 +4591,7 @@ Smorfiosa, maliziosa,
 io già so perché sei qua!
 
 
-SCENA XII
+# SCENA XII
 I suddetti ed il Conte
 
 IL CONTE:
@@ -4762,7 +4762,7 @@ Andate; io poi verrò.
 [si disperde pel bosco]
 
 
-SCENA XIII
+# SCENA XIII
 Figaro e Susanna
 
 FIGARO:
@@ -4867,7 +4867,7 @@ a fare il seduttor.
 
 
 
-SCENA XIV
+# SCENA XIV
 I suddetti e poi il Conte
 
 FIGARO:
@@ -4938,7 +4938,7 @@ Ah, corriamo, mio bene,
 e le pene compensi il piacer.
 [Susanna entra nella nicchia.]
 
-SCENA ULTIMA
+# SCENA ULTIMA
 I suddetti, Antonio, Curzio,
 Bartolo, Basilio, servitori con
 fiaccole accese; poi Susanna,
