@@ -2221,7 +2221,7 @@ se in lui parla il vino!             if it's the wine speaking in him!
          
 IL CONTE:                            COUNT:
 [ad Antonio]                         [to Antonio]
-Segui pure, né in volto il vedesti?   Go on anyway, did you see his face?
+Segui pure, né in volto il vedesti?  Go on anyway, did you see his face?
          
 
 ANTONIO:                             ANTONIO:
@@ -2553,7 +2553,8 @@ un altro appresso                    another
 che dice esser quel desso ...        who immediately says that it was he ... 
 non so cosa pensar.                  I don't know what to think.  
 Potrebbe forse                       Perhaps it could have been
-qualcun de' miei vassalli ...        one  of my subjects ...                      a simil razza                          their kind 
+qualcun de' miei vassalli ...        one  of my subjects ...
+a simil razza                        their kind 
 è comune l'ardir,                    commits such audacities; 
 ma la Contessa ...                   but the Countess ... 
 Ah, che un dubbio l'offende.         Ah, to doubt her is an offence.
