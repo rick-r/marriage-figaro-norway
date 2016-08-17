@@ -3354,40 +3354,86 @@ dal balcone in giardino ...
 un altro appresso
 che dice esser quel desso ...
 non so cosa pensar.
+
+
+  I'm in one of those moods where I need to 
+  recap the story so far to myself.  SO, what
+  do we have?
+  - an anonymous letter,
+  - the makeup girl locked in the wardrobe
+  - the leading lady is agitated about something
+  - a man jumps out of the window
+  - and another one claims it was him
+  I have no idea what's going on.
+
+
 Potrebbe forse
 qualcun de' miei vassalli ...
+a simil razzo
 è comune l'ardir,
+
+  Maybe it was one of the extras? or the crew? 
+  they're not above it.
+
+
 ma la Contessa ...
 Ah, che un dubbio l'offende.
 Ella rispetta troppo sé stessa:
-e l'onor mio ... l'onore ...
-dove diamin l'ha posto umano errore!
+e l'onor mio ... 
+
+  But Rosina?  No, she respects herself too much.
+  And us...
+
+
+
+l'onore ... dove diamin l'ha posto umano errore!
+
+  (some sort of honour/ relationship / career callback)
+
+
+
+
 
 # SCENA II
-Il suddetto, la Contessa e Susanna;
-s'arrestano in fondo alla scena,
+
+(two sets of captions here -- rhs of stage for count, lhs for sus+ros)
+
 
 LA CONTESSA:
-[a Susanna]
 Via, fatti core: digli
 che ti attenda in giardino.
+
+  Right here we go.  Tell him you'll meet
+  him on the green stage.
+
+
 
 IL CONTE:
 Saprò se Cherubino
 era giunto a Siviglia. A tale oggetto
 ho mandato Basilio ...
 
+  And that kid!  I need to make sure he's left for good.
+  I'll get Basilio to check he's on his way to the war film set.
+
+
 SUSANNA:
 [alla Contessa]
 Oh cielo! E Figaro?
+
+
 
 LA CONTESSA:
 A lui non dei dir nulla: in vece tua
 voglio andarci io medesma.
 
+  Don't worry.  I'll be the one meeting him, not you
+  ?dont tell figaro
+
+
+
 IL CONTE:
-Avanti sera
-dovrebbe ritornar ...
+Avanti sera dovrebbe ritornar ...
 
 SUSANNA:
 Oh Dio ... non oso!
@@ -3396,23 +3442,38 @@ LA CONTESSA:
 Pensa, ch'è in tua mano il mio riposo
 [esce]
 
+  I need this?
+  Trust me?
+  
+
 IL CONTE:
 E Susanna? Chi sa ch'ella tradito
 abbia il segreto mio ...
 oh, se ha parlato,
 gli fo sposar la vecchia.
 
+  And what if Susanna has told Rosina everything?
+  If she's done that I'll have Marcellina marry him/fig for sure!
+
+
 SUSANNA:
 (Marcellina!) Signor ...
+
 
 IL CONTE:
 Cosa bramate?
 
+
 SUSANNA:
 Mi par che siete in collera!
 
+  You seem angry!
+  ?i'll come back
+
+
 IL CONTE:
 Volete qualche cosa?
+
 
 SUSANNA:
 Signor ... la vostra sposa
@@ -3420,43 +3481,87 @@ ha i soliti vapori,
 e vi chiede il fiaschetto
 degli odori.
 
+  Sir. I er, your wife is having another
+  one of her anxiety attacks,  she wanted one
+  of those pills...
+
+
 IL CONTE:
 Prendete.
+
 
 SUSANNA:
 Or vel riporto.
 
+  I'll bring it back
+
+
 IL CONTE:
 Ah no, potete
 Ritenerlo per voi.
+
+  Hey babe, you keep them, OK?
+
 
 SUSANNA:
 Per me?
 Questi non son mali
 da donne triviali.
 
+  Oh I don't need those!
+
+
 IL CONTE:
 Un'amante, che perde il caro sposo
 sul punto d'ottenerlo?
+
+  O really?  A girl who's about to have her
+  fiancé marry someone else?
+  
+
+  
+
 
 SUSANNA:
 Pagando Marcellina
 colla dote che voi mi prometteste...
 
+  Well, I thought you might pay her off...
+  
+
+
+
 IL CONTE:
 Ch'io vi promisi, quando?
 
+  And why would I do that?
+
+
+
 SUSANNA:
 Credea d'averlo inteso.
+
+  I thought you might want to?
+
+
 
 IL CONTE:
 Sì, se voluto aveste
 intendermi voi stessa.
 
+  Seems like what I want doesn't seem to interest you much
+
+
+
 SUSANNA:
 È mio dovere,
 e quel di Sua Eccellenza
 il mio volere.
+
+  Perhaps I do want the same thing you do...
+
+
+
 
 # N. 17. Duettino
 
@@ -3464,69 +3569,71 @@ IL CONTE:
 Crudel! Perché finora
 farmi languir così?
 
+  Why did you make me wait until now?
+
+
 SUSANNA:
 Signor, la donna ognora
 tempo ha dir di sì.
 
+  Every woman has her time for saying yes...
+
+
+
 IL CONTE:
 Dunque, in giardin verrai?
+
+  So... On the green stage? 
+
 
 SUSANNA:
 Se piace a voi, verrò.
 
+  I'll be there...
+
+
 IL CONTE:
 E non mi mancherai?
+
 
 SUSANNA:
 No, non vi mancherò.
 
+
 IL CONTE:
 Mi sento dal contento
 pieno di gioia il cor.
+
+  ?literal
+  ?poss with italian?
+
 
 SUSANNA:
 (da se)
 Scusatemi se mento,
 voi che intendete amor.
 
+  ?literal
+
+
+giardin verrai / se piace verro repeats
+[food antics]
+[8 or 10 of these]
+? maybe keep the lines from the last set on screen?
+
+
+
+
 ## Recitativo
 
 IL CONTE:
-E perché fosti meco
-stamattina sì austera?
-
-SUSANNA:
-Col paggio ch'ivi c'era ...
-
-IL CONTE:
-Ed a Basilio
-che per me ti parlò?
-
-SUSANNA:
-Ma qual bisogno
-abbiam noi, che un Basilio ...
-
-IL CONTE:
-È vero, è vero,
-e mi prometti poi ...
-se tu manchi, oh cor mio ...
-Ma la Contessa
-attenderà il fiaschetto.
-
-SUSANNA:
-Eh, fu un pretesto.
-Parlato io non avrei senza di questo.
-
-IL CONTE:
-[vuole baciarla]
 Carissima!
 
 SUSANNA:
-[si ritira]
 Vien gente.
 
-IL CONTE:
-(È mia senz'altro.)
+IL CONTE: 
+(È mia senz'altro.) 
 
 SUSANNA:
 (Forbitevi la bocca,
