@@ -2783,6 +2783,7 @@ Cangiando i miei vestiti               Changing my clothes
 con quelli di Susanna,                 with those of Susanna, 
 e i suoi co' miei ...                  and hers with mine ... 
 al favor della notte ...               shielded by the night's face ...  
+
 oh cielo, a quale                      oh heavens, to what
 umil stato fatale io son ridotta       a humiliating state I am reduced 
 da un consorte crudel,                 by a cruel husband, 
@@ -2798,6 +2799,7 @@ Dove sono i bei momenti                Where are the beautiful moments
 di dolcezza e di piacer,               of sweetness and of pleasure,
 dove andaro i giuramenti               what happened to the promises 
 di quel labbro menzogner?              of that lying tongue?
+
 Perché mai se in pianti e in pene      Whyever, if everything for me
 per me tutto si cangiò,                was to change to tears and pain,
 la memoria di quel bene                do those happy memories
@@ -3116,6 +3118,8 @@ resister or sa.                        of this moment.
                               
  [Il Conte e Don Curzio partono.]      [The Count and Don Curzio leave.]
                               
+
+
 
 SCENA VI                               SCENE VI 
 Susanna, Marcellina, Figaro e Bartolo   Susanna, Marcellina, Figaro and Bartolo 

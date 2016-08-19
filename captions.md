@@ -3357,7 +3357,7 @@ non so cosa pensar.
 
 
   I'm in one of those moods where I need to 
-  recap the story so far to myself.  SO, what
+  recap the story so far to myself.  So, what
   do we have?
   - an anonymous letter,
   - the makeup girl locked in the wardrobe
@@ -3367,10 +3367,8 @@ non so cosa pensar.
   I have no idea what's going on.
 
 
-Potrebbe forse
-qualcun de' miei vassalli ...
-a simil razzo
-è comune l'ardir,
+Potrebbe forse qualcun de' miei vassalli ...
+a simil razzo è comune l'ardir,
 
   Maybe it was one of the extras? or the crew? 
   they're not above it...
@@ -3424,7 +3422,7 @@ SUSANNA:
 [alla Contessa]
 Oh cielo! E Figaro?
 
-
+  ?What about Figaro?
 
 LA CONTESSA:
 A lui non dei dir nulla: in vece tua
@@ -3444,7 +3442,7 @@ LA CONTESSA:
 Pensa, ch'è in tua mano il mio riposo
 [esce]
 
-  Trust me? I need this?
+  I need this.  Trust me?
   
 
 IL CONTE:
@@ -3468,8 +3466,7 @@ Cosa bramate?
 SUSANNA:
 Mi par che siete in collera!
 
-  You seem angry!
-  ?i'll come back
+  You're angry!
 
 
 IL CONTE:
@@ -3520,15 +3517,12 @@ sul punto d'ottenerlo?
   fiancé marry someone else?
   
 
-  
-
 
 SUSANNA:
 Pagando Marcellina
 colla dote che voi mi prometteste...
 
-  Well, I thought you might pay her off...
-  
+  Marcellina? I thought you might pay her off...
 
 
 
@@ -3570,6 +3564,7 @@ IL CONTE:
 Crudel! Perché finora
 farmi languir così?
 
+  ?you bitch!? [slightly too strong]
   Why did you make me wait until now?
 
 
@@ -3596,17 +3591,24 @@ Se piace a voi, verrò.
 IL CONTE:
 E non mi mancherai?
 
+  And you won't let me down?
+
 
 SUSANNA:
 No, non vi mancherò.
+
+  No, I'll be there.
 
 
 IL CONTE:
 Mi sento dal contento
 pieno di gioia il cor.
 
-  ?literal
-  ?poss with italian?
+?literal ?poss with italian?
+
+  My heart is filled
+  with joy and happiness.
+
 
 
 SUSANNA:
@@ -3614,7 +3616,11 @@ SUSANNA:
 Scusatemi se mento,
 voi che intendete amor.
 
-  ?literal
+?literal
+
+  Pardon me if I lie,
+  all you who understand love.
+
 
 
 giardin verrai / se piace verro repeats
@@ -3640,6 +3646,7 @@ IL CONTE:
 (È mia senz'altro.) 
 
 
+
 SUSANNA:
 (Forbitevi la bocca,
 oh signor scaltro.)
@@ -3657,6 +3664,9 @@ SUSANNA:
 Taci, senza avvocato
 hai già vinta la causa.
 [parte]
+
+  Don't worry.  we won't need a lawyer.  I've got this sewn up.
+
 
 FIGARO:
 Cos'è nato?
@@ -3708,6 +3718,7 @@ Tutto giova a un raggiro ...
 il colpo è fatto.
 
   I've got this sewn up!
+  [could combine this with the last one]
 
 
 Vedrò mentre io sospiro,
@@ -3719,6 +3730,15 @@ unita a un vile oggetto
 chi in me destò un affetto
 che per me poi non ha?
 
+  [literal]
+  Shall I see, while I suffer,
+  a servant of mine be happy!
+  And the beauty which I desire in vain,
+  should he possess her?
+  Shall I see the hand of love
+  unite to a low-born suitor
+  she who arouses in me a tenderness
+  which she doesn't feel for me?
 
 Ah no, lasciarti in pace,
 non vo' questo contento,
@@ -3731,16 +3751,27 @@ delle vendette mie
 quest'anima consola,
 e giubilar mi fa.
 
+  [literal]
+  Ah no, I can’t leave
+  this happy man undisturbed.
+  You weren't born, audacious fellow,
+  to be my torment,
+  and perhaps to laugh
+  at my unhappiness.
+  Only the hope
+  of my revenge
+  now consoles my spirit,
+  and brings me joy.
 
-either:
 
-  Figaro, you think you're going to get married
-  to Susanna, you think you're going to drink this
-  champagne?  
-  You've got another thing coming my
-  friend.  You've got another thing coming...
+or sthing like:
 
-?or literal
+Figaro, you think you're going to get married
+to Susanna, you think you're going to drink this
+champagne?  
+You've got another thing coming my
+friend.  You've got another thing coming...
+
 
 
 
@@ -3762,7 +3793,26 @@ Cangiando i miei vestiti
 con quelli di Susanna,
 e i suoi co' miei ...
 al favor della notte ...
-oh cielo, a quale
+
+  I'm now also in one of those moods where I have to recap
+  the plot to myself.
+  I wonder whether Susanna has convinced the count to meet
+  her in the garden?
+
+  Is this a dangerous game I'm playing,
+  with such a jealous husband?  
+  But what harm is there?
+
+  I'll wear Susanna's clothes, and then under the cover 
+  of darkness...
+
+  Is this a dangerous game I'm playing,
+  with such a jealous husband?  
+  But what harm is there?
+
+
+[dramatic recit]
+Oh cielo, a quale
 umil stato fatale io son ridotta
 da un consorte crudel,
 che dopo avermi
@@ -3773,19 +3823,59 @@ e alfin tradita,
 fammi or cercar
 da una mia serva aita!
 
+
+  ?literal?
+  Oh heavens, to what
+  a humiliating state I am reduced 
+  by a cruel husband, 
+  who, after marrying me,
+  with an unheard of mixture
+  of infidelity, jealousy and scorn,
+  first loved, then offended,
+  and at last betrayed me,
+  now makes me turn 
+  to one of my servants for help!
+
+
+
+[fucking smashing aria begins]
+
 Dove sono i bei momenti
 di dolcezza e di piacer,
 dove andaro i giuramenti
 di quel labbro menzogner?
+
+  Where are the beautiful moments
+  of sweetness and of pleasure,
+  what happened to the promises 
+  of that lying tongue?
+
 Perché mai se in pianti e in pene
 per me tutto si cangiò,
 la memoria di quel bene
 dal mio sen non trapassò?
+
+  Whyever, if everything for me
+  was to change to tears and pain,
+  do those happy memories
+  not also pass from my breast?
+
+[dove sono repeats]
+
 Ah! Se almen la mia costanza
 nel languire amando ognor,
 mi portasse una speranza
 di cangiar l'ingrato cor.
 [parte]
+
+  Ah!  If at least my loyalty
+  still loves in this pain,
+  it may bring me some hope
+  of changing that ungrateful heart.
+
+
+
+
 
 
 
@@ -3927,6 +4017,7 @@ Cosa sento!
 
 MARCELLINA:
 Ecco tuo padre.
+
 
 ## N. 19. Sestetto
 
@@ -4096,6 +4187,9 @@ resister or sa.
  [Il Conte e Don Curzio partono.]
 
 
+
+
+
 # SCENA VI
 Susanna, Marcellina, Figaro e Bartolo
 
@@ -4115,6 +4209,7 @@ mia consorte voi siete;
 e le nozze farem
 quando volete.
 
+
 MARCELLINA:
 Oggi, e doppie saranno.
 [dà il biglietto a Figaro]
@@ -4122,21 +4217,26 @@ Prendi, questo è il biglietto
 del danar che a me devi,
 ed è tua dote.
 
+
 SUSANNA:
 [getta per terra una borsa di danari]
 
 Prendi ancor questa borsa.
 
+
 BARTOLO:
 [fa lo stesso]
 E questa ancora.
+
 
 FIGARO:
 Bravi,
 gittate pur ch'io piglio ognora.
 
-"SUSANNA:
+
+SUSANNA:
 Chi al par di me contenta!
+
 
 FIGARO, BARTOLO & MARCELLINA:
 Io!
@@ -4149,8 +4249,8 @@ al gusto mio.
 
 # SCENA X
 LA CONTESSA:
-Piano,
-che meglio or lo porremo in gabbia.
+// Piano,
+// che meglio or lo porremo in gabbia.
 Dov'è l'appuntamento
 che tu gli proponesti?
 
@@ -4160,51 +4260,46 @@ In giardino.
 LA CONTESSA:
 Fissiamgli un loco. Scrivi.
 
+
 SUSANNA:
 Ch'io scriva ... ma, signora ...
 
 
 LA CONTESSA:
 Eh, scrivi dico; e tutto
-[Susanna siede e scrive]
 io prendo su me stessa.
+
 Canzonetta sull'aria ... 
+
 
 ## N.21. Duettino
 
 SUSANNA:
-[scrivendo]
 Sull'aria ... 
-
 LA CONTESSA:
 Che soave zeffiretto ... 
-
 SUSANNA:
 Zeffiretto ... 
-
 LA CONTESSA:
 Questa sera spirerà ... 
-
 SUSANNA:
 Questa sera spirerà ... 
-
 LA CONTESSA:
 Sotto i pini del boschetto.
-
 SUSANNA:
 Sotto i pini ... 
-
 LA CONTESSA:
 Sotto i pini del boschetto.
-
 SUSANNA:
 Sotto i pini ... del boschetto ... 
-
 LA CONTESSA:
 Ei già il resto capirà.
-
 SUSANNA:
 Certo, certo il capirà.
+
+  [abstract?]
+
+
 
 ## Recitativo
 
@@ -4327,12 +4422,22 @@ Or non parliamo.
 Ecco qui le due nozze,
 riceverle dobbiam, alfin si tratta
 d'una vostra protetta.
+
+  Let's get this last scene filmed so they can finally
+  get married!
+
+
 Seggiamo.
+
+  Direct!
+
 
 IL CONTE:
 Seggiamo (e meditiam vendetta).
 
 [Siedono; la marcia s'avvicina.]
+
+
 
 # SCENA XIV
 I suddetti, Figaro, Susanna,
@@ -4340,9 +4445,6 @@ Marcellina, Bartolo,
 Antonio, Barbarina, cacciatori,
 contadini e contadine
 
-[Due giovinette che portano il cappel
-
-[Two girls carry a white bride’s hat
 
 DUE DONNE:
 Amanti costanti,
@@ -4354,33 +4456,22 @@ che oltraggia, che offende,
 ei caste vi rende
 ai vostri amator.
 
-TUTTI:
-Cantiamo, lodiamo
-sì saggio signor!
+  [countess + cherub sing from semi-offstage]
+  abstract?
+  or literal?
 
-[I figuranti ballano. Susanna essendo
-
-[They dance.  Susanna, while kneeling
 
 IL CONTE:
-[cava il biglietto e nel aprirlo
-si punge il dito]
+[cava il biglietto e nel aprirlo si punge il dito]
 Eh già, la solita usanza,
 le donne ficcan gli aghi in ogni loco
 Ah, ah, capisco il gioco.
 
-FIGARO:
-[vede tutto e dice a Susanna]
-Un biglietto amoroso
-che gli diè nel passar qualche galant
-ed era sigillato d'una spilla,
-ond'ei si punse il dito,
-[Il Conte legge, bacia il biglietto,
-cerca la spilla, la trova e se la
-mettealla manica del saio.]
+  [?literal]
+  Oh, as usual,
+  women must stick pins everywhere.  
+  Ha, ha, I understand the game.     
 
-Il Narciso or la cerca;
-oh, che stordito!
 
 IL CONTE:
 Andate, amici! E sia per questa sera
@@ -4391,6 +4482,10 @@ magnifica la feste, e canti e fuochi,
 e gran cena, e gran ballo,
 e ognuno impari
 com'io tratto color che a me son cari
+
+
+  I'll make it a grand wedding!
+
 
 CORO:
 Amanti costanti,
@@ -4404,8 +4499,20 @@ ai vostri amator.
 Cantiamo, lodiamo
 sì saggio signor!
 
-[Tutti partono.]
 
+
+FIGARO:
+[vede tutto e dice a Susanna]
+Un biglietto amoroso
+che gli diè nel passar qualche galant
+ed era sigillato d'una spilla,
+ond'ei si punse il dito,
+[Il Conte legge, bacia il biglietto,
+cerca la spilla, la trova e se la
+mettealla manica del saio.]
+
+Il Narciso or la cerca;
+oh, che stordito!
 
 # ATTO QUARTO
 
