@@ -4514,6 +4514,10 @@ mettealla manica del saio.]
 Il Narciso or la cerca;
 oh, che stordito!
 
+
+
+
+
 # ATTO QUARTO
 
 Giardino
@@ -4524,23 +4528,39 @@ Marcellina e Figaro
 FIGARO:
 Madre!
 
+  [?]
+  Mother!
+
 MARCELLINA:
 Figlio!
+
+  [?]
+  Son!
+
 
 FIGARO:
 Son morto!
 
+
 MARCELLINA:
 Calmati, figlio mio.
 
+  What's wrong?
+
+
 FIGARO:
 Son morto, dico.
+
 
 MARCELLINA:
 Flemma, flemma, e poi flemma!
 Il fatto è serio;
 e pensarci convien, ma pensa un poco
 che ancor non sai di chi prenda gioco
+
+  Don't jump to conclusions.  You 
+  can't be sure who's playing who...
+
 
 FIGARO:
 Ah, quella spilla, oh madre,
@@ -4550,12 +4570,19 @@ All'erta dunque:
 il loco del congresso
 so dov'è stabilito ...
 
+  It's her.  There's no doubt about it.
+  They're going to meet on the green stage...
+
+
 MARCELLINA:
 Dove vai figlio mio?
 
 FIGARO:
 A vendicar tutti i mariti: addio.
 [parte]
+
+  To take revenge for all husbands!
+
 
 
 # SCENA IV
@@ -4569,12 +4596,24 @@ io la credo innocente: quella faccia,
 quell'aria di modestia ...
 è caso ancora
 ch'ella non fosse ...
-ah quando il cor non ciurma
+
+  No, I don't believe Susanna would do this.
+
+
+Ah quando il cor non ciurma
 personale interesse,
 ogni donna è portata alla difesa
 del suo povero sesso,
 da questi uomini ingrati
 a torto oppresso.
+
+  When there's 
+  no personal interest in it,
+  all women are forced to defend
+  those of their own poor sex,
+  from the cruel oppression
+  of these ungrateful men.  
+
 
 
 # SCENA VI
@@ -4586,6 +4625,9 @@ Sembri un cospirator.
 Che diamin sono
 quegli infausti apparati?
 
+  What's with the long face?
+
+
 FIGARO:
 Lo vedrete tra poco.
 In questo loco
@@ -4593,10 +4635,21 @@ celebrerem la festa
 della mia sposa onesta
 e del feudal signor ...
 
+  You'll see them, right here, 
+  my faithful wife and my boss..
+  [? having their own little party...]
+
+
+
 BASILIO:
 Ah, buono, buono,
 capisco come egli è,
 (Accordati si son senza di me.)
+
+  i know 
+  [make fig angry]
+
+
 
 FIGARO:
 Voi da questi contorni
@@ -4604,6 +4657,10 @@ non vi scostate; intanto
 io vado a dar certi ordini,
 e torno in pochi istanti.
 A un fischio mio correte tutti quanti
+
+  You guys stay right here and wait for my signal.
+
+
 [Partono tutti eccettuati
 Bartolo e Basilio.]
 
@@ -4624,14 +4681,25 @@ ella d'accordo
 gli die' un appuntamento
 che a Figaro non piace.
 
+  Seems Susanna's got a special meeting with the boss
+  and Figaro doesn't like it.
+  
+
+
 BARTOLO:
-E che,
-dunque dovria soffrirlo in pace?
+
+E che, dunque dovria soffrirlo in pace?
+
+  Why should he put up with it?
 
 
 BASILIO:
 Quel che soffrono tanti
 ei soffrir non potrebbe?
+
+  Hey, he wouldn't be the first.
+
+
 E poi sentite,
 che guadagno può far?
 Nel mondo, amico,
@@ -4640,9 +4708,13 @@ fu pericolo ognora:
 dan novanta per cento
 e han vinto ancora.
 
-[Basilio e Bartolo partono.]
+  In this world my friend, you get in the way of 
+  what powerful people want,
+  you get run over.
+  
 
-
+  
+  
 # SCENA VIII
 Figaro solo
 

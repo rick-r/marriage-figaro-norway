@@ -31,6 +31,13 @@ un biglietto
 - fake love note
 - cherubino contract)
 
+madre
+padre
+figlio
+
+
+strepito
+
 
 
 SCENA III

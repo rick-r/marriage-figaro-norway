@@ -3391,7 +3391,7 @@ IL CONTE:                              COUNT:
 [cava il biglietto e nel aprirlo       [takes out the letter and in opening it 
 si punge il dito]                      pricks his finger]
 Eh già, la solita usanza,              Oh, as usual,
-le donne ficcan gli aghi in ogni loco   women must stick pins everywhere.
+le donne ficcan gli aghi in ogni loco  women must stick pins everywhere.
 Ah, ah, capisco il gioco.              Ha, ha, I understand the game.
              
 FIGARO:                                FIGARO:             
@@ -3458,7 +3458,7 @@ MARCELLINA:                            MARCELLINA:
 Flemma, flemma, e poi flemma!          Be patient!
 Il fatto è serio;                      The case is serious;
 e pensarci convien, ma pensa un poco   and we must think it over, but just reflect
-che ancor non sai di chi prenda gioco  . you still don't know who the trick is on.
+che ancor non sai di chi prenda gioco. you still don't know who the trick is on.
                                           
 FIGARO:                                FIGARO: 
 Ah, quella spilla, oh madre,           Ah, that pin, mother,
@@ -3483,7 +3483,7 @@ Recitativo                             Recitative
                                           
 MARCELLINA:                            MARCELLINA:
 Presto avvertiam Susanna:              Quickly now, I'll tell Susanna:
-io la credo innocente: quella faccia,   I believe she's innocent: that face,
+io la credo innocente: quella faccia,  I believe she's innocent: that face,
 quell'aria di modestia ...             that modest air ...
 è caso ancora                          and it still
 ch'ella non fosse ...                  isn't proven 
