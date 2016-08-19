@@ -3373,7 +3373,7 @@ a simil razzo
 è comune l'ardir,
 
   Maybe it was one of the extras? or the crew? 
-  they're not above it.
+  they're not above it...
 
 
 ma la Contessa ...
@@ -3389,6 +3389,9 @@ e l'onor mio ...
 l'onore ... dove diamin l'ha posto umano errore!
 
   (some sort of honour/ relationship / career callback)
+e l'onor mio ... l'onore ...           and my honour ...  honour ... 
+dove diamin l'ha posto umano errore!   where the devil has human error put it!
+?literal?
 
 
 
@@ -3427,8 +3430,7 @@ LA CONTESSA:
 A lui non dei dir nulla: in vece tua
 voglio andarci io medesma.
 
-  Don't worry.  I'll be the one meeting him, not you
-  ?dont tell figaro
+  We don't need to tell Figaro.  I'll be the one going to the green stage, not you
 
 
 
@@ -3442,8 +3444,7 @@ LA CONTESSA:
 Pensa, ch'è in tua mano il mio riposo
 [esce]
 
-  I need this?
-  Trust me?
+  Trust me? I need this?
   
 
 IL CONTE:
@@ -3493,7 +3494,7 @@ Prendete.
 SUSANNA:
 Or vel riporto.
 
-  I'll bring it back
+  I'll bring them back.
 
 
 IL CONTE:
@@ -3632,13 +3633,16 @@ Carissima!
 SUSANNA:
 Vien gente.
 
+  People are coming!
+
+
 IL CONTE: 
 (È mia senz'altro.) 
+
 
 SUSANNA:
 (Forbitevi la bocca,
 oh signor scaltro.)
-
 
 
 
@@ -3660,7 +3664,6 @@ Cos'è nato?
 
 
 # SCENA IV
-Il Conte solo
 
 ## N. 18. Recitativo ed Aria
 
@@ -3668,18 +3671,44 @@ IL CONTE:
 Hai già vinta la causa!
 Cosa sento!
 In qual laccio io cadea?
+
+  What's that?  Why are those two so happy?
+  I'm being set up here!
+
+
 Perfidi! Io voglio ...
 Di tal modo punirvi - A piacer mio
-la sentenza sarà ... Ma s'ei pagasse
+la sentenza sarà ... 
+
+  Bastards!  I'll show them.  I'm not
+  going to be made a fool of...
+
+
+
+Ma s'ei pagasse
 la vecchia pretendente?
 Pagarla! In qual maniera!
+
+  What if they do get the money to pay off Marcellina's contract
+  somehow.  No, we've got to make sure that can't happen.
+
+
 E poi v'è Antonio,
 che a un incognito Figaro ricusa
 di dare una nipote in matrimonio.
 Coltivando l'orgoglio
 di questo mentecatto ...
+
+  something something contract.
+  haha.  this is why paying for the best lawyers in
+  Hollywood is worth it!
+
+
 Tutto giova a un raggiro ...
 il colpo è fatto.
+
+  I've got this sewn up!
+
 
 Vedrò mentre io sospiro,
 felice un servo mio!
@@ -3689,6 +3718,8 @@ Vedrò per man d'amore
 unita a un vile oggetto
 chi in me destò un affetto
 che per me poi non ha?
+
+
 Ah no, lasciarti in pace,
 non vo' questo contento,
 tu non nascesti, audace,
@@ -3699,6 +3730,20 @@ Già la speranza sola
 delle vendette mie
 quest'anima consola,
 e giubilar mi fa.
+
+
+either:
+
+  Figaro, you think you're going to get married
+  to Susanna, you think you're going to drink this
+  champagne?  
+  You've got another thing coming my
+  friend.  You've got another thing coming...
+
+?or literal
+
+
+
 
 
 # SCENA (VIII)
