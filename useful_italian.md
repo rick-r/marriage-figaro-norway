@@ -35,8 +35,19 @@ madre
 padre
 figlio
 
-
 strepito
+
+carina
+
+
+TOP THREE JOKES THAT ARE ACTUALLY DIRECT TRANSLATIONS FROM THE ITALIAN
+
+1. because i'm your susanna, and you're an idiot.
+
+2. 
+
+3. we're not going in there to read a book
+
 
 
 
@@ -677,7 +688,7 @@ IL CONTE:                          C
 Cosa si brama?                     W
 
 FIGARO:                            F
-"Le nostre nozze 			     Our wedding"
+"Le nostre nozze 
 si son già stabilite.              i
 Or a voi tocca                     N
 costei che un vostro dono          t
@@ -1101,7 +1112,7 @@ LA CONTESSA:                       C
 Più indietro.                      H
 
 SUSANNA:                           S
-"Cospetto				     Heavens!"
+"Cospetto
 Ha il braccio più candido del mio! H
 Qualche ragazza ...                S
 
@@ -1113,7 +1124,7 @@ d'inglese taffetà:                 E
 ch'è sullo scrigno:                i
 
 CHERUBINO:                         C
-"Susanna scherza; 			     Susanna moc"
+"Susanna scherza;
 ed io frattanto parto..            a
 
 LA CONTESSA:                       C
@@ -2977,7 +2988,7 @@ FIGARO:
 Bravi,
 gittate pur ch'io piglio ognora.
 
-"SUSANNA:					 SUSANNA:"
+"SUSANNA:
 Chi al par di me contenta!
 
 FIGARO, BARTOLO & MARCELLINA:

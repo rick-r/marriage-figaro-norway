@@ -496,59 +496,67 @@ MARCELLINA:
 Via resti servita,
 Madama brillante.
 
-"After you, you pretty young thing?"
-
+  After you, you pretty young thing?
 
 
 Non sono sì ardita,
 madama piccante.
 
-"Oh no, after you, witty lady"
+  Oh no, after you, witty lady
 
 
 No, prima a lei tocca.
-"after you"
+
+  After you!
 
 No, no, tocca a lei.
-"after you"
+
+  After you!
 
 La sposa novella!
-"the bride to be!"
+
+  The bride to be!
 
 La dama d'onore!
-"the maid of honour!"
 
-(some duet. ?)
+  The maid of honour!
 
 
 Del Conte la bella!
-"the boss's favourite"
+
+  The boss's favourite!
 
 Di Spagna l'amore!
-"Hollywood's golden girl!"
+
+  Hollywood's golden girl!
 
 
 I meriti!
-"your qualifications!"
+
+  Your qualifications!
 
 L'abito!
-"your fashion sense!"
+
+  Your fashion sense!
 
 Il posto!
-"your position"
+
+  Your position
 
 L'età!
-"your age"
+
+  Your age
 
 
 Per Bacco, precipito,
 se ancor resto qua.
-"_*&*#*!_"
 
+  _*&*#*!_
 
 Sibilla decrepita,
 da rider mi fa.
-"Don't make me laugh."
+
+  Don't make me laugh.
 
 
 
@@ -3366,6 +3374,9 @@ non so cosa pensar.
   - and another one claims it was him
   I have no idea what's going on.
 
+  
+
+
 
 Potrebbe forse qualcun de' miei vassalli ...
 a simil razzo è comune l'ardir,
@@ -4725,30 +4736,59 @@ Tutto è disposto: l'ora
 dovrebbe esser vicina;
 io sento gente.
 È dessa ... non è alcun ...
+
+  ?nothing?
+  or
+  they should be hear soon.  Wait -- is that? no.
+
 buia è la notte ...
 ed io comincio omai,
 a fare il scimunito
 mestiero di marito.
+
+
+[throws tie off]
 Ingrata! Nel momento
 della mia cerimonia
 ei godeva leggendo, e nel vederlo
 io rideva di me, senza saperlo.
+
+  How could you!  During our actual
+  wedding ceremony, he was laughing at
+  me, I was laughing at myself
+  
+
 Oh Susanna, Susanna,
 quanta pena mi costi,
 con quell'ingenua faccia ...
 con quegli occhi innocenti ...
 chi creduto l'avria?
+
+  Susanna! Your face, your innocent eyes,
+  I still can't believe it...
+
+[cherubino enters]
 Ah, che il fidarsi a donna
 è ognor follia.
+
+  Ah, anyone that trusts a woman is an idiot!
+  
+
+[aria begins]
 
 Aprite un po' quegl'occhi,
 uomini incauti e sciocchi,
 guardate queste femmine,
 guardate cosa son!
+
+  Open your eyes. See women for what they are.
+  
+
 Queste chiamate dee
 dagli ingannati sensi
 a cui tributa incensi
 la debole ragion,
+
 son streghe che incantano
 per farci penar,
 sirene che cantano
@@ -4769,7 +4809,50 @@ non senton pietà,
 no, no, no, no!
 Il resto nol dico,
 già ognun lo sa!
-[si ritira]
+
+[cherubino leaves]
+[caravan comes on]
+[aprite un po repeats...]
+
+
+  ?literal?
+  They are witches who enchant
+  to cause us pain,
+  sirens that sing to us
+  to land us on the rocks,
+  owls who allure us
+  to pluck out our feathers,
+  comets that shine on us
+  to burn out our eyes;
+  they're thorny roses,
+  they're charming vixens, 
+  they're smiling bears,
+  cruel doves,
+  masters of intrigue,
+  friends of trouble,
+  who feign, lie,
+  they feel no love,
+  they feel no pity,
+  no, no, no, no!
+  I won't say the rest,
+  everyone knows it already!
+
+
+  ?or 
+
+  Cherubino, you're still young.
+  You haven't seen women for what they are.
+  Witches.  Bitches.  
+  Liars.  Temptresses.
+
+  You think they have hearts, but they have no pity.
+
+  ?or
+
+  ?reference caravan?
+  bitches etc
+  then, pull self together, i have a plan.
+
 
 
 # SCENA IX
@@ -4781,18 +4864,26 @@ SUSANNA:
 Signora, ella mi disse
 che Figaro verravvi.
 
+  Figaro's coming
+
+
 MARCELLINA:
 Anzi è venuto.
 Abbassa un po' la voce.
+
 
 SUSANNA:
 Dunque, un ci ascolta, e l'altro
 dee venir a cercarmi,
 incominciam.
 
+  Right, one is hiding listening, the other one's on his way, let's start.
+
+
 MARCELLINA:
 [entra dove entrò Barbarina]
 Io voglio qui celarmi.
+
 
 # SCENA X
 I suddetti, Figaro in disparte
@@ -4857,8 +4948,7 @@ Vieni, ben mio,
 tra queste piante ascose,
 ti vo' la fronte incoronar di rose.
 
-[Susanna parte al destro, e la Contes
-entra, travestite come Susanna]
+[aria starts with sus. taking the piss out of fig. ends with her feeling bad, reaching for him]
 
 
 
@@ -4867,10 +4957,11 @@ I suddetti e poi Cherubino
 
 ## Recitativo
 
-FIGARO:
-Perfida! e in quella forma
-ella meco mentia?
-Non so s'io veglio, o dormo.
+/  FIGARO:
+/  Perfida! e in quella forma
+/  ella meco mentia?
+/  Non so s'io veglio, o dormo.
+
 
 CHERUBINO:
 La la la ...
@@ -4891,9 +4982,17 @@ M'inganno, a quel cappello,
 che nell'ombra vegg'io
 parmi Susanna.
 
+  I think that's susanna
+
+
 LA CONTESSA:
 E se il Conte ora vien,
 sorte tiranna!
+
+
+  that must be the count.
+
+
 
 ## N.29. Finale
 
@@ -4901,9 +5000,13 @@ CHERUBINO:
 Pian pianin le andrò più presso,
 tempo perso non sarà.
 
+  let's get a little closer
+
+
 LA CONTESSA:
 (Ah, se il Conte arriva adesso
 qualche imbroglio accaderà!)
+
 
 CHERUBINO:
 [alla Contessa]
@@ -4911,6 +5014,7 @@ Susanetta ... non risponde ...
 colla mano il volto asconde ...
 or la burlo, in verità.
 [le prende la mano e l'accarezza]
+
 
 LA CONTESSA:
 [cerca liberarsi]
@@ -4931,7 +5035,8 @@ Ecco qui la mia Susanna!
 SUSANNA & FIGARO:
 Ecco qui l'uccellatore.
 
-[Susanna s'asconde e guarda loro]
+
+
 
 CHERUBINO:
 Non far meco la tiranna.
@@ -4941,6 +5046,9 @@ Ah, nel sen mi batte il core!
 Un altr'uom con lei sta;
 alla voce è quegli il paggio.
 
+  ?abstract
+
+
 LA CONTESSA:
 Via partite, o chiamo gente!
 
@@ -4948,56 +5056,72 @@ CHERUBINO:
 [sempre tenendola per la mano]
 Dammi un bacio, o non fai niente.
 
+  A little kiss...
+
 LA CONTESSA:
 Anche un bacio, che coraggio!
+
+
 
 CHERUBINO:
 E perché far io non posso,
 quel che il Conte ognor farà?
 
+
+[they repeat this about 10 times]
 SUSANNA, LA CONTESSA,
 IL CONTE & FIGARO:
 (Temerario!)
 
+  you little...
+
+
+  
+
 CHERUBINO:
 Oh ve', che smorfie!
 Sai ch'io fui dietro il sofà.
+
 
 SUSANNA, LA CONTESSA,
 IL CONTE & FIGARO:
 [Se il ribaldo ancor sta saldo
 la faccenda guasterà.]
 
+  We've got to that kid out of here, or he'll ruin the plan
+
+
 CHERUBINO:
 [volendo dar un bacio alla Contessa]
 Prendi intanto ...
-[Il Conte, mettendosi tra la
-Contessa ed il paggio,
-riceve il bacio.]
 
 LA CONTESSA & CHERUBINO:
 Oh cielo, il Conte!
-[Cherubino entra da Barbarina.]
 
 FIGARO:
-[appressandosi al Conte]
 Vo' veder cosa fan là.
 
 IL CONTE:
-[crede di dar uno schiaffo al paggio
-e lo dà a Figaro]
 Perché voi nol ripetete,
 ricevete questo qua!
 
+
+
+[ensemble]
 FIGARO, SUSANNA & LA CONTESSA:
 [Ah, ci ho/ha fatto un bel guadagno
 colla mia/sua curiosità!]
-
 IL CONTE:
 Ah, ci ha fatto un bel guadagno
 colla sua temerità!
-[Figaro si ritira.]
-[alla Contessa]
+
+  abstract?
+
+  ? everyone's on their way to learning a valuable lesson
+
+
+[all calms down, count + countess left alone ish]
+
 Partito è alfin l'audace,
 accostati ben mio!
 
@@ -5005,9 +5129,14 @@ LA CONTESSA:
 Giacché così vi piace,
 eccomi qui signor.
 
+  Here I am.  See anything you like?
+
 FIGARO:
 Che compiacente femmina!
 Che sposa di buon cor!
+
+  What an obliging little wife!
+
 
 IL CONTE:
 Porgimi la manina!
@@ -5026,22 +5155,33 @@ Che dita tenerelle,
 che delicata pelle,
 mi pizzica, mi stuzzica,
 m'empie d'un nuovo ardor.
+  
+  such soft skin...
+
 
 LA CONTESSA, SUSANNA & FIGARO:
 La cieca prevenzione
 delude la ragione
 inganna i sensi ognor.
 
+  he doesn't know what he's doing?
+  he can't help himself.
+
+
 IL CONTE:
 Oltre la dote, oh cara,
 ricevi anco un brillante
 che a te porge un amante
 in pegno del suo amor.
-[le dà un anello]
+
+  wait, here, have this highly identifiable ring
+
+
 
 LA CONTESSA:
 Tutto Susanna piglia
 dal suo benefattor.
+
 
 SUSANNA, IL CONTE & FIGARO:
 Va tutto a maraviglia,
@@ -5052,31 +5192,48 @@ LA CONTESSA:
 Signor, d'accese fiaccole
 io veggio il balenar.
 
+  Someone's coming!
+  (may not be necessary)
+  (or combine with next)
+
+
 IL CONTE:
 Entriam, mia bella Venere,
 andiamoci a celar!
+
+  Let's go somewhere more private
+
 
 SUSANNA & FIGARO:
 Mariti scimuniti,
 venite ad imparar!
 
+[quick]
 LA CONTESSA:
 Al buio, signor mio?
 
+  So dark...
+
 IL CONTE:
 È quello che vogl'io.
+
 Tu sai che là per leggere
 io non desio d'entrar.
+
+  We're not going in there to read a book.
+
 
 
 SUSANNA & LA CONTESSA:
 I furbi sono in trappola,
 comincia ben l'affar.
-
 FIGARO:
 La perfida lo seguita,
 è vano il dubitar.
-[passa]
+
+  ?abstract for these guys?
+
+
 
 IL CONTE:
 Chi passa?
@@ -5086,11 +5243,20 @@ Passa gente!
 
 LA CONTESSA:
 È Figaro; men vò!
-[entra a man destra]
+
+  It's Figaro.  I have to go.
+
 
 IL CONTE:
 Andate; io poi verrò.
-[si disperde pel bosco]
+
+
+  stay right here.  I'll take care of it...
+
+
+[count leaves, where's he going?? may need a caption on last one to xplain]
+
+
 
 
 # SCENA XIII
@@ -5103,8 +5269,10 @@ col vago Marte a prendere
 nuovo Vulcan del secolo
 in rete la potrò.
 
+
 SUSANNA:
 Ehi, Figaro, tacete.
+
 
 FIGARO:
 Oh, questa è la Contessa ...
@@ -5114,14 +5282,22 @@ il Conte, e la mia sposa ...
 di propria man la cosa
 toccar io vi farò.
 
-SUSANNA:
+  Rosina!  look, my wife, your husband, come here, I'll show you
 
+
+SUSANNA:
 Parlate un po' più basso,
 di qua non muovo il passo,
 ma vendicar mi vò.
 
+  Shh.  Listen, come here, I desire revenge!
+
+
 FIGARO:
 (Susanna!) Vendicarsi?
+
+  [how the fuck do we show that figaro's recognised her?]
+
 
 SUSANNA:
 Sì.
@@ -5129,15 +5305,27 @@ Sì.
 FIGARO:
 Come potria farsi?
 
+  Revenge you say?
+
+
+
 SUSANNA:
 (L'iniquo io vo' sorprendere,
 poi so quel che farò.)
-
 FIGARO:
 (La volpe vuol sorprendermi,
 e secondarla vò.)
-[s'inginocchia]
+
+  ?abstract?  cross vs double cross?
+  or
+  haha, he doesn't know who i am; i'll trick him
+  ...
+  haha, she thinks I don't know who she is, but she doesn't know that i
+  actually do know who she really is; i'll trick her!
+
+
 Ah se madama il vuole!
+
 
 SUSANNA:
 Su via, manco parole.
@@ -5148,13 +5336,19 @@ ho pieno il cor di foco ...
 Esaminate il loco ...
 pensate al traditor.
 
+  here I am your feet my lady, with a heat full of jealous fire, think of your
+  treacherous husband...
+ 
+
 SUSANNA:
 (Come la man mi pizzica,
 che smania, che furor!)
-
 FIGARO:
 (Come il polmon mi s'altera,
 che smania, che calor!)
+
+  ?abstract
+
 
 SUSANNA:
 E senz'alcun affetto?
@@ -5164,7 +5358,12 @@ Suppliscavi il rispetto.
 Non perdiam tempo invano,
 datemi un po' la mano ...
 
+  Give me your hand...
+
+
 SUSANNA: [gli dà uno schiaffo]
+
+  Here!
 
 Servitevi, signor.
 
@@ -5179,6 +5378,9 @@ e questo, e questo,
 e ancora questo, e questo,
 e poi quest'altro.
 
+  Take that!  And that, and that!
+
+
 FIGARO:
 Non batter così presto.
 
@@ -5186,9 +5388,17 @@ SUSANNA:
 E questo, signor scaltro,
 e questo, e poi quest'altro ancor.
 
+
+
 FIGARO:
 O schiaffi graziosissimi,
 oh, mio felice amor.
+
+
+  Beautiful slaps, my beautiful love
+  ? or literal
+
+
 
 SUSANNA:
 Impara, impara, oh perfido,
@@ -5206,15 +5416,23 @@ Pace, pace, mio dolce tesoro,
 io conobbi la voce che adoro
 e che impressa ognor serbo nel cor.
 
+  i knew it was you all along.
+
+
 SUSANNA:
 La mia voce?
 
 FIGARO:
 La voce che adoro.
 
+
 SUSANNA & FIGARO:
 Pace, pace, mio dolce tesoro,
 pace, pace, mio tenero amor.
+
+  and we're back together.  we'll pretend it never happened.
+
+
 
 IL CONTE:
 Non la trovo e girai tutto il bosco.
