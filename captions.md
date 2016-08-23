@@ -376,8 +376,9 @@ tutte le macchine rovescerò.
 
 Se vuol ballare, Signor Contino,
 il chitarrino le suonerò.
-If you want to dance, my dear little Count
-I'll play the tune for you on my guitar.
+
+    If you want to dance, my dear little Count
+    I'll play the tune for you on my guitar.
 
 
 # SCENA III
