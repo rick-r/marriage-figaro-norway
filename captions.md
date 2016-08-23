@@ -90,7 +90,7 @@ trenta ... trentasei ... quarantatre
 // "5 horsepower, 10 cylinders, 36 watts airconditioning, caravan caravan
 (maybe repeated/more)
 
-  5 grand? 10? 20? 30?  36? 43?  43 grand!?!
+    5 grand? 10? 20? 30?  36? 43?  43 grand!?!
 
 
 
@@ -99,7 +99,7 @@ sembra fatto inver per me.
 Guarda un po', mio caro Figaro,
 guarda adesso il mio cappello.
 
-  Look, I think this really suits me now, what do you think Figaro?
+    Look, I think this really suits me now, what do you think Figaro?
 
 
 
