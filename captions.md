@@ -1499,7 +1499,7 @@ sia costretto a far poi
 quel che si brama.
 
   But wait, there's more!  We'll tell him that
-  you're going to meet him on the green stage
+  you're going to meet him on the garden stage
   later tonight.  But we'll actually send
   Cherubino, dressed up as you, and then we'll
   organise for his leading lady to catch him
@@ -2175,7 +2175,7 @@ CHERUBINO:
 Veggiamo un po' qui fuori.
 Dà proprio nel giardino.
 
-  That's the green stage down there...
+  That's the garden stage down there...
 
 
 
@@ -3699,7 +3699,7 @@ tempo ha dir di sì.
 IL CONTE:
 Dunque, in giardin verrai?
 
-  So... On the green stage? 
+  So... On the garden stage? 
 
 
 SUSANNA:
@@ -3890,7 +3890,7 @@ da una mia serva aita!
   What a humiliating state I am reduced to,
   by a cruel husband, 
 
-  [green stage back]
+  [garden stage back]
   By a mixture of infidelity, jealousy and scorn,
 
   [upstage left]
@@ -3921,12 +3921,12 @@ per me tutto si cangiò,
 la memoria di quel bene
 dal mio sen non trapassò?
 
-  [green stage back]
+  [garden stage back]
   Everything has changed to tears and pain,
   why do those memories linger?
 
 
-  [dove sono repeats. fade out green stage back, leave other two on]
+  [dove sono repeats. fade out garden stage back, leave other two on]
 
 
 Ah! Se almen la mia costanza
@@ -3934,7 +3934,7 @@ nel languire amando ognor,
 mi portasse una speranza
 di cangiar l'ingrato cor.
 
-  [green stage back, dove sonos fade out]
+  [garden stage back, dove sonos fade out]
   If only the pain of my loyalty
   could change that ungrateful heart
 
