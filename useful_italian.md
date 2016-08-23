@@ -12,7 +12,7 @@ Ascolta ...
 
 brami, bramare
 
-sospetti,
+* sospetti
 
 taci
 chetati
@@ -38,6 +38,8 @@ figlio
 strepito
 
 carina
+
+incoronar di rose.
 
 
 TOP THREE JOKES THAT ARE ACTUALLY DIRECT TRANSLATIONS FROM THE ITALIAN
