@@ -90,7 +90,7 @@ trenta ... trentasei ... quarantatre
 // "5 horsepower, 10 cylinders, 36 watts airconditioning, caravan caravan
 (maybe repeated/more)
 
-      5 grand? 10? 20? 30?  36? 43?  43 grand!?!
+    5 grand? 10? 20? 30?  36? 43?  43 grand!?!
 
 
 
@@ -99,7 +99,7 @@ sembra fatto inver per me.
 Guarda un po', mio caro Figaro,
 guarda adesso il mio cappello.
 
-      Look, I think this really suits me now, what do you think Figaro?
+    Look, I think this really suits me now, what do you think Figaro?
 
 
 
@@ -5101,6 +5101,10 @@ l'amenità del loco,
 la terra e il ciel risponda,
 come la notte i furti miei seconda!
 
+  At last the moment approaches
+  which I'll enjoy unhurried
+  in my beloved's arms.
+
 Deh, vieni, non tardar,
 oh gioia bella,
 vieni ove amore per goder t'appella,
@@ -5115,11 +5119,24 @@ il cor ristaura,
 qui ridono i fioretti
 e l'erba è fresca,
 ai piaceri d'amor qui tutto adesca.
+
+[aria starts with sus. taking the piss out of fig. ends with her feeling bad, reaching for him]
+
+
+  Oh, come, don't delay, 
+  my beautiful joy,
+  come where love calls you for enjoyment,
+  while the moon still 
+  shines in the sky,
+
+
 Vieni, ben mio,
 tra queste piante ascose,
 ti vo' la fronte incoronar di rose.
 
-[aria starts with sus. taking the piss out of fig. ends with her feeling bad, reaching for him]
+  Come, my love,
+  among these hidden trees,
+  I want to crown you with roses.
 
 
 
@@ -5127,12 +5144,6 @@ ti vo' la fronte incoronar di rose.
 I suddetti e poi Cherubino
 
 ## Recitativo
-
-/  FIGARO:
-/  Perfida! e in quella forma
-/  ella meco mentia?
-/  Non so s'io veglio, o dormo.
-
 
 CHERUBINO:
 La la la ...
@@ -5159,7 +5170,6 @@ parmi Susanna.
 LA CONTESSA:
 E se il Conte ora vien,
 sorte tiranna!
-
 
     that must be the count.
 
@@ -5192,9 +5202,11 @@ LA CONTESSA:
 Arditello, sfacciatello,
 ite presto via di qua!
 
+
 CHERUBINO:
 Smorfiosa, maliziosa,
 io già so perché sei qua!
+
 
 
 # SCENA XII
@@ -5207,10 +5219,9 @@ SUSANNA & FIGARO:
 Ecco qui l'uccellatore.
 
 
-
-
 CHERUBINO:
 Non far meco la tiranna.
+
 
 SUSANNA, IL CONTE & FIGARO:
 Ah, nel sen mi batte il core!
@@ -5345,7 +5356,9 @@ ricevi anco un brillante
 che a te porge un amante
 in pegno del suo amor.
 
-    wait, here, have this highly identifiable ring
+    Wait, here, have this highly identifiable ring
+    [or]
+    Wait, here, have this highly incriminating ring
 
 
 
@@ -5422,10 +5435,10 @@ IL CONTE:
 Andate; io poi verrò.
 
 
-    stay right here.  I'll take care of it...
+    Stay right here.  I'll take care of it...
 
 
-[count leaves, where's he going?? may need a caption on last one to xplain]
+[count leaves]
 
 
 
@@ -5439,6 +5452,9 @@ entrò la bella Venere;
 col vago Marte a prendere
 nuovo Vulcan del secolo
 in rete la potrò.
+
+  Beautiful Venus has come to meet Mars.  
+  But Vulcan will catch them in his net!
 
 
 SUSANNA:
@@ -5507,8 +5523,8 @@ ho pieno il cor di foco ...
 Esaminate il loco ...
 pensate al traditor.
 
-    here I am your feet my lady, with a heat full of jealous fire, think of your
-    treacherous husband...
+    Here I am your feet my lady, with a heat full of jealous fire, think of
+    your treacherous husband...
  
 
 SUSANNA:
@@ -5565,7 +5581,6 @@ FIGARO:
 O schiaffi graziosissimi,
 oh, mio felice amor.
 
-
     Elegant slaps from an elegant lady!
 
 
@@ -5574,13 +5589,12 @@ SUSANNA:
 Impara, impara, oh perfido,
 a fare il seduttor.
 
-    I'll teach you to play Don Juan!
+    I'll teach you to play Don Giovanni!
 
 
 
 
 # SCENA XIV
-I suddetti e poi il Conte
 
 FIGARO:
 Pace, pace, mio dolce tesoro,
@@ -5597,13 +5611,11 @@ La mia voce?
 FIGARO:
 La voce che adoro.
 
-
 SUSANNA & FIGARO:
 Pace, pace, mio dolce tesoro,
 pace, pace, mio tenero amor.
 
     OK. We'll pretend it never happened.
-
 
 
 IL CONTE:
@@ -5612,13 +5624,15 @@ Non la trovo e girai tutto il bosco.
     Where's she gone?
 
 
+
 SUSANNA & FIGARO:
 Questi è il Conte,
 alla voce il conosco.
 
-
 IL CONTE:
 Ehi, Susanna - sei sorda - sei muta?
+
+  Susanna?
 
 
 SUSANNA:
@@ -5630,7 +5644,7 @@ Bella, bella! Non l'ha conosciuta.
 FIGARO:
 Chi?
 
-    who?
+    Who?
 
 SUSANNA:
 Madama!
@@ -5649,6 +5663,7 @@ La commedia, idol mio, terminiamo,
 consoliamo il bizzarro amator!
 
     All right, let's keep the show going.
+
 
 
 FIGARO:
@@ -5686,12 +5701,12 @@ Gente, gente, all'armi, all'armi!
 
     Everybody out here now!
 
-
 FIGARO:
 Il padrone!
 
 IL CONTE:
 Gente, gente, aiuto, aiuto!
+
 
 FIGARO:
 Son perduto!
@@ -5801,11 +5816,14 @@ BARTOLO & ANTONIO:
 Deliro! Vaneggio!
 Che creder non so?)
 
+  
+    [nothing]
+
+    [but find somehwere else for this?]
     What in the actual fuck??
     [or]
     W T F ?
     [one massive letter on each part of the stage]
-    [sigh.  probably not the right moment for this. maybe]
 
 
 IL CONTE:
