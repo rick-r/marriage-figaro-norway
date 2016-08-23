@@ -96,7 +96,8 @@ trenta ... trentasei ... quarantatre
 
 // "5 horsepower, 10 cylinders, 36 watts airconditioning, caravan caravan"
 (maybe repeated/more)
-5 grand? 10? 20? 30?  36? 43?  43 grand!
+
+  5 grand? 10? 20? 30?  36? 43?  43 grand!?!
 
 
 
@@ -105,7 +106,7 @@ sembra fatto inver per me.
 Guarda un po', mio caro Figaro,
 guarda adesso il mio cappello.
 
-"Look, I think this really suits me now, what do you think Figaro?"
+  Look, I think this really suits me now, what do you think Figaro?
 
 
 
@@ -4666,12 +4667,9 @@ del suo povero sesso,
 da questi uomini ingrati
 a torto oppresso.
 
-  When there's 
-  no personal interest in it,
-  all women are forced to defend
-  those of their own poor sex,
-  from the cruel oppression
-  of these ungrateful men.  
+  Why is it only when we're no longer
+  in competition that we women 
+  can stick up for each other?
 
 
 
@@ -4694,9 +4692,8 @@ celebrerem la festa
 della mia sposa onesta
 e del feudal signor ...
 
-  You'll see them, right here, 
-  my faithful wife and my boss..
-  [? having their own little party...]
+  Wait her.  You'll see my faithful wife and my boss.
+  Having their own little party...
 
 
 
@@ -4705,8 +4702,7 @@ Ah, buono, buono,
 capisco come egli è,
 (Accordati si son senza di me.)
 
-  i know 
-  [make fig angry]
+  Looks like my services as a match-maker are no longer required eh?
 
 
 
@@ -4718,10 +4714,6 @@ e torno in pochi istanti.
 A un fischio mio correte tutti quanti
 
   You guys stay right here and wait for my signal.
-
-
-[Partono tutti eccettuati
-Bartolo e Basilio.]
 
 
 # SCENA VII
@@ -4743,7 +4735,6 @@ che a Figaro non piace.
   Seems Susanna's got a special meeting with the boss
   and Figaro doesn't like it.
   
-
 
 BARTOLO:
 
@@ -4767,15 +4758,14 @@ fu pericolo ognora:
 dan novanta per cento
 e han vinto ancora.
 
-  In this world my friend, you get in the way of 
-  what powerful people want,
-  you get run over.
+  In this world my friend,
+  powerful people get what they want,
+  and if you stand in the way, you get run over.
   
 
   
   
 # SCENA VIII
-Figaro solo
 
 ## N. 27. Recitativo ed Aria
 
@@ -4785,14 +4775,14 @@ dovrebbe esser vicina;
 io sento gente.
 È dessa ... non è alcun ...
 
-  ?nothing?
-  or
-  they should be hear soon.  Wait -- is that? no.
+  Everything is ready.
 
 buia è la notte ...
 ed io comincio omai,
 a fare il scimunito
 mestiero di marito.
+  
+  Some wedding night.
 
 
 [throws tie off]
@@ -4801,9 +4791,8 @@ della mia cerimonia
 ei godeva leggendo, e nel vederlo
 io rideva di me, senza saperlo.
 
-  How could you!  During our actual
-  wedding ceremony, he was laughing at
-  me, I was laughing at myself
+  How could you?  During the ceremony, I was laughing, but really I was the
+  joke.
   
 
 Oh Susanna, Susanna,
@@ -4814,6 +4803,7 @@ chi creduto l'avria?
 
   Susanna! Your face, your innocent eyes,
   I still can't believe it...
+
 
 [cherubino enters]
 Ah, che il fidarsi a donna
@@ -4858,48 +4848,38 @@ no, no, no, no!
 Il resto nol dico,
 già ognun lo sa!
 
-[cherubino leaves]
-[caravan comes on]
-[aprite un po repeats...]
+  [literals all over the shop]
 
-
-  ?literal?
   They are witches who enchant
   to cause us pain,
+
   sirens that sing to us
   to land us on the rocks,
+
   owls who allure us
   to pluck out our feathers,
+
   comets that shine on us
   to burn out our eyes;
+
   they're thorny roses,
+
   they're charming vixens, 
+
   they're smiling bears,
+
   cruel doves,
+
   masters of intrigue,
+
   friends of trouble,
+
   who feign, lie,
   they feel no love,
   they feel no pity,
   no, no, no, no!
   I won't say the rest,
   everyone knows it already!
-
-
-  ?or 
-
-  Cherubino, you're still young.
-  You haven't seen women for what they are.
-  Witches.  Bitches.  
-  Liars.  Temptresses.
-
-  You think they have hearts, but they have no pity.
-
-  ?or
-
-  ?reference caravan?
-  bitches etc
-  then, pull self together, i have a plan.
 
 
 
@@ -4929,12 +4909,10 @@ incominciam.
 
 
 MARCELLINA:
-[entra dove entrò Barbarina]
 Io voglio qui celarmi.
 
 
 # SCENA X
-I suddetti, Figaro in disparte
 
 SUSANNA:
 Madama, voi tremate; avreste freddo?
@@ -4963,6 +4941,7 @@ SUSANNA:
 Il birbo è in sentinella.
 Divertiamci anche noi,
 diamogli la mercé de' dubbi suoi.
+
 
 ## N. 28. Recitativo ed Aria
 
@@ -5443,8 +5422,7 @@ O schiaffi graziosissimi,
 oh, mio felice amor.
 
 
-  Beautiful slaps, my beautiful love
-  ? or literal
+  Elegant slaps from an elegant lady!
 
 
 
@@ -5452,6 +5430,7 @@ SUSANNA:
 Impara, impara, oh perfido,
 a fare il seduttor.
 
+  I'll teach you to play Don Juan!
 
 
 
@@ -5464,7 +5443,8 @@ Pace, pace, mio dolce tesoro,
 io conobbi la voce che adoro
 e che impressa ognor serbo nel cor.
 
-  i knew it was you all along.
+  Calm down darling.  You think I wouldn't recognise
+  your beautiful voice?
 
 
 SUSANNA:
@@ -5478,31 +5458,41 @@ SUSANNA & FIGARO:
 Pace, pace, mio dolce tesoro,
 pace, pace, mio tenero amor.
 
-  and we're back together.  we'll pretend it never happened.
+  OK. We'll pretend it never happened.
 
 
 
 IL CONTE:
 Non la trovo e girai tutto il bosco.
 
+  Where's she gone?
+
 
 SUSANNA & FIGARO:
 Questi è il Conte,
 alla voce il conosco.
 
+
 IL CONTE:
-[parlando verso la nicchia, dove
-entrò madama, cui apre egli stesso]
 Ehi, Susanna - sei sorda - sei muta?
+
 
 SUSANNA:
 Bella, bella! Non l'ha conosciuta.
 
+  Great, he didn't recognise her
+
+
 FIGARO:
 Chi?
 
+  who?
+
 SUSANNA:
 Madama!
+
+  Rosina?
+
 
 FIGARO:
 Madama?
@@ -5514,12 +5504,18 @@ SUSANNA & FIGARO:
 La commedia, idol mio, terminiamo,
 consoliamo il bizzarro amator!
 
+  All right, let's keep the show going.
+
+
 FIGARO:
-[si mette ai piedi di Susanna]
 Sì, madama, voi siete il ben mio!
+
+  My leading lady...
+
 
 IL CONTE:
 La mia sposa! Ah, senz'arme son io.
+
 
 FIGARO:
 Un ristoro al mio cor concedete.
@@ -5535,16 +5531,15 @@ Ah, corriamo, mio bene,
 e le pene compensi il piacer.
 [Susanna entra nella nicchia.]
 
+
 # SCENA ULTIMA
-I suddetti, Antonio, Curzio,
-Bartolo, Basilio, servitori con
-fiaccole accese; poi Susanna,
-Marcellina, Cherubino, Barbarina;
-indi la Contessa
 
 IL CONTE:
 [arresta Figaro]
 Gente, gente, all'armi, all'armi!
+
+  Everybody out here now!
+
 
 FIGARO:
 Il padrone!
@@ -5555,8 +5550,6 @@ Gente, gente, aiuto, aiuto!
 FIGARO:
 Son perduto!
 
-[Entrano Basilio, Curzio, Antonio,
-Bartolo e il Coro]
 
 TUTTI GLI ALTRI:
 Cosa avvenne?
@@ -5566,22 +5559,27 @@ Il scellerato
 m'ha tradito, m'ha infamato
 e con chi state a veder!
 
+  Look at this traitor!  I've caught him.
+
+
 GLI ALTRI:
 Son stordito, son sbalordito,
 non mi par che ciò sia ver!
-
 FIGARO:
 (Son storditi, son sbalorditi,
 oh che scena, che piacer!)
+
 
 IL CONTE:
 Invan resistete,
 uscite, madama,
 il premio or avrete
 di vostra onestà!
+
 [tira pel braccio Cherubino, dopo
 Barbarina, Marcellina e Susanna]
 Il paggio!
+
 
 FIGARO:
 Mia madre!
@@ -5597,12 +5595,15 @@ SUSANNA:
 [s'inginocchia ai piedi del Conte]
 Perdono! Perdono!
 
+
 IL CONTE:
 No, no, non vo' darlo!.
+
 
 FIGARO:
 [s'inginocchia]
 Perdono! Perdono!
+
 
 IL CONTE:
 No, no, non sperarlo.
@@ -5612,8 +5613,10 @@ TUTTI:
 [s'inginocchiano]
 Perdono! Perdono!
 
+
 IL CONTE:
 No, no, no!
+
 
 LA CONTESSA:
 [esce dall'altra nicchia e vuole
@@ -5621,24 +5624,33 @@ inginocchiarsi, il Conte nol permette
 Almeno io per loro
 perdono otterrò.
 
+
 BASILIO, CURZIO, COUNT,
 BARTOLO & ANTONIO:
 (Oh cielo, che veggio!
 Deliro! Vaneggio!
 Che creder non so?)
 
+
 IL CONTE:
 [s'inginocchia ai piedi
 della Contessa]
 Contessa, perdono!
 
+  Forgive me, my love.
+
+
 LA CONTESSA:
-Più docile io sono,
-e dico di sì.
+Più docile io sono, e dico di sì.
+
+  [callback to count saying no]
+  I will be more gentle, and say yes, I forgive you.
+
 
 TUTTI:
 Ah, tutti contenti
 saremo così.
+
 
 Questo giorno di tormenti,
 di capricci, e di follia,
@@ -5648,4 +5660,21 @@ Sposi, amici, al ballo, al gioco,
 alle mine date foco!
 Ed al suon di lieta marcia
 corriam tutti a festeggiar!
+
+  And the moral of the story is...
+
+  If you're going to be involved in an extramarital affair,
+  you'd best hope that some complicated disguise-based
+  shenanigans help you to realise who it was that you
+  loved all along, before you do anything you'll regret.
+
+  Also, one excellent way of getting out of an arranged
+  marriage is to realise that your spouse-to-be is directly
+  related to you.
+
+  Finally, if you're going to forgive your philandering husband,
+  do it because you really love them, not because you think it's
+  going to make it easier to defeat Donald Trump in the election.
+
+
 
