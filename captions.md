@@ -94,7 +94,7 @@ typewriter text?
 Cinque ... dieci ... venti ...
 trenta ... trentasei ... quarantatre
 
-// "5 horsepower, 10 cylinders, 36 watts airconditioning, caravan caravan"
+// "5 horsepower, 10 cylinders, 36 watts airconditioning, caravan caravan
 (maybe repeated/more)
 
   5 grand? 10? 20? 30?  36? 43?  43 grand!?!
@@ -113,7 +113,7 @@ guarda adesso il mio cappello.
 Sì mio core, or è più bello,
 sembra fatto inver per te.
 
-"Yeah yeah, looks great darling!"
+Yeah yeah, looks great darling!
 
 
 
@@ -123,14 +123,14 @@ quanto è dolce al mio tenero sposo
 questo bel cappellino vezzoso
 che Susanna ella stessa si fe'.
 (duet): 
-"we're looking forward to getting married today, on the last day of filming"
+we're looking forward to getting married today, on the last day of filming
 
 
 
 Cosa stai misurando,
 caro il mio Figaretto?
 
-"What are you reading?"
+What are you reading?
 
 
 
@@ -138,7 +138,7 @@ Io guardo se quel letto
 che ci destina il Conte
 farà buona figura in questo loco.
 
-"I'm just checking out all the specs of... our new trailer!"
+I'm just checking out all the specs of... our new trailer!
 
 
 (No caption for s)
@@ -147,17 +147,17 @@ farà buona figura in questo loco.
 Certo: a noi la cede
 generoso il padrone.
 
-"Mr. Almaviva is giving to us as a wedding gift"
+Mr. Almaviva is giving to us as a wedding gift
 
 
 
 Io per me, te la dono.
-"I don't think we should accept it"
+I don't think we should accept it
 
 
 Perché non voglio.
 Sei tu mio servo, o no?
-"I have my reasons.  Will you just trust me?"
+I have my reasons.  Will you just trust me?
 
 
 
@@ -165,13 +165,13 @@ Ma non capisco
 perché tanto ti spiace
 la più comoda stanza del palazzo.
 
-"I don't get it. Do you have any idea how much these things cost?"
-"I don't get it. Why wouldn't you want the best caravan on location?"
+I don't get it. Do you have any idea how much these things cost?
+I don't get it. Why wouldn't you want the best caravan on location?
 
 
 Perch'io son la Susanna,
 e tu sei pazzo.
-"Because you're an idiot"
+Because you're an idiot
 (callback/response.  Do you have any idea that you're an idiot?/  why wouldn't you want to just shut up now.)
 (could be literal?)
 
@@ -181,7 +181,7 @@ Grazie; non tanti elogi!
 Guarda un poco
 se potriasi star meglio
 in altro loco.
-"Women!  I'll never understand."
+Women!  I'll never understand.
 
 
 ## N. 2 Duettino
@@ -195,7 +195,7 @@ che vuolmi il padrone,
 don, don; in tre salti
 lo vado a servir.
 
-"Just think -- when we're out on location, instead of being in a hotel, we can park it right next to Rosina's trailer, and you can be with her whenever she needs you.  And I can be near Mr Almaviva."
+Just think -- when we're out on location, instead of being in a hotel, we can park it right next to Rosina's trailer, and you can be with her whenever she needs you.  And I can be near Mr Almaviva.
 
 
 Così se il mattino
@@ -205,7 +205,7 @@ tre miglia lontan,
 don don; a mia porta
 il diavol lo porta,
 ed ecco in tre salti ...
-"Yeah.  And we'll be parked right by Almaviva too, and once he's sent you off on a mission to buying 1000 brown M&Ms, he can be at my doorstep at a moment's notice"
+Yeah.  And we'll be parked right by Almaviva too, and once he's sent you off on a mission to buying 1000 brown M&Ms, he can be at my doorstep at a moment's notice
 
 
 FIGARO:                              FIGARO:
@@ -213,11 +213,11 @@ Susanna, pian, pian.                 Susanna, hush.
 
 FIG
 fa presto
-"what are you saying?"
+what are you saying?
 
 
 either:
-"don't jump to conclusions!"
+don't jump to conclusions!
 
 or -- literals:
 Se udir brami il resto,
@@ -246,13 +246,13 @@ ritentar la sua sorte,
 né già di sua consorte, bada bene,
 appetito gli viene ...
 
-"It seems Alamaviva has got tired of sleeping with the lastest wannabe actresses, and is turning his attention towards members of the crew"
+It seems Alamaviva has got tired of sleeping with the lastest wannabe actresses, and is turning his attention towards members of the crew
 
 
 Di me medesma; ed ha speranza,
 che al nobil suo progetto
 utilissima sia tal vicinanza.
-"Who do you think?  That's the whole point of this flashy caravan -- he wants to keep me close by"
+Who do you think?  That's the whole point of this flashy caravan -- he wants to keep me close by
 
 
 ?not caption next one.
@@ -263,18 +263,18 @@ Don Basilio,
 mio maestro di canto, e suo mezzano,
 nel darmi la lezione
 mi ripete ogni dì questa canzone.
-"I've already got Basilio whispering in my ear, telling me this could be the perfect way to advance my career"
+I've already got Basilio whispering in my ear, telling me this could be the perfect way to advance my career
 
 
 
 E tu credevi
 che fosse la mia dote
 merto del tuo bel muso!
-"and you thought it was because he respected your skills as first AD"
+and you thought it was because he respected your skills as first AD
 
 
 Me n'ero lusingato.
-"I thought... After all I've done for him..."
+I thought... After all I've done for him...
 
 
 Ei la destina
@@ -284,7 +284,7 @@ certe mezz'ore ...
 
 
 Chi suona? La Contessa.
-"It's Rosina"
+It's Rosina
 
 
 ?e tu cervello
@@ -304,7 +304,7 @@ e la Susanna ...
 secreta ambasciatrice.
 Non sarà, non sarà. Figaro il dice.
 
-"Almaviva you bastard.  Now I see your plan more clearly, out on location, you the director, me the assistant director, and Susanna on the casting couch?  I don't thinks so!"
+Almaviva you bastard.  Now I see your plan more clearly, out on location, you the director, me the assistant director, and Susanna on the casting couch?  I don't thinks so!
 
 
 
@@ -354,7 +354,7 @@ BARTOLO:
 Ed aspettaste il giorno
 fissato a le sue nozze
 per parlarmi di questo?
-"You wait until the day of his wedding to tell me about this?"
+You wait until the day of his wedding to tell me about this?
 
 
 MARCELLINA:
@@ -371,7 +371,7 @@ oltre questo contratto,
 certi impegni ...
 so io ... 
 
-"I wasn't expecting them to do it this fast! And besides, Figaro has certain... obligations towards me"
+I wasn't expecting them to do it this fast! And besides, Figaro has certain... obligations towards me
 
 
 
@@ -382,7 +382,7 @@ Egli per vendicarsi
 prenderà il mio partito,
 e Figaro così fia mio marito.
 
-"Anyway.  All we need to do is get Susanna to refuse Almaviva's advances, and the he'll do the job for me.  He'll call the wedding off, and then Figaro will be mine.  Oh yes, he will."
+Anyway.  All we need to do is get Susanna to refuse Almaviva's advances, and the he'll do the job for me.  He'll call the wedding off, and then Figaro will be mine.  Oh yes, he will.
 
 
 
@@ -391,7 +391,7 @@ BARTOLO:
 di Marcellina]
 Bene, io tutto farò: senza riserve
 tutto a me palesate.
-"All right leave it to me.  I'll make some calls".
+All right leave it to me.  I'll make some calls".
 
 
 [da sé]
@@ -399,7 +399,7 @@ Avrei pur gusto
 di dar per moglie
 la mia serva antica
 a chi mi fece un dì rapir l'amica.
-"You see, I was the director that first discovered Rosina, but it was Figaro that convinced her to go across to Almaviva's studios, and thus precipitated the gradual decline of my career.  Nothing could please me more than ruining his wedding plans"
+You see, I was the director that first discovered Rosina, but it was Figaro that convinced her to go across to Almaviva's studios, and thus precipitated the gradual decline of my career.  Nothing could please me more than ruining his wedding plans
 (way too long!)
 
 
@@ -438,7 +438,7 @@ con un equivoco, con un sinonimo
 qualche garbuglio
 si troverà.
 
-"Wedding contracts for dummies"
+Wedding contracts for dummies
 (? picture caption)
 
 
@@ -447,7 +447,7 @@ conosce Bartolo:
 il birbo Figaro
 vinto [vostro] sarà.
 [parte]
-"I still have some clout in this town"
+I still have some clout in this town
 
 
 
@@ -458,7 +458,7 @@ vinto [vostro] sarà.
 Ma Susanna si avanza:
 io vo' provarmi ...
 Fingiam di non vederla.
-"Let's pretend not so see her"
+Let's pretend not so see her
 
 E quella buona perla
 la vorrebbe sposar!
@@ -475,18 +475,18 @@ good for his career...
 (Che lingua! Manco male
 ch'ognun sa quanto vale.)
 
-"That mean old bitch, she's always spreading gossip.  Just as well no-one listens to her!"
+That mean old bitch, she's always spreading gossip.  Just as well no-one listens to her!
 
 
 Brava! Questo è giudizio!
 Con quegli occhi modesti,
 con quell'aria pietosa,
 e poi ...
-"Look at her, all sweetness and light.  But we all know..."
+Look at her, all sweetness and light.  But we all know...
 
 ? may not need next two?
 Che cara sposa!
-"and here's the lovely bride!"
+and here's the lovely bride!
 
 
 ## N. 5 Duettino
@@ -570,11 +570,11 @@ dottoressa arrogante,
 perché hai letti due libri
 e seccata madama
 in gioventù ...
-"Grumpy old bitch! Just because you've been around forever doesn't make you better than everybody else!" 
+Grumpy old bitch! Just because you've been around forever doesn't make you better than everybody else!" 
 
 
 Cor vostro! Cosa avvenne?
-"Cherubino!  What's wrong?"
+Cherubino!  What's wrong?
 
 
 CHERUBINO:
@@ -587,7 +587,7 @@ grazia non m'intercede,
 io vado via,
 io non ti vedo più, Susanna mia!
 
-"Almaviva caught me sleeping with one of the extras, and I think he's really going to fire me this time.  Unless Rosina intervenes for me, I'll never see you again, pretty lady"
+Almaviva caught me sleeping with one of the extras, and I think he's really going to fire me this time.  Unless Rosina intervenes for me, I'll never see you again, pretty lady
 
 
 
@@ -595,7 +595,7 @@ Non vedete più me! Bravo!
 Ma dunque
 non più per la Contessa
 secretamente il vostro cor sospira?
-"You'll never see *me* again?  Isn't Rosina the one you're always pining for?"
+You'll never see *me* again?  Isn't Rosina the one you're always pining for?
 
 
 CHERUBINO:
@@ -607,11 +607,11 @@ che la vesti il mattino,
 che la sera la spogli, che le metti
 gli spilloni, i merletti ...
 Ah, se in tuo loco ...
-"She's too amazing for me.  I wish I were in your place -- you get to dress her in the morning, undress her in the evening..."
+She's too amazing for me.  I wish I were in your place -- you get to dress her in the morning, undress her in the evening...
 
 
 E che ne debbo fare?
-"And what do you want me to do with this?"
+And what do you want me to do with this?
 
 
 CHERUBINO:
@@ -620,7 +620,7 @@ leggila tu medesma;
 leggila a Barbarina, a Marcellina;
 [estaticamente]
 leggila ad ogni donna del palazzo!
-"Show it to Rosina, watch it yourself, show it to all women!"
+Show it to Rosina, watch it yourself, show it to all women!
 
 
 
@@ -678,12 +678,12 @@ I talk of love to myself!
 
 CHERUBINO:
 Ah, son perduto!
-"Here he comes!"
+Here he comes!
 
 IL CONTE:
 Susanna, mi sembri
 agitata e confusa.
-"Susanna?  You look upset"
+Susanna?  You look upset
 
 SUSANNA:
 Signor ... io chiedo scusa ...
@@ -706,10 +706,10 @@ meco in giardin
 sull'imbrunir del giorno ...
 ah, per questo favore io pagherei-
 
-"You know our next film involves a lot of shoots on location. This will be a
+You know our next film involves a lot of shoots on location. This will be a
 big deal for Figaro's career. You and he are going to be spending a lot of
 time in this caravan.  A lot of fun times... Maybe you and I should have a
-little fun in here before we leave?  Would be good for your career..."
+little fun in here before we leave?  Would be good for your career...
 
 
 BASILIO:
@@ -776,7 +776,7 @@ Io non ho d'uopo
 della vostra morale,
 del Conte, del suo amor ...
 ?literal?
-"Get out, you vile panderer of slanders!  I don't want to hear any more of your morals, or of Almaviva's affections"
+Get out, you vile panderer of slanders!  I don't want to hear any more of your morals, or of Almaviva's affections
 
 
 
@@ -1049,7 +1049,7 @@ costei che un vostro dono
 illibata serbò, coprir di questa,
 simbolo d'onestà, candida vesta.
 
-"You know we're planning our wedding during the wrap party...
+You know we're planning our wedding during the wrap party...
 ? will you be father of the bride?
 ? we thought you might like to give susanna away?
 
@@ -1476,7 +1476,7 @@ Via presto la canzone
 che stamane a me deste
 a madama cantate.
 
-"Well of course".  
+Well of course".  
 Why don't you show us your film?
 
 
@@ -1675,7 +1675,7 @@ Let's get on with this now. Go off to wardrobe and get him something more... ret
 
 
 CHERUBINO:
-"Susanna scherza; ed io frattanto parto..
+Susanna scherza; ed io frattanto parto..
 
 Susanna's laughing at me.  And I have to leave, so soon...
 
@@ -1913,8 +1913,8 @@ schiviam per carità!
 un scandalo, un disordine,
 schiviam per carità!
 
-"A scandal, a confusion,
-is looming over us!"
+A scandal, a confusion,
+is looming over us!
 
 ? abstract again?
 
@@ -2358,7 +2358,7 @@ SUSANNA:
 (Confusa han la testa,
 non san come va.)
 
-"general confusion"
+general confusion
 
 
 
@@ -4357,7 +4357,7 @@ Ecco ... prendi una spilla:
 Servirà di sigillo.
 Attendi ... scrivi
 sul riverso del foglio,
-"Rimandate il sigillo".
+Rimandate il sigillo".
 
   The camera, the note... and a rose.  That'll do it.
 
