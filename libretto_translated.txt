@@ -410,7 +410,6 @@ L'abito!                               Your fashion!
          
 MARCELLINA:                            MARCELLINA:
 Il posto!                              Your position!
-         
 
 SUSANNA:                               SUSANNA:
 L'età!                                 Your age!

@@ -406,7 +406,7 @@ la capriola le insegnerò.
 
     [ or ]
 
-    You wanna dance?
+    You wanna dance, boss?
 
     I'll play my guitar for you.
 
@@ -477,19 +477,18 @@ per parlarmi di questo?
 
 
 MARCELLINA:
-Io non mi perdo,
-dottor mio, di coraggio:
-per romper de' sponsali
-più avanzati di questo
-bastò spesso un pretesto,
+Io non mi perdo, dottor mio, di coraggio: per romper de' sponsali
+più avanzati di questo bastò spesso un pretesto,
 
-ed egli ha meco,
-oltre questo contratto,
+    I wasn't expecting it so soon! 
+
+ed egli ha meco, oltre questo contratto,
 certi impegni ...
 so io ... 
+[part 2]
 
-    I wasn't expecting them to do it this fast! And besides, Figaro has
-    certain... obligations towards me
+    But Figaro has certain... obligations towards me
+    
 
 
 basta ... convien
@@ -499,19 +498,16 @@ Egli per vendicarsi
 prenderà il mio partito,
 e Figaro così fia mio marito.
 
-    Anyway.  All we need to do is get Susanna to refuse Almaviva's advances, and
-    then he'll do the job for me.  He'll call the wedding off, and then Figaro
+    Anyway, if we get Susanna to refuse Almaviva's advances. 
+    He'll get angry, call the wedding off, and then Figaro
     will be mine.  Oh yes, he will.
 
 
 
 BARTOLO:
-[prende il contratto dalle mani
-di Marcellina]
-Bene, io tutto farò: senza riserve
-tutto a me palesate.
+Bene, io tutto farò: senza riserve tutto a me palesate.
 
-    All right leave it to me.  I'll make some calls".
+    Leave it to me.  I'll make some calls.
 
 
 [da sé]
@@ -526,6 +522,13 @@ a chi mi fece un dì rapir l'amica.
     his wedding plans
     [way too long!]
 
+    You see, I originally discovered Rosina.
+    Figaro is the reason she went over to Almaviva,
+    and it ruined my career.
+
+
+
+
 
 
 ### N. 4 Aria
@@ -533,41 +536,39 @@ a chi mi fece un dì rapir l'amica.
 
 La vendetta, oh, la vendetta!
 È un piacer serbato ai saggi.
+
+    Vengeance, oh, vengeance
+    is a pleasure reserved for the wise
+
 L'obliar l'onte e gli oltraggi
 è bassezza, è ognor viltà.
 
-[literal?]
+    Forgiveness is for cowards.
 
-    Vengeance, oh, vengeance
-    Is a pleasure reserved for the wise
-    To overlook affront and insult
-    Belongs to the base and cowardly
 
 Con l'astuzia ... coll'arguzia ...
 col giudizio ... col criterio ...
-si potrebbe ... il fatto è serio,
-ma credete si farà.
-
+si potrebbe 
+[gets faster]
 
     With cunning, with cleverness
     With judgement, with discretion
-    One could ... The case is serious
-    But, believe me, it will be done
+    One could
 
-[more abstract one here?]
+il fatto è serio, ma credete si farà.
+
+    Trust me.  I know the law. I'll make sure this contract is bulletproof.
 
 
-
-Se tutto il codice
-dovessi volgere,
-se tutto l'indice
-dovessi leggere,
+Se tutto il codice dovessi volgere,
+se tutto l'indice dovessi leggere,
 con un equivoco, con un sinonimo
-qualche garbuglio
-si troverà.
+qualche garbuglio si troverà.
+[fast]
 
   "Law for dummies"
-  [? picture caption]
+  [picture caption]
+  [will this work in norwegian?]
 
 
 Tutta Siviglia
@@ -576,50 +577,53 @@ il birbo Figaro
 vinto [vostro] sarà.
 
     I still have some clout in this town!
+    [and?]
+    Figaro will be yours.
 
 
 
 ## SCENA IV
 
 MARCELLINA:
-Tutto ancor non ho perso:
-mi resta la speranza.
-[entra Susanna]
+Tutto ancor non ho perso: mi resta la speranza.
+Ma Susanna si avanza: 
 
-Ma Susanna si avanza:
-io vo' provarmi ...
-Fingiam di non vederla.
+Io vo' provarmi ... Fingiam di non vederla.
 
-  Let's pretend not so see her 
+  Let's pretend not so see her.
 
-E quella buona perla
-la vorrebbe sposar!
-Ma da Figaro alfine
-non può meglio sperarsi:
+
+E quella buona perla la vorrebbe sposar!
+Ma da Figaro alfine non può meglio sperarsi:
 'l'argent fait tout'.
 
     I can't believe Figaro's going to marry that little tart!
     I suppose he knows Almaviva is sweet on her, so keeping her around is
     good for his career...
 
+    [or]
+
+    Why would Figaro marry that little tart? 
+
+    Probably knows Almaviva is sweet on her,
+    so she's good for his career...
+
 
 (Che lingua! Manco male
 ch'ognun sa quanto vale.)
 
-    That mean old bitch, she's always spreading gossip.  Just as well no-one
-    listens to her!
+    Gossipy old cow! Just as well no-one listens to her!
+    [stage left?]
 
 
 Brava! Questo è giudizio!
-Con quegli occhi modesti,
-con quell'aria pietosa,
-e poi ...
+Con quegli occhi modesti, con quell'aria pietosa, e poi ...
 
     Look at her, all sweetness and light.  But we all know...
 
+
 Che cara sposa!
 
-    [? may not need this one?]
     and here's the lovely bride!
 
 
@@ -632,73 +636,82 @@ Madama brillante.
     After you, you pretty young thing?
 
 
+SUSANNA:
 Non sono sì ardita,
 madama piccante.
 
     Oh no, after you, witty lady
 
-
+MARCELLINA:
 No, prima a lei tocca.
+[bis]
 
     After you!
 
+SUSANNA:
 No, no, tocca a lei.
+[bis]
 
     After you!
+
+
 
 SUSANNA & MARCELLINA:
 Io so i dover miei,
 non fo inciviltà.
 
+    I know my manners...
+    [or nothing]
 
+
+MARCELLINA:
 La sposa novella!
 
     The bride to be!
 
-
+SUSANNA:
 La dama d'onore!
 
     The maid of honour!
 
-
+MARCELLINA:
 Del Conte la bella!
 
     The boss's favourite!
 
-
+SUSANNA:
 Di Spagna l'amore!
 
     Hollywood's golden girl!
 
-
+MARCELLINA:
 I meriti!
 
     Your qualifications!
 
-
+SUSANNA:
 L'abito!
 
     Your fashion sense!
 
-
+MARCELLINA:
 Il posto!
 
-    Your position
+    Your position!
 
-
+SUSANNA:
 L'età!
 
-    Your age
+    Your seniority!
 
-
+MARCELLINA:
 Per Bacco, precipito,
 se ancor resto qua.
 
-    _*&*#*!_
+    @*&*#$!
 
-
-Sibilla decrepita,
-da rider mi fa.
+SUSANNA:
+Sibilla decrepita, da rider mi fa.
 
     Don't make me laugh.
 
@@ -708,46 +721,49 @@ da rider mi fa.
 ## SCENA V
 
 
-Va' là, vecchia pedante,
-dottoressa arrogante,
-perché hai letti due libri
-e seccata madama
-in gioventù ...
+Va' là, vecchia pedante, dottoressa arrogante,
+perché hai letti due libri e seccata madama in gioventù ...
 
     Grumpy old bitch! Just because you've been around forever doesn't make you
     better than everybody else!" 
 
 
-CHERUBINO:                             CHERUBINO:
-...]
 
-Cor vostro! Cosa avvenne?
+CHERUBINO:                        
+[esce in fretta]                  
+Susanetta, sei tu?                
+         
+SUSANNA:                          
+Son io, cosa volete?              
+         
+CHERUBINO:                        
+Ah, cor mio, che accidente!       
+         
+SUSANNA:                          
+Cor vostro! Cosa avvenne?         
 
     Cherubino!  What's wrong?
 
 
 CHERUBINO:
-Il Conte ieri
-perché trovommi sol con Barbarina,
-il congedo mi diede;
-e se la Contessina,
-la mia bella comare,
-grazia non m'intercede,
-io vado via,
-io non ti vedo più, Susanna mia!
+Il Conte ieri perché trovommi sol con Barbarina, il congedo mi diede;
+e se la Contessina, la mia bella comare, grazia non m'intercede,
+io vado via, io non ti vedo più, Susanna mia!
 
-    Almaviva caught me sleeping with one of the extras, and I think he's really
-    going to fire me this time.  Unless Rosina intervenes for me, I'll never see
-    you again, pretty lady.
+    Almaviva caught me sleeping with one of the extras,
+    he's really going to fire me this time.
+    Unless Rosina intervenes for me, I'll never see you again, pretty lady.
+
+    [still not happy with "rosina"]
 
 
-
+SUSANNA:
 Non vedete più me! Bravo!
-Ma dunque
-non più per la Contessa
+Ma dunque non più per la Contessa
 secretamente il vostro cor sospira?
 
-    You'll never see *me* again?  Isn't Rosina the one you're always pining for?
+    You'll never see *me* again?  
+    Isn't Rosina the one you're always pining for?
 
 
 CHERUBINO:
@@ -760,8 +776,12 @@ che la sera la spogli, che le metti
 gli spilloni, i merletti ...
 Ah, se in tuo loco ...
 
-    She's too amazing for me.  I wish I were in your place -- you get to dress
-    her in the morning, undress her in the evening...
+    She's too amazing for me.
+    I wish I were in your place; 
+    you get to dress her in the morning, undress her in the evening...
+
+
+...
 
 
 SUSANNA:
@@ -791,24 +811,41 @@ Non so più cosa son, cosa faccio,
 or di foco, ora sono di ghiaccio,
 ogni donna cangiar di colore,
 ogni donna mi fa palpitar.
-Solo ai nomi d'amor, di diletto,
-mi si turba, mi s'altera il petto
-e a parlare mi sforza d'amore
-un desio ch'io non posso spiegar.
 
     [literal?]
     I don't know what I am any more, or what I'm doing
     Now I'm on fire, now I'm freezing
     Every woman makes me change colour,
     Every woman makes my heart flutter.
+
+    I don't know what I'm doing
+
+    First I'm on fire, then I'm freezing
+
+    Every woman I see sets my pulse racing!
+
+
+Solo ai nomi d'amor, di diletto,
+mi si turba, mi s'altera il petto
+e a parlare mi sforza d'amore
+un desio ch'io non posso spiegar.
+
+
     Just the name of love, of delight
     Upsets me, and makes my heart flutter,
     And I find myself talking of love
     From a need I can't explain.
 
-non so piu, etc
-[camera antics]
+    The names of love
 
+    Delight
+
+    My heart's a-flutter
+
+    A desire I cannot explain
+
+
+Non so più [...]
 
 Parlo d'amor vegliando,
 parlo d'amor sognando,
@@ -817,6 +854,7 @@ ai fiori, all'erbe, ai fonti,
 all'eco, all'aria, ai venti,
 che il suon de' vani accenti
 portano via con sé.
+[bis]
 
 
     I talk of love when waking
@@ -826,8 +864,6 @@ portano via con sé.
     To the echoes, to the air, to the winds,
     And the sound of my useless words
     Is carried away with them.
-
-[parlo d'amor repeats]
 
 
 E se non ho chi mi oda,
