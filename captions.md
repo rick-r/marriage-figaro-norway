@@ -80,7 +80,7 @@ possible idea: each has an intro caption based on ID badges / keycards
 
 ## SCENA I
 
-## N. 1 Duettino
+### N. 1 Duettino
 
 
 [curtain lifts]
@@ -206,7 +206,7 @@ in altro loco.
 
 [opens caravan]
 
-## N. 2 Duettino
+### N. 2 Duettino
 
 Se a caso madama
 la notte ti chiama,
@@ -220,6 +220,7 @@ lo vado a servir.
     On location, we can park it next to Rosina's trailer,
     so you can be with her whenever she needs you.  
     And I can be near Mr Almaviva.
+
 
 SUSANNA:
 Così se il mattino
@@ -388,7 +389,7 @@ Non sarà, non sarà. Figaro il dice.
 
 
 
-## N. 3 Cavatina
+### N. 3 Cavatina
 
 Se vuol ballare, Signor Contino,
 il chitarrino le suonerò.
@@ -497,7 +498,7 @@ a chi mi fece un dì rapir l'amica.
 
 
 
-## N. 4 Aria
+### N. 4 Aria
 
 
 La vendetta, oh, la vendetta!
@@ -548,7 +549,7 @@ vinto [vostro] sarà.
 
 
 
-# SCENA IV
+## SCENA IV
 
 MARCELLINA:
 Tutto ancor non ho perso:
@@ -592,7 +593,7 @@ Che cara sposa!
     and here's the lovely bride!
 
 
-## N. 5 Duettino
+### N. 5 Duettino
 
 MARCELLINA:
 Via resti servita,
@@ -674,7 +675,7 @@ da rider mi fa.
 
 
 
-# SCENA V
+## SCENA V
 
 
 Va' là, vecchia pedante,
@@ -753,7 +754,7 @@ Povero Cherubin,
 siete voi pazzo!
 
 
-## N. 6 Aria
+### N. 6 Aria
 
 CHERUBINO:
 Non so più cosa son, cosa faccio,
@@ -808,7 +809,7 @@ parlo d'amor con me.
 
 
 
-# SCENA VI
+## SCENA VI
 
 
 CHERUBINO:
@@ -877,7 +878,7 @@ Qui dietro mi porrò.
 
 
 
-# SCENA VII
+## SCENA VII
 
 
 BASILIO:
@@ -1002,7 +1003,7 @@ Come, che dicon tutti!
 o bella
 
 
-## N. 7 Terzetto
+### N. 7 Terzetto
 
 IL CONTE:
 [a Basilio]
@@ -1151,7 +1152,7 @@ non c'è alcuna novità!
 ?? then something abstract for the ending terzetto?
 
 
-## Recitativo
+### Recitativo
 
 
 IL CONTE:
@@ -1234,7 +1235,7 @@ E voi restate qui, picciol serpente
 
 
 
-# SCENA VIII
+## SCENA VIII
 
 
 IL CONTE:
@@ -1369,7 +1370,7 @@ il tuo destino.
 
 
 
-## N. 10 Aria
+### N. 10 Aria
 
 FIGARO:
 Non più andrai, farfallone amoroso,
@@ -1457,9 +1458,9 @@ alla gloria militar!
 
 # ATTO SECONDO
 
-# SCENA I
+## SCENA I
 
-## N. 11. Cavatina
+### N. 11. Cavatina
 
 LA CONTESSA:
 Porgi, amor, qualche ristoro
@@ -1686,7 +1687,7 @@ il chitarrino le suonerò.
 
 
 
-# SCENA II
+## SCENA II
 
 
 LA CONTESSA:
@@ -1768,7 +1769,7 @@ di rossor sulla faccia.
 ...
 
 
-## N. 12. Arietta
+### N. 12. Arietta
 
 CHERUBINO:
 Voi che sapete che cosa è amor,
@@ -1824,7 +1825,7 @@ donne, vedete s'io l'ho nel cor.
 
 
 
-## Recitativo
+### Recitativo
 
 LA CONTESSA:
 Bravo! Che bella voce!
@@ -2027,7 +2028,7 @@ non trovo altro consiglio!
 
 
 
-# SCENA III
+## SCENA III
 
 IL CONTE:
 Che novità! Non fu mai vostra usanza
@@ -2132,7 +2133,7 @@ IL CONTE:
 
 
 
-# N. 14. Terzetto
+### N. 14. Terzetto
 
 IL CONTE:
 Susanna, or via, sortite,
@@ -2210,7 +2211,7 @@ schiviam per carità!
 
 
 
-## Recitativo
+### Recitativo
 
 IL CONTE:
 Dunque voi non aprite?
@@ -2279,9 +2280,9 @@ finché torniamo.
 
 
 
-# SCENA IV
+## SCENA IV
 
-## N. 15. Duettino
+### N. 15. Duettino
 
 SUSANNA:
 Aprite, presto, aprite;
@@ -2376,7 +2377,7 @@ Fermate per pietà; fermate!
 
 
 
-## Recitativo
+### Recitativo
 
 SUSANNA:
 Oh, guarda il demonietto!
@@ -2394,7 +2395,7 @@ io qui l'aspetto.
 
 
 
-# SCENA V
+## SCENA V
 
 IL CONTE:
 Tutto è come il lasciai:
@@ -2500,9 +2501,9 @@ onde m'avverte il foglio.
 ?letter
 
 
-# SCENA VI
+## SCENA VI
 
-## N. 16. Finale
+### N. 16. Finale
 
 IL CONTE:
 Esci omai, garzon malnato,
@@ -2615,7 +2616,7 @@ qualche eccesso gli fa far.
 
 
 
-# SCENA VII
+## SCENA VII
 
 [opens door, susanna comes out]
 
@@ -2916,7 +2917,7 @@ apprender potrà.
 
 
 
-# SCENA IX
+## SCENA IX
 
 FIGARO:
 Signori, di fuori
@@ -3087,7 +3088,7 @@ Quanto tardi a comparir!)
 
 
 
-# SCENA X
+## SCENA X
 
 ANTONIO:
 Ah, signor ... signor ...
@@ -3517,7 +3518,7 @@ poverino ne sa men di me.)
 
 
 
-# SCENA XI ED ULTIMA
+## SCENA XI ED ULTIMA
 
 MARCELLINA, BASILIO & BARTOLO:
 [al Conte]
@@ -3659,9 +3660,9 @@ qui ci/li ha fatti capitar.
 Sala ricca con due troni e preparata
 a festa nuziale
 
-# SCENA I
+## SCENA I
 
-## Recitativo
+### Recitativo
 
 [conte captions go on downstage left wood]
 
@@ -3705,7 +3706,7 @@ l'onore ... dove diamin l'ha posto umano errore!
 
 
 
-# SCENA II
+## SCENA II
 
 [contessa + susanna go on main stage right, conte stays downstage left]
 
@@ -3845,7 +3846,7 @@ il mio volere.
 
 
 
-# N. 17. Duettino
+### N. 17. Duettino
 
 IL CONTE:
 Crudel! Perché finora
@@ -3905,7 +3906,7 @@ voi che intendete amor.
 
 
 
-## Recitativo
+### Recitativo
 
 IL CONTE:
 Carissima!
@@ -3927,7 +3928,7 @@ oh signor scaltro.)
 
 
 
-# SCENA III
+## SCENA III
 
 FIGARO:
 Ehi, Susanna, ove vai?
@@ -3942,9 +3943,9 @@ Cos'è nato?
 
 
 
-# SCENA IV
+## SCENA IV
 
-## N. 18. Recitativo ed Aria
+### N. 18. Recitativo ed Aria
 
 IL CONTE:
 Hai già vinta la causa! Cosa sento!
@@ -4015,9 +4016,9 @@ e giubilar mi fa.
 
 
 
-# SCENA (VIII)
+## SCENA (VIII)
 
-## N. 20. Recitativo ed Aria
+### N. 20. Recitativo ed Aria
 
 LA CONTESSA:
 E Susanna non vien! Sono ansiosa
@@ -4113,9 +4114,9 @@ di cangiar l'ingrato cor.
 
 
 
-# SCENA V
+## SCENA V
 
-## Recitativo
+### Recitativo
 
     [ lots of flicking between projection surfaces in these scenes]
 
@@ -4311,7 +4312,7 @@ Ecco tuo padre.
 
 
 
-## N. 19. Sestetto
+### N. 19. Sestetto
 
 MARCELLINA:
 [abbracciando Figaro]
@@ -4527,10 +4528,10 @@ resister or sa.
 
 
 
-# SCENA VI
+## SCENA VI
 Susanna, Marcellina, Figaro e Bartolo
 
-## Recitativo
+### Recitativo
 
 MARCELLINA:
 Eccovi, oh caro amico,
@@ -4600,7 +4601,7 @@ al gusto mio.
 
 
 
-# SCENA X
+## SCENA X
 
 LA CONTESSA:
 Dov'è l'appuntamento
@@ -4628,7 +4629,7 @@ Canzonetta sull'aria ...
 
 
 
-## N.21. Duettino
+### N.21. Duettino
 
 SUSANNA:
 Sull'aria ... 
@@ -4665,7 +4666,7 @@ Certo, certo il capirà.
 
 
 
-## Recitativo
+### Recitativo
 
 SUSANNA:
 Piegato è il foglio ...
@@ -4693,7 +4694,7 @@ Presto nascondi, io sento venir gente
 
 
 
-# SCENA XI
+## SCENA XI
 
 LA CONTESSA:
 E chi è, narratemi,
@@ -4717,7 +4718,7 @@ Al naturale.
 
 
 
-# SCENA XIII
+## SCENA XIII
 
 FIGARO:
 Signor ... se trattenete
@@ -4778,7 +4779,7 @@ Io non impugno mai quel che non so.
 
 
 
-## N. 23. Finale
+### N. 23. Finale
 
 FIGARO:
 Ecco la marcia, andiamo;
@@ -4821,7 +4822,7 @@ Seggiamo (e meditiam vendetta).
 
 
 
-# SCENA XIV
+## SCENA XIV
 
 DUE DONNE:
 Amanti costanti,
@@ -4896,7 +4897,7 @@ sì saggio signor!
 
 Giardino
 
-# SCENA III
+## SCENA III
 Marcellina e Figaro
 
 FIGARO:
@@ -4959,10 +4960,10 @@ A vendicar tutti i mariti: addio.
 
 
 
-# SCENA IV
+## SCENA IV
 Marcellina sola
 
-## Recitativo
+### Recitativo
 
 MARCELLINA:
 Presto avvertiam Susanna:
@@ -4987,7 +4988,7 @@ a torto oppresso.
 
 
 
-# SCENA VI
+## SCENA VI
 
 BARTOLO:
 [a Figaro]
@@ -5026,7 +5027,7 @@ A un fischio mio correte tutti quanti
     You guys stay right here and wait for my signal.
 
 
-# SCENA VII
+## SCENA VII
 
 BASILIO:
 Ha i diavoli nel corpo.
@@ -5074,9 +5075,9 @@ e han vinto ancora.
 
     
     
-# SCENA VIII
+## SCENA VIII
 
-## N. 27. Recitativo ed Aria
+### N. 27. Recitativo ed Aria
 
 FIGARO:
 Tutto è disposto: l'ora
@@ -5195,10 +5196,10 @@ già ognun lo sa!
 [caravan dragged in?]
 
 
-# SCENA IX
+## SCENA IX
 Susanna, la Contessa; Marcellina
 
-## Recitativo
+### Recitativo
 
 SUSANNA:
 Signora, ella mi disse
@@ -5223,7 +5224,7 @@ MARCELLINA:
 Io voglio qui celarmi.
 
 
-# SCENA X
+## SCENA X
 
 SUSANNA:
 Madama, voi tremate; avreste freddo?
@@ -5265,7 +5266,7 @@ diamogli la mercé de' dubbi suoi.
     I'll teach them both a lesson.
 
 
-## N. 28. Recitativo ed Aria
+### N. 28. Recitativo ed Aria
 
 SUSANNA:
 Giunse alfin il momento
@@ -5318,10 +5319,10 @@ ti vo' la fronte incoronar di rose.
 
 
 
-# SCENA XI
+## SCENA XI
 I suddetti e poi Cherubino
 
-## Recitativo
+### Recitativo
 
 CHERUBINO:
 La la la ...
@@ -5353,7 +5354,7 @@ sorte tiranna!
 
 
 
-## N.29. Finale
+### N.29. Finale
 
 CHERUBINO:
 Pian pianin le andrò più presso,
@@ -5389,7 +5390,7 @@ io già so perché sei qua!
 
 
 
-# SCENA XII
+## SCENA XII
 I suddetti ed il Conte
 
 IL CONTE:
@@ -5631,7 +5632,7 @@ Andate; io poi verrò.
 
 
 
-# SCENA XIII
+## SCENA XIII
 Figaro e Susanna
 
 FIGARO:
@@ -5788,7 +5789,7 @@ a fare il seduttor.
 
 
 
-# SCENA XIV
+## SCENA XIV
 
 FIGARO:
 Pace, pace, mio dolce tesoro,
@@ -5888,7 +5889,7 @@ e le pene compensi il piacer.
     [emoji kisses]?
 
 
-# SCENA ULTIMA
+## SCENA ULTIMA
 
 IL CONTE:
 [arresta Figaro]
