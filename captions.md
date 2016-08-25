@@ -13,12 +13,12 @@ possible idea: each has an intro caption based on ID badges / keycards
 
 * Wardrobe and makeup 
 * Keycard activated 2 years ago
-* Fighting off unwanted attention from almaviva
+* Fighting off unwanted attention from Almaviva
 
 
 ## Figaro
 
-* first assistant director
+* First assistant director
 * keycard activated 5 years ago
 * in love with Susanna, hoping to have a shotgun wedding during wrap party tonight
 
@@ -330,7 +330,7 @@ SUSANNA:
 E tu credevi che fosse la mia dote
 merto del tuo bel muso!
 
-    You really thought it was because of your skills as first AD?
+    You really thought it was because he respects your skills as first AD?
 
 
 FIGARO:
@@ -344,6 +344,8 @@ Ei la destina per ottener da me certe mezz'ore ...
 
     [literal?]
     It was intended to obtain from me certain little half-hours...
+    [or]
+    For "special little half-hours", he said.
 
 
 FIGARO:                          
@@ -399,8 +401,19 @@ la capriola le insegnerò.
     If you want to dance, my dear little Count,
     I'll play the tune for you on my guitar.
 
-    If you want to attend my school
+    If you want to come to my school
     I'll teach you all the moves.
+
+    [ or ]
+
+    You wanna dance?
+
+    I'll play my guitar for you.
+
+    Come to my school
+
+    I'll teach you a lesson.
+
 
 
 Saprò ... ma piano,
@@ -413,6 +426,11 @@ scoprir potrò!
     by dissembling
     I can discover it all.
 
+    [or]
+
+    I'll... But, slowly!
+    First I'll keep quiet, and find out all your secrets.
+
 
 [ fig leaves caravan ]
 
@@ -421,9 +439,21 @@ di qua pungendo, di là scherzando,
 tutte le macchine rovescerò.
 (bis)
 
-    The art of fencing, the arts I'll adopt
-    Stinging here, joking there,
-    All your plots I'll overthrow!
+    Art
+
+    Of
+
+    Fencing
+
+    Strike!
+
+    Joke!
+
+    Ruin.
+    All.
+    Your
+    Plans.
+
 
 
 Se vuol ballare, Signor Contino,
