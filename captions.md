@@ -11,9 +11,9 @@ possible idea: each has an intro caption based on ID badges / keycards
 
 ## Susanna
 
-* wardrobe and makeup 
-* keycard activated 2 years ago
-* fighting off unwanted attention from almaviva
+* Wardrobe and makeup 
+* Keycard activated 2 years ago
+* Fighting off unwanted attention from almaviva
 
 
 ## Figaro
@@ -78,87 +78,111 @@ possible idea: each has an intro caption based on ID badges / keycards
 
 
 
-# SCENA I
+## SCENA I
 
 ## N. 1 Duettino
 
 
+[curtain lifts]
+[almav on stage with basilio]
+[beckon caravan in]
+[possible keycard: almavaviva]
+[fig arrives]
 
+
+
+FIGARO:
 Cinque ... dieci ... venti ...
 trenta ... trentasei ... quarantatre
 
-// "5 horsepower, 10 cylinders, 36 watts airconditioning, caravan caravan
-(maybe repeated/more)
+[stage right]
 
     5 grand? 10? 20? 30?  36? 43?  43 grand!?!
 
 
 
+SUSANNA:
 Ora sì ch'io son contenta;
 sembra fatto inver per me.
 
 Guarda un po', mio caro Figaro,
 guarda adesso il mio cappello.
+[stage left wood panelling]
+[but: do we want to get the audience used to captions always being on same side
+as actor?]
 
-    Look, I think this really suits me now, what do you think Figaro?
+    This really suits me now, what do you think Figaro?
+    [or]
+    What do you think Figaro?  Look!
 
 
-
+FIGARO:
 Sì mio core, or è più bello,
 sembra fatto inver per te.
 
-    Yeah yeah, looks great darling!
+    Looks great darling!
+    [or]
+    Yeah, yeah, looks great darling.
 
 
 
+SUSANNA / FIGARO duet:
 Ah, il mattino alle nozze vicino
 quanto è dolce al mio tenero sposo
 questo bel cappellino vezzoso
 che Susanna ella stessa si fe'.
-[duet]
+[they are stage left]
 
     We're looking forward to getting married today, on the last day of filming
+    [meh]
 
 
+SUSANNA:
+Cosa stai misurando, caro il mio Figaretto?
+[stage left]
 
-Cosa stai misurando,
-caro il mio Figaretto?
-
-    What are doing over there?
+    What are you doing?
 
 
-
-Io guardo se quel letto
-che ci destina il Conte
+FIGARO:
+Io guardo se quel letto che ci destina il Conte
 farà buona figura in questo loco.
 
-    I'm just checking out all the specs of... our new trailer!
+    Just checking out... our new trailer!
 
 
-(No caption for s)
+
+SUSANNA:
+E in questa stanza?           
+
+FIGARO:
+Certo: a noi la cede generoso il padrone.
+
+    It's a wedding gift from Mr. Almaviva
+    [part 2]
 
 
-Certo: a noi la cede
-generoso il padrone.
 
-    Mr. Almaviva is giving to us as a wedding gift
-
-
+SUSANNA:
 Io per me, te la dono.
 
-  I don't think we should accept it
+  I don't think we should accept.
 
 
-Perché non voglio.
-Sei tu mio servo, o no?
+FIGARO:
+E la ragione?
 
-    I have my reasons.  Will you just trust me?
+SUSANNA:
+Perché non voglio. Sei tu mio servo, o no?
+[stage right]
+
+    Will you just trust me?
+    [could lose this]
+    [or, part 2?]
 
 
-
-Ma non capisco
-perché tanto ti spiace
-la più comoda stanza del palazzo.
+FIGARO:
+Ma non capisco perché tanto ti spiace la più comoda stanza del palazzo.
 
     I don't get it. Do you have any idea how much these things cost?
     [or]
@@ -178,7 +202,9 @@ se potriasi star meglio
 in altro loco.
 
     Women!  I'll never understand.
+    [could lose this]
 
+[opens caravan]
 
 ## N. 2 Duettino
 
@@ -191,9 +217,9 @@ che vuolmi il padrone,
 don, don; in tre salti
 lo vado a servir.
 
-    Just think -- when we're out on location, instead of being in a hotel, we
-    can park it right next to Rosina's trailer, and you can be with her
-    whenever she needs you.  And I can be near Mr Almaviva.
+    On location, we can park it next to Rosina's trailer,
+    so you can be with her whenever she needs you.  
+    And I can be near Mr Almaviva.
 
 SUSANNA:
 Così se il mattino
@@ -204,36 +230,43 @@ don don; a mia porta
 il diavol lo porta,
 ed ecco in tre salti ...
 
-    Yeah.  And once Almaviva's sent you off on a mission to buying 1000 brown
-    M&Ms, he can be at my doorstep at a moment's notice...
+    Yeah.  And once Almaviva's sent you off to buy 1000 brown
+    M&Ms or whatever, he can be at my doorstep at a moment's notice...
 
 
 FIGARO:
 Susanna, pian, pian.
 
-FIG
+SUSANNA:     
+Ascolta ...  
+
+FIGARO:
 fa presto
+[stage left. optionally can be on from 'pian pians']
 
     What are you saying?
 
 
-
+SUSANNA:
 Se udir brami il resto,
 discaccia i sospetti
 che torto mi fan.
 
+FIGARO:
+Udir bramo il resto,
+i dubbi, i sospetti
+gelare mi fan.
+
     [either:]
-    don't jump to conclusions!
+    Promise me you won't jump to conclusions!
+
+    I'm trying not to.
 
     [or -- literals:]
 
     If you want to hear the rest,
     Dismiss these suspicions
     that are so unfair to me.
-
-Udir bramo il resto,
-i dubbi, i sospetti
-gelare mi fan.
 
     I must hear the rest,
     these doubts and suspicions
@@ -252,7 +285,7 @@ ritentar la sua sorte,
 né già di sua consorte, bada bene,
 appetito gli viene ...
 
-    It seems Alamaviva has got tired of sleeping with the lastest wannabe
+    Alamaviva has got tired of sleeping with the lastest wannabe
     actresses, and is turning his attention towards members of the crew...
 
 
@@ -268,25 +301,21 @@ che al nobil suo progetto
 utilissima sia tal vicinanza.
 
     Who do you think?  That's the whole point of this flashy caravan -- he
-    wants to keep me close by
+    wants to keep me close by.
 
 
 FIGARO:
 Bravo! Tiriamo avanti.
            
 SUSANNA:
-Queste le grazie son,
-questa la cura
-ch'egli prende di te,
-della tua sposa.
+Queste le grazie son, questa la cura
+ch'egli prende di te, della tua sposa.
 FIGARO:
 Oh guarda un po', che carità pelosa!
 
 SUSANNA:
-Chetati, or viene il meglio:
-Don Basilio,
-mio maestro di canto, e suo mezzano,
-nel darmi la lezione
+Chetati, or viene il meglio: Don Basilio,
+mio maestro di canto, e suo mezzano, nel darmi la lezione
 mi ripete ogni dì questa canzone.
 
     I've already got Basilio whispering in my ear, telling me this could be the
@@ -295,46 +324,50 @@ mi ripete ogni dì questa canzone.
 
 FIGARO:
 Chi? Basilio? Oh birbante!
-         
+
 SUSANNA:
-E tu credevi
-che fosse la mia dote
+E tu credevi che fosse la mia dote
 merto del tuo bel muso!
 
-    And you thought it was because he respected your skills as first AD
+    You really thought it was because of your skills as first AD?
 
 
-FIGARO:                                FIGARO:
+FIGARO:
 Me n'ero lusingato.
 
-    I thought... After all I've done for him...
+    I did think... After all I've done for him!
 
 
-SUSANNA:                               SUSANNA:
-Ei la destina
-per ottener da me
-certe mezz'ore ...
+SUSANNA:
+Ei la destina per ottener da me certe mezz'ore ...
 
     [literal?]
     It was intended to obtain from me certain little half-hours...
 
 
-Chi suona? La Contessa.
-
-    It's Rosina
-
-
 FIGARO:                          
-Bravo! Mi piace:                 
-Che caro signor Conte!           ?e tu cervello
-Ci vogliam divertir:             
-trovato avete ...                
-[Si sente suonare un campanello] # SCENA II
+Come?
+
+Bravo! Mi piace: Che caro signor Conte!
+Ci vogliam divertir: trovato avete ...
+
 Chi suona? La Contessa.          
 
-...
+    It's Rosina.  You have to go.
 
 
+SUSANNA:
+Addio, addio, Figaro bello ...  
+
+
+FIGARO:
+Coraggio, mio tesoro.           
+
+SUSANNA:
+E tu, cervello.                 
+
+
+## SCENA II
 
 FIGARO:
 Bravo,signor padrone! Ora incomincio
@@ -400,7 +433,7 @@ il chitarrino le suonerò.
 
 
 
-# SCENA III
+## SCENA III
 
 [bartolo keycard??]
 

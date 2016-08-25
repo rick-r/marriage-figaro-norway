@@ -1,7 +1,9 @@
-pazzo.
+guarda
+
 nozze
 Grazie 
-guarda
+
+pazzo.
 
 Il Conte -- the director
 La contessa, madama -- the star, our leading lady
