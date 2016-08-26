@@ -133,7 +133,8 @@ questo bel cappellino vezzoso
 che Susanna ella stessa si fe'.
 [they are stage left]
 
-    We're looking forward to getting married today, on the last day of filming
+    We're looking forward to getting married today,
+    on the last day of filming.
     [meh]
 
 
@@ -915,6 +916,8 @@ per carità! Partite.
 IL CONTE:
 Un momento, e ti lascio, odi.
 
+SUSANNA:
+non odi nulla
 
 IL CONTE:
 Due parole. Tu sai che ambasciatore a Londra
@@ -1096,7 +1099,6 @@ SUSANNA:
 Oh cielo!
 
 
-
 ### N. 7 Terzetto
 
 IL CONTE:
@@ -1118,8 +1120,10 @@ perdonate, oh mio signor.
 
 SUSANNA:
 Che ruina, me meschina,
+
 son oppressa dal dolor.
 
+    [on second]
     Um. I don't feel well.  Oh, oh!
 
 
@@ -1156,6 +1160,7 @@ Siamo qui per aiutarti,
 non turbarti, oh mio tesor.
 
     Take it easy, we're only trying to help
+    [cut?]
 
 
 BASILIO:
@@ -1166,6 +1171,7 @@ era solo un mio sospetto.
     Listen, the rumours about the boy, I was just repeating what I heard...
 
     I was just repeating what I heard...
+    [too short, needs some recap]
 
 
 SUSANNA:
@@ -1186,6 +1192,7 @@ SUSANNA & BASILIO:
 Poverino!
 
     Poor kid!
+    [stage left]
 
 
 
@@ -1194,6 +1201,7 @@ Poverino!
 Ma da me sorpreso ancor.
 
     Poor kid? Poor kid?
+
 
 SUSANNA & BASILIO:
 Come! Che!
@@ -1210,16 +1218,12 @@ il tappetto al tavolino
 vedo il paggio ...
 Ah! cosa veggio!
 
-    Poor kid?  Poor kid? I was just in the costume department the other day, one
-    of the extras is in there with half her clothes off, I pull back a bunch of
-    costume sitting, and what do I find?  Cherubino, naked!
-
-    [or:]
-
     Poor kid? Poor kid?
+
     The other day, I notice
     one of the extras' dresses
-    doesn't look right,
+    doesn't look right...
+
     so I pull it up,
     and what do I find? The kid!
 
@@ -1289,14 +1293,9 @@ IL CONTE:
 Ma costui quando venne?
 
 SUSANNA:
-Egli era meco
-quando voi qui giungeste,
-e mi chiedea
-d'impegnar la padrona
-a intercedergli grazia.
-Il vostro arrivo
-in scompiglio lo pose,
-ed allor in quel loco si nascose.
+Egli era meco quando voi qui giungeste,
+e mi chiedea d'impegnar la padrona a intercedergli grazia.
+Il vostro arrivo in scompiglio lo pose, ed allor in quel loco si nascose.
 
     He's been hiding here the whole time.
     He asked me for help keeping his job...
@@ -1323,12 +1322,22 @@ CHERUBINO:
 Feci per non sentir quanto potea.
 
     Hey I did my best to not hear anything at all!
+    [cut?]
+
+
+IL CONTE:
+Ah perfidia!
+
+BASILIO:
+Frenatevi: vien gente!
 
 
 IL CONTE:
 E voi restate qui, picciol serpente
 
     You stay right here you piece of shit!
+    [or]
+    You stay right here you little snake!
 
 
 
@@ -1350,61 +1359,52 @@ Signor, non isdegnate
 questo del nostro affetto
 meritato tributo:
 
+    You know we're having our wedding during the wrap party...
+
 CONTE:
 cosa si brama?
 
-
 FIGARO:
-Le nostre nozze
-si son già stabilite.
-Or a voi tocca
-costei che un vostro dono
+Le nostre nozze si son già stabilite.
+Or a voi tocca costei che un vostro dono
 illibata serbò, coprir di questa,
 simbolo d'onestà, candida vesta.
 
-    You know we're planning our wedding during the wrap party...
-    ? will you be father of the bride?
-    ? we thought you might like to give susanna away?
+    Will you give Susanna away?
+    [part 2?]
 
 
 TUTTI:
 evivva!
 
-
 IL CONTE:
-A voi prometto
-compier la ceremonia:
-chiedo sol breve indugio;
-io voglio in faccia
-de' miei più fidi,
-e con più ricca pompa
+A voi prometto compier la ceremonia: chiedo sol breve indugio;
+io voglio in faccia de' miei più fidi, e con più ricca pompa
 rendervi appien felici.
 
+    I'll do it. As long as we finish shooting today.
 
-    I said I'd do it, and I will, as long as we finish shooting today.
-
-    [or]
-
-    Er.  Yes, sounds great, and I promise we'll have a huge party with
-    everyone there.  But first we have to get back to work, and finish this
-    shoot!
 
 
 (Marcellina si trovi.)
 
-    [aside to Basilio]
-    go find Marcellina!
+    [stage left]
+    Go find Marcellina!
 
 
 Andate, amici.
 
     Let's go!
+    [cut?]
+    [or put it on same screen as 'finish today']
 
 
-CHERUBINO
-perdono
+CHERUBINO:
+Perdono, mio signor ...
 
-....
+IL CONTE:
+Nol meritate.
+
 
 SUSANNA:
 Egli è ancora fanciullo!
@@ -1422,8 +1422,7 @@ CHERUBINO:
 È ver, mancai;
 ma dal mio labbro alfine ...
 
-    Listen, my lips are sealed!  I never tell anyone about --
-
+    My lips are sealed!  I'll never tell -
 
 
 IL CONTE:
@@ -1438,12 +1437,23 @@ partite tosto: addio.
     movie business?  I think we need more extras for my big war movie epic in
     Belgium. Yes. You can leave today.  Bye now!
 
+    [or]
+
+    Leave for the war film today.
+
+    [or]
+
+    OK. You want to learn the business?
+    You can be an extra for my big war film in Belgium.
+    You'll leave today.  Bye!
+
 
 
 SUSANNA & FIGARO:
 Ah, fin domani sol ...
 
     Let's wait til tomorrow.
+    [cut?]
 
 
 
@@ -1451,6 +1461,7 @@ IL CONTE:
 No, parta tosto.
 
     Today!
+    [cut?]
 
 
 FIGARO:
@@ -1462,9 +1473,11 @@ picciolo Cherubino;
 come cangia in un punto
 il tuo destino.
 
-    OK Private Ryan, let me have a word with you before you go off to war
+    OK Private Ryan,
+    a word with you,
+    before you go off to war!
 
-    [also needs something for the aside/whisper]
+    [also needs something for the aside/whisper?]
 
 
 
@@ -1476,9 +1489,10 @@ notte e giorno d'intorno girando;
 delle belle turbando il riposo
 Narcisetto, Adoncino d'amor.
 
-    No more you'll wander, my amorous little butterfly,
-    Flitting about by day and night,
-    Chasing after all the pretty women...
+    No more flitting about,
+    my amorous little butterfly,
+    day and night,
+    chasing all the pretty women...
 
 
 Non più avrai questi bei pennacchini,
@@ -1487,7 +1501,7 @@ quella chioma, quell'aria brillante
 quel vermiglio donnesco color.
 (bis)
 
-[figaro fetches the script ? this could all be a script]
+    [no caption]
 
 Tra guerrieri, poffar Bacco!
 Gran mustacchi, stretto sacco.
@@ -1495,14 +1509,22 @@ Schioppo in spalla, sciabla al fianco,
 collo dritto, muso franco,
 un gran casco, o un gran turbante,
 molto onor, poco contante!
-
-[fig dances with suz]
-
 Ed invece del fandango,
 una marcia per il fango.
 
-[signing contract]
+    soldiers!  Mustaches!  Guns! Swords!
+    Helmet!
+    Lots of honour,
+    Not much money,
+    Marching
+    Mud.
+    [joke here?]
 
+
+[fig dances with suz]
+
+
+[signing contract]
 
 Per montagne, per valloni,
 con le nevi e i sollioni.
@@ -1512,6 +1534,12 @@ che le palle in tutti i tuoni
 all'orecchio fan fischiar.
 (non piu avrai, etc, etc)
 
+    Over mountains, through the valleys
+    In the snow and burning sun
+    To the music of trumpets,
+    Of shells and cannon-balls
+
+
 [figaro removes cherubino's camera]
 
 (non piu andrai, etc)
@@ -1519,39 +1547,10 @@ all'orecchio fan fischiar.
 Cherubino alla vittoria:
 alla gloria militar!
 
-[more contract antics?]
+    Cherubino!
+    To victory!
+    To military glory!
 
-[Partono tutti alla militare.]
-(? depends on orcs vs military film vs war correspondent)
-
-    No more you'll wander, my amorous little butterfly,
-    Flitting about by day and night
-    Disturbing the rest of all those pretty women
-    My little Narcissus, young Adonis of love
-
-    No more you'll have these pretty little
-     feathers,
-    This smart and jaunty cap,
-    Those curls and that lively air
-    Those rosy, girlish cheeks.
-
-    Among soldiers, by Bacchus!
-    Great moustaches, well-guarded knapsack
-    A gun at your shoulder, a sabre at your
-     side,
-    Head held high, bold of face
-    A great helmet, or a big turban,
-    Plenty of honour, but not much money,
-    And instead of the fandango
-    A march through the mud!
-    Over mountains, through the valleys
-    In the snow and burning sun
-    To the music of trumpets,
-    Of shells and cannon-balls
-    Whistling past
-    Making your ear sing!
-    Cherubino, to victory
-    And military glory!
 
 
 # ATTO SECONDO
