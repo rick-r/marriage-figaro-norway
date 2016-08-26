@@ -795,6 +795,7 @@ Leggila alla padrona,
 leggila tu medesma;
 leggila a Barbarina, a Marcellina;
 leggila ad ogni donna del palazzo!
+n 
 
     Show it to Rosina, watch it yourself, show it to all women!
 
@@ -818,9 +819,13 @@ ogni donna mi fa palpitar.
     Every woman makes me change colour,
     Every woman makes my heart flutter.
 
-    I don't know what I'm doing
+    I don't know
+    What I am
+    What I'm doing
 
-    First I'm on fire, then I'm freezing
+    First I'm on fire
+    and then
+    I'm freezing
 
     Every woman I see sets my pulse racing!
 
@@ -836,12 +841,7 @@ un desio ch'io non posso spiegar.
     And I find myself talking of love
     From a need I can't explain.
 
-    The names of love
-
-    Delight
-
-    My heart's a-flutter
-
+    I am forced to speak of love
     A desire I cannot explain
 
 
@@ -864,6 +864,16 @@ portano via con sé.
     To the echoes, to the air, to the winds,
     And the sound of my useless words
     Is carried away with them.
+
+
+    Talk of love
+    when awake
+    when dreaming
+
+    To the water, to the shadows, to the mountains,
+    To the flowers, to the grass, to the fountains,
+    To the echoes, to the air, to the winds,
+
 
 
 E se non ho chi mi oda,
@@ -895,21 +905,22 @@ Signor ... io chiedo scusa ...
 ma ... se mai ... qui sorpresa ...
 per carità! Partite.
 
-?no caption?
+  [no caption?]
 
-...
+SUSANNA:                           
+Signor ... io chiedo scusa ...     
+ma ... se mai ... qui sorpresa ... 
+per carità! Partite.               
+         
+IL CONTE:                          
+Un momento, e ti lascio, odi.                               
 
 
 IL CONTE:
-Due parole. Tu sai
-che ambasciatore a Londra
-il re mi dichiarò; di condur meco
-Figaro destinai.
-Tu ben sai quanto io t'amo:
-a te Basilio
-tutto già disse. Or senti,
-se per pochi momenti
-meco in giardin
+Due parole. Tu sai che ambasciatore a Londra
+il re mi dichiarò; di condur meco Figaro destinai.
+Tu ben sai quanto io t'amo: a te Basilio tutto già disse.
+Or senti, se per pochi momenti meco in giardin
 sull'imbrunir del giorno ...
 ah, per questo favore io pagherei-
 
@@ -918,11 +929,16 @@ ah, per questo favore io pagherei-
     time in this caravan.  A lot of fun times... Maybe you and I should have a
     little fun in here before we leave?  Would be good for your career...
 
+    Great caravan huh?  
+    Maybe you and I should 
+    have a little fun in here?
+    Be good for your career...
+
 
 BASILIO:
 È uscito poco fa.
 
-    Where's the count?
+    Where's the boss?
 
 
 IL CONTE:
@@ -935,6 +951,7 @@ SUSANNA:
 Ch'io vi lasci qui solo?
 
     You can't stay here!
+    [cut this?]
 
 
 IL CONTE:
@@ -955,8 +972,8 @@ Avreste a caso veduto il Conte?
 
 
 SUSANNA:
-E cosa deve far meco il Conte? -
-Animo, uscite.
+E cosa deve far meco il Conte? - Animo, uscite.
+
 
     I haven't seen him!  Why would you think that?
 
@@ -970,12 +987,17 @@ Figaro di lui cerca.
 
 
 SUSANNA:
-(Oh cielo!) Ei cerca
-chi dopo voi più l'odia.
+(Oh cielo!) Ei cerca chi dopo voi più l'odia.
 
     Why? The two of you really have it in for Figaro!
 
-...
+
+IL CONTE:
+(Veggiam come mi serve.)
+
+    [stage left]
+    Let's see Basilio in action...
+         
 
 
 BASILIO:
@@ -984,8 +1006,9 @@ ch'uno ch'ami la moglie
 odi il marito.
 Per dir che il Conte v'ama ...
 
-    Hey babe, just cos the boss is sweet on you doesn't mean he don't like your
-    husband.  Know what I mean?
+    Hey babe, just cos the boss is sweet on you 
+    doesn't mean he don't like your husband.
+    Know what I mean?
 
 
 SUSANNA:
@@ -996,7 +1019,8 @@ della vostra morale,
 del Conte, del suo amor ...
 
     [?literal]
-    Get out, you vile panderer of slanders!  I don't want to hear any more of
+    Get out, you vile panderer of slanders!
+    I don't want to hear any more of
     your morals, or of Almaviva's affections
 
 
@@ -1011,9 +1035,13 @@ un signor liberal,
 prudente, e saggio,
 a un giovinastro, a un paggio ...
 
-    Hey to each their own!  But I'd have thought you would prefer an affair with
-    the boss of the studio rather than... with some work experience kid!  What's
-    this tape? 
+    To each their own!  
+
+    But I'd have thought you would prefer an affair with
+    the boss of the studio rather than... 
+
+    with some work experience kid!  
+    What's this tape? 
 
 
 SUSANNA:
@@ -1021,23 +1049,18 @@ A Cherubino!
 
 BASILIO:
 A Cherubino! A Cherubin d'amore
-ch'oggi sul far del giorno
-passeggiava qui d'intorno,
-per entrar ...
+ch'oggi sul far del giorno passeggiava qui d'intorno, per entrar ...
 
 SUSANNA:
-Uom maligno,
-un impostura è questa.
+Uom maligno, un impostura è questa.
 
 BASILIO:
-È un maligno con voi
-chi ha gli occhi in testa.
-E quella canzonetta?
-Ditemi in confidenza; io sono amico
-ed altrui nulla dico;
-è per voi, per madama ...
+È un maligno con voi chi ha gli occhi in testa.
+E quella canzonetta? Ditemi in confidenza; io sono amico
+ed altrui nulla dico; è per voi, per madama ...
 
-    Come on, you can tell me. Did he make it for you, or is it another one of
+    Come on, you can tell me. Did he 
+    make it for you, or is it another one of
     his tributes to our leading lady?
 
 
@@ -1062,21 +1085,27 @@ io non aggiungo un pelo.
 IL CONTE:
 Come, che dicon tutti!
 
+    [stage left?]
     And what exactly is it that everyone is saying?
 
 
-....
-o bella
+BASILIO: 
+Oh bella! 
+         
+SUSANNA:  
+Oh cielo! 
+         
 
 
 ### N. 7 Terzetto
 
 IL CONTE:
-[a Basilio]
 Cosa sento! Tosto andate,
 e scacciate il seduttor.
 
-    You know my rule about on-set relationships!  Where is he?
+    What? 
+    You know my rule about on-set relationships!
+    Where is that kid?
 
 
 
@@ -1087,24 +1116,22 @@ perdonate, oh mio signor.
     Ah, sorry, I obviously came at a bad time...
 
 
-...
-
-
-
 SUSANNA:
 Che ruina, me meschina,
-li tentando a distrarre]
 son oppressa dal dolor.
 
-    I don't feel well.  Oh, oh!
+    Um. I don't feel well.  Oh, oh!
+
 
 BASILIO & IL CONTE:
 ?literal?
 Ah già svien la poverina!            
 Come, oh Dio, le batte il cor!       
 
-    Ah, the poor girl's almost fainting!
-    Oh god, how her heart beats!
+    Poor girl!
+    Poor girl!
+    [or nothing]
+
 
 BASILIO:
 Pian pianin su questo seggio.
@@ -1114,9 +1141,7 @@ Pian pianin su questo seggio.
 
 SUSANNA:
 Dove sono!
-[rinviene]
 Cosa veggio!
-[staccandosi da tutti due]
 Che insolenza, andate fuor.
 
     Actually I'm fine now!
@@ -1139,6 +1164,8 @@ Ah, del paggio quel che ho detto
 era solo un mio sospetto.
 
     Listen, the rumours about the boy, I was just repeating what I heard...
+
+    I was just repeating what I heard...
 
 
 SUSANNA:
@@ -1165,10 +1192,11 @@ Poverino!
 IL CONTE:
 Poverino!
 Ma da me sorpreso ancor.
+
+    Poor kid? Poor kid?
+
 SUSANNA & BASILIO:
 Come! Che!
-
-
 
 IL CONTE:
 Da tua cugina                  
@@ -1188,9 +1216,12 @@ Ah! cosa veggio!
 
     [or:]
 
-    Poor kid? Poor kid?  The other day I notice one of the extras' dresses
-    doesn't look right, so I pull it up, and what do I find under there?  The
-    kid!
+    Poor kid? Poor kid?
+    The other day, I notice 
+    one of the extras' dresses
+    doesn't look right,
+    so I pull it up, 
+    and what do I find? The kid!
 
 
 BASILIO:
@@ -1203,19 +1234,23 @@ IL CONTE:
 Onestissima signora!
 Or capisco come va!
 
-    I see what's going on!
-
-
 SUSANNA:
 Accader non può di peggio,
 giusti Dei! Che mai sarà!
+
 BASILIO: [ridendo]
 Così fan tutte le belle;
 non c'è alcuna novità!
-?
 
+    I see what's going on!
 
-?? then something abstract for the ending terzetto?
+    This couldn't get any worse
+
+    "Cosi fan tutte."
+    [or]
+    This couldnt get any better!
+
+[slightly unclear who says what]
 
 
 ### Recitativo
@@ -1227,27 +1262,27 @@ di Figaro volate:
 [addita Cherubino che non si muove di loco]
 io vo' ch'ei veda ...
 
-    Go fetch Figaro.  I want him to see this.
+    Fetch Figaro.  I want him to see this.
 
 
 SUSANNA:
 Ed io che senta; andate!
 
-    Yeah you go.  I want him to hear this!
+    You go.  I want him to hear this!
 
 
 IL CONTE:
-Restate: che baldanza!
-E quale scusa
+Restate: che baldanza! E quale scusa
 se la colpa è evidente?
 
-    Oh really?  And what excuse will you give him?
+    And what excuse will you give him?
+    [or cut]
 
 
 SUSANNA:
 Non ha d'uopo di scusa un'innocente
 
-    Innocence needs no excuse
+    Innocence needs no excuse!
 
 
 IL CONTE:
@@ -1263,23 +1298,20 @@ Il vostro arrivo
 in scompiglio lo pose,
 ed allor in quel loco si nascose.
 
-    He's been in here the whole time.  He was asking me for help trying to keep
-    his job... (?thrown off set).  And he hid in there when you came in.
+    He's been hiding here the whole time.
+    He asked me for help keeping his job... 
 
 
-IL CONTE:                              COUNT:
-Ma s'io stesso m'assisi                But I sat right there myself
-quando in camera entrai!               when I came into the room!
-         
-CHERUBINO:                             CHERUBINO:
-Ed allor di dietro io mi celai.        I was hiding behind the chair then.
-         
-IL CONTE:                              COUNT:
-E quando io là mi posi?                And when I went there myself?
-         
-CHERUBINO:                             CHERUBINO:
-Allor io pian mi volsi,                Then I crept around very quietly, 
-e qui m'ascosi.                        and hid here.
+IL CONTE:                      
+Ma s'io stesso m'assisi        
+quando in camera entrai!       
+CHERUBINO:                     
+Ed allor di dietro io mi celai.
+IL CONTE:                      
+E quando io là mi posi?        
+CHERUBINO:                     
+Allor io pian mi volsi,        
+e qui m'ascosi.                
 
 IL CONTE:
 Oh ciel, dunque ha sentito
