@@ -26,6 +26,13 @@ trenta ... trentasei ... quarantatre
 
     5 grand? 10? 20? 30?  36? 43?  43 grand!?!
 
+    Kroner 5k?
+    10k?
+    20k?
+    30k?
+    36k??
+    43k!
+
 
 
 SUSANNA:
@@ -38,8 +45,6 @@ guarda adesso il mio cappello.
 [but: do we want to get the audience used to captions always being on same side
 as actor?]
 
-    This really suits me now, what do you think Figaro?
-    [or]
     What do you think Figaro?  Look!
 
 
@@ -48,9 +53,6 @@ Sì mio core, or è più bello,
 sembra fatto inver per te.
 
     Looks great darling!
-    [or]
-    Yeah, yeah, looks great darling.
-
 
 
 SUSANNA / FIGARO duet:
@@ -60,9 +62,9 @@ questo bel cappellino vezzoso
 che Susanna ella stessa si fe'.
 [they are stage left]
 
-    We're looking forward to getting married today,
-    on the last day of filming.
-    [meh]
+    Hooray,
+    filming ends today, 
+    and we can get married
 
 
 SUSANNA:
@@ -76,7 +78,8 @@ FIGARO:
 Io guardo se quel letto che ci destina il Conte
 farà buona figura in questo loco.
 
-    Just checking out... our new trailer!
+    Just checking out...
+    our new trailer!
 
 
 
@@ -87,14 +90,15 @@ FIGARO:
 Certo: a noi la cede generoso il padrone.
 
     It's a wedding gift from Mr. Almaviva
-    [part 2]
+    [part 2 maybe]
 
 
 
 SUSANNA:
 Io per me, te la dono.
 
-  I don't think we should accept.
+  I don't want it!
+
 
 
 FIGARO:
@@ -102,78 +106,68 @@ E la ragione?
 
 SUSANNA:
 Perché non voglio. Sei tu mio servo, o no?
-[stage right]
-
-    Will you just trust me?
-    [could lose this]
-    [or, part 2?]
-
 
 FIGARO:
 Ma non capisco perché tanto ti spiace la più comoda stanza del palazzo.
 
-    I don't get it. Do you have any idea how much these things cost?
-    [or]
-    I don't get it. Why wouldn't you want the best caravan on location?
+    Do you have 
+    any idea how much 
+    these things cost?
+    
 
 
-Perch'io son la Susanna,
-e tu sei pazzo.
+Perch'io son la Susanna, e tu sei pazzo.
 (callback/response.  Do you have any idea that you're an idiot?/  why wouldn't you want to just shut up now.)
 
     Because I am your Susanna, and you are an idiot
 
 
 Grazie; non tanti elogi!
-Guarda un poco
-se potriasi star meglio
-in altro loco.
+Guarda un poco se potriasi star meglio in altro loco.
 
-    Women!  I'll never understand.
-    [could lose this]
+    Why wouldn't you want the best caravan on location?
+
 
 [opens caravan]
 
 ### N. 2 Duettino
 
-Se a caso madama
-la notte ti chiama,
-din din; in due passi
-da quella puoi gir.
-Vien poi l'occasione
-che vuolmi il padrone,
-don, don; in tre salti
-lo vado a servir.
+Se a caso madama la notte ti chiama,
+din din; in due passi da quella puoi gir.
 
-    On location, we can park it next to Rosina's trailer,
-    so you can be with her whenever she needs you.
+    We can park it next to 
+    Rosina's trailer
+    so you can be right by her.
+
+Vien poi l'occasione che vuolmi il padrone,
+don, don; in tre salti lo vado a servir.
+
     And I can be near Mr Almaviva.
 
 
 SUSANNA:
-Così se il mattino
-il caro Contino,
-din din; e ti manda
-tre miglia lontan,
-don don; a mia porta
-il diavol lo porta,
+Così se il mattino il caro Contino,
+din din; e ti manda tre miglia lontan,
+don don; a mia porta il diavol lo porta,
 ed ecco in tre salti ...
 
-    Yeah.  And once Almaviva's sent you off to buy 1000 brown
-    M&Ms or whatever, he can be at my doorstep at a moment's notice...
+    Yeah.  And when Almaviva sends you off
+    to buy 1000 brown M&Ms or whatever,
+
+    he'll be at my door at a moment's notice...
 
 
 FIGARO:
 Susanna, pian, pian.
+
+    What are you saying?
+    [stage left. stay on til fa presto]
 
 SUSANNA:
 Ascolta ...
 
 FIGARO:
 fa presto
-[stage left. optionally can be on from 'pian pians']
-
-    What are you saying?
 
 
 SUSANNA:
@@ -186,23 +180,12 @@ Udir bramo il resto,
 i dubbi, i sospetti
 gelare mi fan.
 
-    [either:]
-    Promise me you won't jump to conclusions!
+    Don't jump to conclusions!
 
     I'm trying not to.
 
-    [or -- literals:]
 
-    If you want to hear the rest,
-    Dismiss these suspicions
-    that are so unfair to me.
-
-    I must hear the rest,
-    these doubts and suspicions
-    make my blood run cold.
-
-
-[last two repeat a few times... stay on?]
+[last two repeat a few times... stay on]
 
 
 SUSANNA:
@@ -214,8 +197,12 @@ ritentar la sua sorte,
 né già di sua consorte, bada bene,
 appetito gli viene ...
 
-    Alamaviva has got tired of sleeping with the lastest wannabe
-    actresses, and is turning his attention towards members of the crew...
+    Almaviva is tired 
+    of sleeping 
+    with wannabe actresses
+
+    And is turning his attention 
+    to the crew...
 
 
 FIGARO:
@@ -229,8 +216,11 @@ Di me medesma; ed ha speranza,
 che al nobil suo progetto
 utilissima sia tal vicinanza.
 
-    Who do you think?  That's the whole point of this flashy caravan -- he
-    wants to keep me close by.
+    Who do you think?
+
+    That's the whole point 
+    of this flashy caravan 
+    he wants me close by.
 
 
 FIGARO:
@@ -247,8 +237,9 @@ Chetati, or viene il meglio: Don Basilio,
 mio maestro di canto, e suo mezzano, nel darmi la lezione
 mi ripete ogni dì questa canzone.
 
-    I've already got Basilio whispering in my ear, telling me this could be the
-    perfect way to advance my career
+    And Basilio is telling me 
+    this could be the perfect way 
+    to advance my career
 
 
 FIGARO:
@@ -258,22 +249,22 @@ SUSANNA:
 E tu credevi che fosse la mia dote
 merto del tuo bel muso!
 
-    You really thought it was because he respects your skills as first AD?
+    You thought it was 
+    because he respects 
+    his first AD?
 
 
 FIGARO:
 Me n'ero lusingato.
 
-    I did think... After all I've done for him!
+    I did think... 
 
 
 SUSANNA:
 Ei la destina per ottener da me certe mezz'ore ...
 
-    [literal?]
-    It was intended to obtain from me certain little half-hours...
-    [or]
     For "special little half-hours", he said.
+
 
 
 FIGARO:
@@ -284,7 +275,8 @@ Ci vogliam divertir: trovato avete ...
 
 Chi suona? La Contessa.
 
-    It's Rosina.  You have to go.
+    It's Rosina.
+    You have to go.
 
 
 SUSANNA:
@@ -298,6 +290,7 @@ SUSANNA:
 E tu, cervello.
 
 
+
 ## SCENA II
 
 FIGARO:
@@ -306,16 +299,27 @@ a capir il mistero ...
 e a veder schietto
 tutto il vostro progetto:
 
-    Almaviva you bastard.  Now I see your plan more clearly,
+    Almaviva you bastard.  
+    Now I see your plan 
+    more clearly,
+
 
 a Londra, è vero?
 Voi ministro, io corriero,
+
+    On location, 
+    you the director,
+    me the assistant director...
+
+
 e la Susanna ...
 secreta ambasciatrice.
 Non sarà, non sarà. Figaro il dice.
 
-    out on location, you the director, me the assistant director, and Susanna
-    on the casting couch?  I don't thinks so!
+    and Susanna 
+    on the casting couch?
+    I don't thinks so!
+
 
 
 
@@ -326,22 +330,11 @@ il chitarrino le suonerò.
 Se vuol venire nella mia scuola
 la capriola le insegnerò.
 
-    If you want to dance, my dear little Count,
-    I'll play the tune for you on my guitar.
-
-    If you want to come to my school
-    I'll teach you all the moves.
-
-    [ or ]
-
     You wanna dance, boss?
-
-    I'll play my guitar for you.
 
     Come to my school
 
     I'll teach you a lesson.
-
 
 
 Saprò ... ma piano,
@@ -349,15 +342,7 @@ meglio ogni arcano
 dissimulando
 scoprir potrò!
 
-    I'll know how ... but gently!
-    best to hide secrets:
-    by dissembling
-    I can discover it all.
-
-    [or]
-
-    I'll... But, slowly!
-    First I'll keep quiet, and find out all your secrets.
+    But first I'll find out all your secrets.
 
 
 [ fig leaves caravan ]
@@ -367,15 +352,15 @@ di qua pungendo, di là scherzando,
 tutte le macchine rovescerò.
 (bis)
 
-    Art
+    Art 
 
     Of
 
     Fencing
 
-    Strike!
+    Strike here!
 
-    Joke!
+    Joke there!
 
     Ruin.
     All.
@@ -383,12 +368,14 @@ tutte le macchine rovescerò.
     Plans.
 
 
+[not quite happy with art of fencing]
+
 
 Se vuol ballare, Signor Contino,
 il chitarrino le suonerò.
 
-    If you want to dance, my dear little Count
-    I'll play the tune for you on my guitar.
+
+    [callback?]
 
 
 
@@ -401,21 +388,25 @@ Ed aspettaste il giorno
 fissato a le sue nozze
 per parlarmi di questo?
 
-    You wait until the day of his wedding to tell me about this?
+    You wait until the day 
+    of his wedding 
+    to tell me about this?
 
 
 MARCELLINA:
 Io non mi perdo, dottor mio, di coraggio: per romper de' sponsali
 più avanzati di questo bastò spesso un pretesto,
 
-    I wasn't expecting it so soon!
+    I wasn't expecting 
+    it so soon!
 
 ed egli ha meco, oltre questo contratto,
 certi impegni ...
 so io ...
 [part 2]
 
-    But Figaro has certain... obligations towards me
+    Figaro has certain... 
+    obligations towards me
 
 
 
@@ -430,12 +421,16 @@ e Figaro così fia mio marito.
     He'll get angry, call the wedding off, and then Figaro
     will be mine.  Oh yes, he will.
 
+    If Susanna refuses Almaviva,
+    He'll derail the wedding, 
+    then Figaro will be mine!
 
 
 BARTOLO:
 Bene, io tutto farò: senza riserve tutto a me palesate.
 
     Leave it to me.  I'll make some calls.
+
 
 
 [da sé]
