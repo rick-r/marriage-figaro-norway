@@ -24,15 +24,7 @@ trenta ... trentasei ... quarantatre
 
 [stage right]
 
-    5 grand? 10? 20? 30?  36? 43?  43 grand!?!
-
-    Kroner 5k?
-    10k?
-    20k?
-    30k?
-    36k??
-    43k!
-
+    5 grand? 10? 20? 30? 36? 43?  43 grand!?!
 
 
 SUSANNA:
@@ -407,6 +399,7 @@ più avanzati di questo bastò spesso un pretesto,
 ed egli ha meco, oltre questo contratto,
 certi impegni ...
 so io ...
+
 [part 2]
 
     Figaro has certain...
@@ -1488,7 +1481,6 @@ di trattar scherzando
 un negozio sì serio?
 
     How can you joke about this!
-[thing]
 
 FIGARO:
 Non vi basta
