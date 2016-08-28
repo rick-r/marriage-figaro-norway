@@ -1963,7 +1963,8 @@ LA CONTESSA:
 era meco la Susanna ...
 che in sua camera è andata.
 
-    ... Changing costumes!  Susanna was with me.
+    ... Changing costumes!
+    Susanna was with me.
 
 
 
@@ -1972,16 +1973,12 @@ Ad ogni modo
 voi non siete tranquilla.
 Guardate questo foglio!
 
-    You're out of sorts in any case.  Now let's talk about this letter!
+    Let's talk about this letter!
+
 
 LA CONTESSA:                       
 (Numi! È il foglio                 
 che Figaro gli scrisse ... )       
-[Cherubino fa cadere un tavolino,  
-ed una sedia in gabinetto,         
-con molto strepito.]               
-
-
 
 IL CONTE:
 Cos'è codesto strepito?
@@ -1994,21 +1991,20 @@ Io non intesi niente.
     I didn't hear anything!
 
 
+
 IL CONTE:
-Convien che abbiate
-i gran pensieri in mente.
+Convien che abbiate i gran pensieri in mente.
 
-    Because there's something else on your mind maybe?
+    Because there's 
+    something else 
+    on your mind?
 
 
-...
-
+LA CONTESSA:  
+Di che?       
 
 IL CONTE:
 Là v'è qualchuno.
-
-    Someone's in here.
-
 
 LA CONTESSA:
 Ah sì, Susanna ... appunto ...
@@ -2019,34 +2015,38 @@ Ah sì, Susanna ... appunto ...
 IL CONTE:
 Che passò mi diceste alla sua stanza!
 
-    Who you just told me went off to the wardrobe department?
+    Who you just told me 
+    went off to the 
+    wardrobe department?
 
 
 LA CONTESSA:
 Alla sua stanza, o qui - non vidi bene ...
 
-    Well, either there, or to the wardrobe in here.  I didn't specify.
-
-...
+    Well, either there, or 
+    to the wardrobe in here.
+    I didn't specify.
 
 
 IL CONTE:
 Io non so nulla; ma turbata senz'altro.
 
-    Seems to me that you're all flustered about something
+    You're all flustered about something
 
 
 LA CONTESSA:
 Ah, questa serva più che non turba me turba voi stesso.
 
-    Seems to me that you're the one that's getting all flustered about
+    You're the one that's 
+    all flustered, about
     my wardrobe girl!
 
 
 IL CONTE:
 È vero, è vero, e lo vedrete adesso.
 
-    Let's just see shall we?
+    Let's just see 
+    shall we?
 
 
 
@@ -2074,16 +2074,17 @@ Lo vieta l'onestà.
 Un abito da sposa
 provando ella si sta.
 
-    She can't come out -- she's trying on her wedding dress
+    She can't come out 
+    she's trying on 
+    her wedding dress!
 
 
 IL CONTE:
 Chiarissima è la cosa:
 l'amante qui sarà.
 
-    I know what's going on, her lover's in there!
-    [or]
-    I know exactly what's going on here
+    I'm sure she has 
+    a lover in there!
 
 
 LA CONTESSA:
@@ -2094,15 +2095,13 @@ SUSANNA:
 Capisco qualche cosa,
 veggiamo come va.
 
-    [an abstract one here?]
-
-
-
 IL CONTE:
 Dunque parlate almeno.
 Susanna, se qui siete ...
 
-    Well if she can't come out, she can answer some questions instead!
+    If she can't come out,
+    she can still
+    answer some questions!
 
 
 LA CONTESSA:
@@ -2122,11 +2121,11 @@ Consorte mio, giudizio,
 un scandalo, un disordine,
 schiviam per carità!
 
-    Careful,
     A scandal, a confusion,
     is looming over us!
 
-? abstract again?
+    A scandal, a confusion,
+    is looming over us!
 
 
 
@@ -2144,7 +2143,9 @@ Ebben, lasciate,
 l'aprirem senza chiavi.
 [chiamando] Ehi, gente!
 
-    If you won't open it, I'll get someone who will!
+    If you won't open it,
+    I'll get someone 
+    who will!
 
 
 LA CONTESSA:
@@ -2152,7 +2153,8 @@ Come?
 Porreste a repentaglio
 d'una dama l'onore?
 
-    You want everyone to know our business?
+    You want everyone 
+    to know our business?
 
 
 IL CONTE:
@@ -2167,8 +2169,9 @@ sia il mio dubbio distrutto
 anco le porte io prima chiuderò.
 
 
-    Fine.  I'll open it myself.  Let's lock this door, make sure
-    no-one can come in or our, and you and I will go fetch some tools.
+    Fine.  I'll open it myself.
+    Let's lock this door,
+    and go fetch some tools.
 
 [locks doors]
 
@@ -2182,9 +2185,7 @@ Voi la condiscendenza
 di venir meco avrete.
 Madama, eccovi il braccio, andiamo.
 
-    After you, <sarcastic-film-star-name?>
-    [gone with the wind? Scarlett O'Hara?]
-
+    After you, Scarlett O'Hara.
 
 
 LA CONTESSA:
@@ -2194,8 +2195,9 @@ IL CONTE:
 'Susanna' starà qui
 finché torniamo.
 
-    See you when we get back, "Susanna"!
-    [? not needed]
+    See you when 
+    we get back,
+    "Susanna"!
 
 
 
@@ -2209,14 +2211,9 @@ aprite, è la Susanna.
 Sortite, via sortite,
 andate via di qua.
 
-    They've gone. Get out of there!
-    [not needed]
-
-
 CHERUBINO: [uscendo]
 Oimè, che scena orribile!
 Che gran fatalità!
-
 
 SUSANNA:
 Di qua, di là.
@@ -2230,14 +2227,13 @@ che mai, che mai sarà!
     It's locked!
 
 
-
 CHERUBINO:
 Qui perdersi non giova.
 
 SUSANNA:
 V'uccide se vi trova.
 
-  He'll kill you if he finds you
+    He'll kill you if he finds you
 
 CHERUBINO:
 Veggiamo un po' qui fuori.
@@ -2251,15 +2247,14 @@ SUSANNA:
 Fermate, Cherubino!
 Fermate per pietà!
 
-    Don't!
-
-
 CHERUBINO:
 Qui perdersi non giova.
 Un vaso o due di fiore,
 piu mal non avverra.
 
-    Hey, at worst I'll break a couple of prop flowers.  Don't worry!
+    Hey, at worst I'll 
+    break a couple of prop 
+    flowers.  Don't worry!
 
 
 SUSANNA:
@@ -2268,9 +2263,7 @@ Fermate, Cherubino!
 CHERUBINO:
 M'uccide se mi trova.
 
-
 SUSANNA:
-[trattenendolo sempre]
 Tropp'alto per un salto,
 fermate per pietà!
 
@@ -2284,15 +2277,13 @@ nel fuoco volerei.
 Abbraccio te per lei -
 addio, così si fa.
 
-    If I don't make it, tell Rosina I love her.
+    If I don't make it,
+    tell Rosina I love her.
 
 
 SUSANNA:
 Ei va a perire, oh Dei!
 Fermate per pietà; fermate!
-
-[jumps]
-
 
 
 
@@ -2300,17 +2291,15 @@ Fermate per pietà; fermate!
 
 SUSANNA:
 Oh, guarda il demonietto!
-Come fugge!
-È già un miglio lontano.
-Ma non perdiamoci invano.
-Entriam nel gabinetto,
+Come fugge! È già un miglio lontano.
+Ma non perdiamoci invano. Entriam nel gabinetto,
 
-    And off he runs.  Thank goodness he's all right.
+    Off he runs.
+    Thank goodness
+    he's all right.
 
 venga poi lo smargiasso,
 io qui l'aspetto.
-
-?jk onto the next  part of this farce?
 
 
 
@@ -2321,7 +2310,9 @@ Tutto è come il lasciai:
 volete dunque
 aprir voi stessa, o deggio -
 
-    Everything is as we left it.  Last chance, you wanna open this door?
+    Everything is as we left it.
+    Last chance, you wanna 
+    open this door?
 
 
 LA CONTESSA:
@@ -2330,7 +2321,8 @@ e ascoltatemi un poco.
 Mi credete capace
 di mancar al dover?
 
-    You really think I've been cheating?
+    You really think 
+    I've been cheating?
 
 
 IL CONTE:
@@ -2338,14 +2330,16 @@ Come vi piace.
 Entro quel gabinetto
 chi v'è chiuso vedrò.
 
-    I'll find out who's in there, one way or another.
+    I'll find out 
+    who's in there,
+    one way or another.
 
 
 LA CONTESSA:
 Sì, lo vedrete ...
 Ma uditemi tranquillo.
 
-    Yes you'll see him, but --
+    Yes you'll see him, but -
 
 
 
@@ -2353,6 +2347,8 @@ IL CONTE:
 Non è dunque Susanna!
 
     Him?  So it's not Susanna!
+
+[part 2]
 
 
 LA CONTESSA:
@@ -2365,27 +2361,25 @@ di far si disponeva ...
 ed io vi giuro
 che l'onor, l'onestà -
 
-    Look, no, it's not, but, we were just planning a joke, it's totally
-    innocent...
+    We were just 
+    planning a joke,
+    it's totally innocent!
 
 
 IL CONTE:
 Chi è dunque! Dite ...
 l'ucciderò.
 
-    Who's in there?  I'll kill him!
+    Who's in there?
+    I'll kill him!
 
 
 LA CONTESSA:
 Sentite!
 Ah, non ho cor!
 
-    I can't
-
-
 IL CONTE:
 Parlate.
-
 
 LA CONTESSA:
 È un fanciullo ...
@@ -2400,24 +2394,18 @@ Un fanciul! ...
 LA CONTESSA:
 Sì ... Cherubino ...
 
-    Cherubino.
-
-
 IL CONTE:
 (E mi farà il destino
 ritrovar questo paggio in ogni loco
 
-    The kid!  It's like I'm doomed to always have him underfoot!
-    [needs work]
+
+    Him again!
 
 
 Come? Non è partito? Scellerati!
-Ecco i dubbi spiegati,
-ecco l'imbroglio,
-ecco il raggiro,
-onde m'avverte il foglio.
+Ecco i dubbi spiegati, ecco l'imbroglio,
+ecco il raggiro, onde m'avverte il foglio.
 
-?letter
 
 
 ## SCENA VI
@@ -2427,9 +2415,6 @@ onde m'avverte il foglio.
 IL CONTE:
 Esci omai, garzon malnato,
 sciagurato, non tardar.
-
-    Get out of there you little rat.
-
 
 LA CONTESSA:
 Ah, signore, quel furore
@@ -2454,8 +2439,10 @@ e lo stato in che il trovate ...
 sciolto il collo ...
 nudo il petto ...
 
-    Listen, I swear there's a perfectly good explanation for this, but he's
-    not... he's in his underwear!
+    There's a perfectly good 
+    explanation for this,
+    but he's not... 
+    he's in his underwear.
 
 
 
@@ -2466,14 +2453,18 @@ Nudo il petto! Seguitate!
 LA CONTESSA:
 Per vestir femminee spoglie ...
 
-    Because we were dressing him up as a girl!
+    Because we were 
+    dressing him up 
+    as a girl!
 
 
 IL CONTE:
 Ah comprendo, indegna moglie,
 mi vo' tosto vendicar.
 
-    Yeah, I know *exactly* what you were up to.
+    Yeah, I know 
+    *exactly* what 
+    you were up to.
 
 
 LA CONTESSA:
@@ -2492,7 +2483,8 @@ Egli è innocente.
 Voi sapete ...
 
 [on second]
-    He's innocent.  You know...
+    He's innocent.
+    You know...
 
 
 IL CONTE:
@@ -2501,8 +2493,9 @@ Va lontan dagl'occhi miei,
 un'infida, un'empia sei
 e mi cerchi d'infamar.
 
-    I don't wanna hear it.  Get out of here, I never want to see you again, and
-    take your crap with you!
+    Get out of here,
+    I never want to see you again,
+    and take your crap with you!
 
 
 
@@ -2515,7 +2508,7 @@ Non ascolto.
 LA CONTESSA:
 Non son rea.
 
-    ? I'm not guilty!
+    I'm not guilty!
 
 
 IL CONTE:
@@ -2523,15 +2516,17 @@ Vel leggo in volto!
 Mora, mora, e più non sia,
 ria cagion del mio penar.
 
-    Once he's dead, he's dead, and that'll be the end of all this.
+    I'll kill him.
+    and that'll be 
+    the end of all this.
 
 
 LA CONTESSA:
 Ah, la cieca gelosia
 qualche eccesso gli fa far.
-[also torto]
 
-    [sthing?]
+    Blind jealousy 
+    consumes him.
 
 
 
@@ -2555,7 +2550,10 @@ il paggio uccidete,
 quel paggio malnato,
 vedetelo qua.
 
-    Here I am. If you're going to kill anyone, it'll have to be me.
+    Here I am. 
+    If you're going 
+    to kill anyone,
+    it'll have to be me.
 
 
 
@@ -2571,8 +2569,6 @@ SUSANNA:
 (Confusa han la testa,
 non san come va.)
 
-general confusion
-
 
 IL CONTE:
 Sei sola?
@@ -2584,11 +2580,10 @@ Guardate, qui ascoso sarà.
 
     See for yourself.
 
+[part 2]
 
 IL CONTE:
 Guardiamo, qui ascoso sarà.
-
-    Let's take a look.
 
 
 
@@ -2601,7 +2596,9 @@ SUSANNA:
 Più lieta, più franca,
 in salvo è di già.
 
-    He's OK.  He jumped out of the window.
+    He's OK.
+    He jumped out 
+    of the window.
 
 
 
@@ -2613,14 +2610,18 @@ perdono vi chiedo;
 ma far burla simile
 è poi crudeltà.
 
-    Clearly I owe you an apology.
-    But this was some joke...
+    Clearly I owe you 
+    an apology.
+    But this was some joke!
 
 
 LA CONTESSA & SUSANNA:
 Le vostre follie non mertan pietà.
 
-    You don't deserve forgiveness
+    You don't deserve forgiveness.
+
+    You don't deserve forgiveness.
+
 
 
 IL CONTE:
@@ -2636,8 +2637,7 @@ IL CONTE:
 Vel giuro.
 
 LA CONTESSA:
-Mentite.
-Son l'empia, l'infida
+Mentite. Son l'empia, l'infida
 che ognora v'inganna.
 
     You're full of it!
@@ -2663,29 +2663,22 @@ d'un'anima amante
 sì fiera mercede
 doveva sperar?
 
-    [?literal]
-    Then the faithfulness
-    of a lover's soul
-    could only ever hope
-    for such a cruel reward?
+    This is what I get
+    for being true to you?
+
 
 
 IL CONTE:
 Quell'ira, Susanna,
 m'aita a calmar.
 
-    Come on Susanna, do you want to get married today?
-
-
 SUSANNA:
-Così si condanna
-chi può sospettar.
+Così si condanna chi può sospettar.
 
 Signora!
 
 IL CONTE:
 Rosina!
-
 
 LA CONTESSA:
 Crudele!
@@ -2698,20 +2691,18 @@ del vostro abbandono
 che avete diletto
 di far disperar.
 
-    Forgive you?  Just a minute ago you were ready to kick me out! Is this how
-    you treat the love of your life?
-
-
-
+    Forgive you?
+    You were about to kick 
+    me out!
+    
+    
 IL CONTE:
 Confuso, pentito,
 son troppo punito,
 abbiate pietà.
 
-    Rosina, I'll make it up to you, I promise...
-
-(in terzett, may not work)
-
+    I'll make it up to you,
+    I promise...
 
 
 SUSANNA:
@@ -2721,19 +2712,23 @@ abbiate pietà.
 
     Maybe you should give him a break?
 
-(in terzett, may not work)
-
 
 LA CONTESSA:
 Soffrir sì gran torto
 quest'alma non sa.
 
+    I don't have to
+    put up with this.
+
+
+[terzetto ends]
 
 
 IL CONTE:
 Ma il paggio rinchiuso?
 
-    What was all that crap about Cherubino?
+    What was all that crap 
+    about the kid?
 
 
 
@@ -2741,6 +2736,8 @@ LA CONTESSA:
 Fu sol per provarvi.
 
     That was just a test.
+
+[part 2]
 
 
 IL CONTE:
@@ -2754,35 +2751,41 @@ Fu sol per burlarvi.
 
     I am an actress.
 
+[part 2]
+
 
 
 IL CONTE:
 
 Ma un foglio sì barbaro?
 
-    But that letter, that was a low blow...
+    But that letter
+    was a low blow...
+
 
 
 LA CONTESSA & SUSANNA:
 Di Figaro è il foglio,
 e a voi per Basilio.
 
-    Figaro wrote it and handed it to Basilio...
-
+    Figaro wrote it and 
+    handed it to Basilio...
 
 
 IL CONTE:
 Ah perfidi! Io voglio ...
 
-    So everyone was in on it!
+    So everyone 
+    was in on it!
 
 
 LA CONTESSA & SUSANNA:
 Perdono non merta
 chi agli altri nol da.
 
-    literal?
-
+    Forgiveness is not due
+    to those who don't give it.
+    
 
 IL CONTE:
 Ebben, se vi piace
@@ -2790,17 +2793,17 @@ comune è la pace;
 Rosina inflessibile
 con me non sarà.
 
-    Come on.  After so many years... We've been through worse than
+    Come on, we've been 
+    through worse than
     this.
 
 
 LA CONTESSA:
-Ah quanto, Susanna,
-son dolce di core!
-Di donne al furore
-chi più crederà?
+Ah quanto, Susanna, son dolce di core!
+Di donne al furore chi più crederà?
 
-    I'm not strong enough to stay angry with him...
+    I'm not strong enough 
+    to stay angry with him...
 
 
 SUSANNA:
@@ -2809,8 +2812,9 @@ girate, volgete,
 vedrete che ognora
 si cade poi là.
 
-    Yeah.  I guess some men just get used to always getting away with it, don't
-    they?
+    I guess some men just 
+    always get away with it,
+    don't they?
 
 
 IL CONTE:
@@ -2820,9 +2824,6 @@ Ingrato!
 IL CONTE:
 Ho torto, e mi pento.
 
-    Look at me.  I was wrong.
-
-
 LA CONTESSA, SUSANNA & IL CONTE:
 Da questo momento
 quest'alma a conoscermi/la/vi
@@ -2830,9 +2831,8 @@ apprender potrà.
 
     From this moment,
     may these two souls
-    be able to understand each other better.
-
-    [or nothing?]
+    be able to understand 
+    each other better.
 
 
 
@@ -2848,8 +2848,9 @@ de' nostri vassalli
 corriamo, voliamo
 le nozze a compir.
 
-    Everything's ready out there for us to finish the
-    shoot.
+    Everything's ready 
+    for us to finish 
+    the shoot.
 
 
 
@@ -2865,19 +2866,13 @@ in pria di partir.
 
     Not so fast...
 
-
-
 LA CONTESSA, SUSANNA & FIGARO:
-La cosa è scabrosa;
-com'ha da finir!
+La cosa è scabrosa; com'ha da finir!
 
 IL CONTE:
-(Con arte le carte
-convien qui scoprir.)
+(Con arte le carte convien qui scoprir.)
 
-
-Conoscete, signor Figaro,
-questo foglio chi vergò?
+Conoscete, signor Figaro, questo foglio chi vergò?
 
     How do you explain this note?
 
@@ -2889,13 +2884,12 @@ Nol conosco ...
     I don't know anything about it!
 
 
+
 SUSANNA, LA CONTESSA & IL CONTE:
 Nol conosci?
 
-
 FIGARO:
 No, no, no!
-
 
 SUSANNA:
 E nol desti a Don Basilio ...
@@ -2933,13 +2927,15 @@ Cerchi invan difesa e scusa
 il tuo ceffo già t'accusa,
 vedo ben che vuoi mentir.
 
-    Say what you like.  I can read it on your face.  You're lying.
+    I can read it on your face.
+    You're lying.
 
 
 FIGARO:
 Mente il ceffo, io già non mento.
 
-    Think what you like.  I'm not lying.
+    Think what you like.
+    I'm not lying.
 
 
 
@@ -2948,7 +2944,8 @@ Il talento aguzzi invano
 palesato abbiam l'arcano,
 non v'è nulla da ridir.
 
-    It's no use Figaro, we already told him...
+    It's no use Figaro,
+    we already told him...
 
 
 
@@ -2969,12 +2966,14 @@ Non accordo.
 
     I admit nothing!
 
+[part 2?]
+
 
 SUSANNA & LA CONTESSA:
 Eh via, chetati, balordo,
 la burletta ha da finir.
 
-    Come on the game's over!
+    Come on, the game's over!
 
 
 
@@ -2984,12 +2983,14 @@ e all'usanza teatrale
 un'azion matrimoniale
 le faremo ora seguir.
 
-    This is Hollywood.  It's not over until the big wedding at the end.
+    This is Hollywood.
+    It's not over until 
+    the big wedding at the end.
 
     [or]
 
-    It's not over til the fat lady sings.  Or in this case,
-    until our wedding.
+    It's not over til the fat lady sings.
+    Or in this case, until our wedding.
 
 
 
@@ -3000,8 +3001,7 @@ Deh signor, nol contrastate,
 consolate i lor/miei desir.
 
 IL CONTE:
-(Marcellina, Marcellina!
-Quanto tardi a comparir!)
+(Marcellina, Marcellina! Quanto tardi a comparir!)
 
     Get Marcellina in here now!
 
@@ -3016,20 +3016,17 @@ Cosa è stato? ...
 ANTONIO:
 Che insolenza! Chi'l fece! Chi fu!
 
-
 LA CONTESSA, SUSANNA,
 IL CONTE & FIGARO:
 Cosa dici, cos'hai, cosa è nato?
 
     What now?
 
-
 ANTONIO:
 Ascoltate ...
 LA CONTESSA, SUSANNA,
 IL CONTE & FIGARO:
 Via, parla, di', su.
-
 
 ANTONIO:
 Dal balcone che guarda in giardino
@@ -3039,10 +3036,8 @@ vidi un uom, signor mio, gittar giù
 
     I saw someone jump out of this window!
 
-
 IL CONTE:
 Dal balcone?
-
 
 ANTONIO:
 [mostrandogli il vaso]
@@ -3054,36 +3049,30 @@ Vedete i garofani?
 IL CONTE:
 In giardino?
 
-
 ANTONIO:
 Sì!
-
 
 SUSANNA & LA CONTESSA:
 Figaro, all'erta.
 
-
 IL CONTE:
 Cosa sento!
 
-
 SUSANNA, LA CONTESSA & FIGARO:
-Costui ci sconcerta,
-quel briaco che viene far qui?
-
+Costui ci sconcerta, quel briaco che viene far qui?
 
 IL CONTE:
-Dunque un uom ... ma dov'è,
-dov'è gito?
+Dunque un uom ... ma dov'è, dov'è gito?
 
-    Someone jumped out of the window?  Where did they get to?
+    Someone jumped?  Where did they go?
 
 
 ANTONIO:
 Ratto, ratto, il birbone è fuggito
 e ad un tratto di vista m'uscì.
 
-    I don't know, he got away.
+    I don't know,
+    he got away.
 
 
 SUSANNA:
@@ -3096,19 +3085,18 @@ So tutto, lo vidi.
 
     It's OK, I saw him too
 
+[stage left]
 
 (forte, ridendo)
 Ah, ah, ah, ah!
 
-
 IL CONTE:
 Taci là.
+
 ANTONIO:
 Cosa ridi?
 
-
 FIGARO:
-[ad Antonio]
 Tu sei cotto dal sorger del dì.
 
     Buddy, you're high on paint fumes...
@@ -3117,7 +3105,6 @@ Tu sei cotto dal sorger del dì.
 
 IL CONTE:
 Or ripetimi: un uom dal balcone -
-
 
 ANTONIO:
 Dal balcone ...
@@ -3129,14 +3116,14 @@ In giardino ...
 SUSANNA, LA CONTESSA & FIGARO:
 Ma, signore, se in lui parla il vino!
 
-    He's high!
+    He's tripping!
 
 
 IL CONTE:
 [ad Antonio]
 Segui pure, né in volto il vedesti?
 
-    But did you see his face?
+    Did you see his face?
 
 
 ANTONIO:
@@ -3158,7 +3145,8 @@ per tre soldi far tanto tumulto!
 Giacché il fatto non può star occul
 sono io stesso saltato di lì.
 
-    All right, don't get so worked up over a few flowers.
+    Don't get so worked up 
+    over a few flowers.
     I admit it. It was me.
 
 
@@ -3174,14 +3162,14 @@ Chi? Voi stesso?
 IL CONTE:
 Già creder nol posso.
 
-    You! I don't believe it!
+    I don't believe it!
 
 
 ANTONIO:
 Come mai diventaste sì grosso?
 Dopo il salto non foste così.
 
-    Didn't seem so tall when he jumped
+    Didn't seem so tall when he jumped...
 
 
 FIGARO:
@@ -3189,19 +3177,17 @@ A chi salta succede così.
 
     That's what happens when you jump out a window.
 
+[part 2]
 
 ANTONIO:
 Chi'l direbbe?
 
 
 SUSANNA & LA CONTESSA:
-[a Figaro]
 Ed insiste quel pazzo!
 
 IL CONTE:
-[ad Antonio]
 Tu che dici?
-
 
 ANTONIO:
 A me parve il ragazzo.
@@ -3209,22 +3195,18 @@ A me parve il ragazzo.
     I thought it was the kid...
 
 
-
 IL CONTE:
 Cherubin!
 
-
 SUSANNA & LA CONTESSA:
 Maledetto!
-
-
 
 FIGARO:
 Esso appunto
 da Siviglia a cavallo qui giunto,
 da Siviglia ov'ei forse sarà.
 
-    The kid?  Probably came back to pick up his fixed-wheel bike.
+    Probably came back to pick up his fixed-wheel bike.
 
 
 ANTONIO:
@@ -3234,6 +3216,7 @@ io non vidi saltare di là.
 
     I didn't see no bike jumping through the window.
 
+[part 2]
 
 
 IL CONTE:
@@ -3245,11 +3228,8 @@ Che pazienza! Finiam questo ballo!
 SUSANNA & LA CONTESSA:
 Come mai, giusto ciel, finirà?
 
-
 IL CONTE:
-[a Figaro]
 Dunque tu..
-
 
 FIGARO:
 Saltai giù.
@@ -3260,7 +3240,7 @@ Saltai giù.
 IL CONTE:
 Ma perché?
 
-    Because what?
+    But why?
 
 
 FIGARO:
@@ -3279,11 +3259,23 @@ voi gridaste! lo scritto biglietto,
 saltai giù dal terrore confuso ...
 e stravolto m'ho un nervo del pie'!
 
-    Right.  I was hoping to catch a kiss from
-    my wife-to-be, and then I... heard a noise?
-    and... remembered the letter?  and so I...
-    panicked and jumped out of the window, and...
-    and I twisted my ankle!
+    Right.  I was hoping 
+    to catch a kiss 
+    from my wife-to-be, 
+    and then I... 
+    
+    heard a noise?
+    and... 
+    
+    remembered the letter?
+
+    and so I...
+    panicked and 
+
+    jumped out 
+    of the window, 
+    
+    and... and I twisted my ankle!
 
 
 
@@ -3291,33 +3283,29 @@ ANTONIO:
 Vostre dunque saran queste carte
 che perdeste ...
 
-    Ah.  So these would be your papers
-    that you dropped then?
+    So these would be
+    your papers that you 
+    dropped then?
 
 
 
 IL CONTE:
 Olà, porgile a me.
 
-
-
 FIGARO:
 [piano alla Contessa e Susanna]
 Sono in trappola.
 
-    ?fuck.
+    Oh fuck.
 
 
 SUSANNA & LA CONTESSA:
-[piano a Figaro]
 Figaro, all'erta.
 
 IL CONTE:
-[apre il foglio e lo chiude tosto]
 Dite un po', questo foglio cos'è?
 
-    Tell me.  What are these papers then?
-
+    So what are these papers?
 
 
 
@@ -3331,44 +3319,47 @@ ne ho tanti - aspettate.
 ANTONIO:
 Sarà forse il sommario de' debiti.
 
-    Maybe it's a list of his unpaid debts!
+    Maybe it's a list 
+    of his unpaid debts!
 
 
 FIGARO:
 No, la lista degl'osti.
 
-    Maybe it's a list of your favourite huffing solvents!
-
+    Maybe it's a list 
+    of your favourite
+    huffing solvents!
 
 
 IL CONTE:
 Parlate.
 E tu lascialo; e parti.
 
-    You start talking.  And you get out of here.
+    You start talking.
+    And you, get out of here.
 
 
 SUSANNA, LA CONTESSA & FIGARO:
 Lascialo/Lasciami, e parti.
 FIGARO:
 Vanne, vanne, non temo di te.
-[parte Antonio]
 
 ANTONIO:
 Parto, sì, ma se torno a trovarti-
-?gag
+
+    I'm going. But I think everyone
+    should have a little more respect
+    for the props.
 
 
- IL CONTE:
-[riapre la carta e poi tosto la chiude; a Figaro]
+
+IL CONTE:
 Dunque ...
 
-
 LA CONTESSA:
-[piano a Susanna]
 O ciel! La patente del paggio!
 
-    It's Cherubino's war film contract!
+    Cherubino's war film contract!
 
 
 SUSANNA:
@@ -3378,14 +3369,14 @@ IL CONTE:
 [a Figaro]
 Coraggio!
 
-
 FIGARO:
 Uh, che testa! Questa è la patente
 che poc'anzi il fanciullo mi die'.
 
-    Ah yes of course! It's the kid's contract.  He gave it to me.
+    Of course! It's 
+    the kid's contract.
+    He gave it to me.
     Because...
-
 
 
 IL CONTE:
@@ -3396,13 +3387,13 @@ IL CONTE:
 Vi manca?
 
 LA CONTESSA:
-[piano a Susanna]
 Il suggello.
 SUSANNA:
-[piano a Figaro]
 Il suggello.
 
     The signature!
+
+[stage left]
 
 
 IL CONTE:
@@ -3419,21 +3410,21 @@ FIGARO:
 
 
 IL CONTE:
-[guarda e vede che manca il
-sigillo; guasta il foglio
-e con somma collera lo getta]
-(Questo birbo mi toglie il cervello
-tutto, tutto è un mistero per me.)
+(Questo birbo mi toglie il cervello tutto, tutto è un mistero per me.)
+
+    I have no idea what's going on
+
 
 SUSANNA & LA CONTESSA:
-(Se mi salvo da questa tempesta
-più non avvi naufragio per me.)
+(Se mi salvo da questa tempesta più non avvi naufragio per me.)
+
+    We might just get away with this...
 
 FIGARO:
-(Sbuffa invano e la terra calpesta;
-poverino ne sa men di me.)
+(Sbuffa invano e la terra calpesta; poverino ne sa men di me.)
 
-    sthing x 3
+    I have almost no idea what's going on.
+
 
 
 
@@ -3448,15 +3439,11 @@ ci dovete ascoltar.
 
 
 IL CONTE:
-(Son venuti a vendicarmi
-io mi sento a consolar.)
+(Son venuti a vendicarmi io mi sento a consolar.)
 SUSANNA, LA CONTESSA & FIGARO:
-(Son venuti a sconcertarmi
-qual rimedio ritrovar?)
-
+(Son venuti a sconcertarmi qual rimedio ritrovar?)
 
 FIGARO:
-[al Conte]
 Son tre stolidi, tre pazzi, cosa mai vengono a far?
 
     What are these three idiots doing here?
@@ -3476,8 +3463,8 @@ ha costui con me contratto.
 E pretendo che il contratto
 deva meco effettuar.
 
-
-    I have a marriage contract here (they're very common in Hollywood)
+    I have a marriage contract here 
+    (they're very common in Hollywood)
     saying that Figaro must marry me!
 
 
@@ -3496,7 +3483,8 @@ vengo a far le sue difese,
 le legittime pretese,
 io qui vengo a palesar.
 
-    I am teh lawyer. fully legit.
+    I am teh lawyer.
+    Fully legit.
 
 
 SUSANNA, LA CONTESSA & FIGARO:
