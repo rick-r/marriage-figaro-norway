@@ -63,7 +63,7 @@ che Susanna ella stessa si fe'.
 [they are stage left]
 
     Hooray,
-    filming ends today, 
+    filming ends today,
     and we can get married
 
 
@@ -112,10 +112,10 @@ Perché non voglio. Sei tu mio servo, o no?
 FIGARO:
 Ma non capisco perché tanto ti spiace la più comoda stanza del palazzo.
 
-    Do you have 
-    any idea how much 
+    Do you have
+    any idea how much
     these things cost?
-    
+
 
 
 Perch'io son la Susanna, e tu sei pazzo.
@@ -137,7 +137,7 @@ Guarda un poco se potriasi star meglio in altro loco.
 Se a caso madama la notte ti chiama,
 din din; in due passi da quella puoi gir.
 
-    We can park it next to 
+    We can park it next to
     Rosina's trailer
     so you can be right by her.
 
@@ -201,11 +201,11 @@ ritentar la sua sorte,
 né già di sua consorte, bada bene,
 appetito gli viene ...
 
-    Almaviva is tired 
-    of sleeping 
+    Almaviva is tired
+    of sleeping
     with wannabe actresses
 
-    And is turning his attention 
+    And is turning his attention
     to the crew...
 
 
@@ -222,8 +222,8 @@ utilissima sia tal vicinanza.
 
     Who do you think?
 
-    That's the whole point 
-    of this flashy caravan 
+    That's the whole point
+    of this flashy caravan
     he wants me close by.
 
 
@@ -241,8 +241,8 @@ Chetati, or viene il meglio: Don Basilio,
 mio maestro di canto, e suo mezzano, nel darmi la lezione
 mi ripete ogni dì questa canzone.
 
-    And Basilio is telling me 
-    this could be the perfect way 
+    And Basilio is telling me
+    this could be the perfect way
     to advance my career
 
 
@@ -253,15 +253,15 @@ SUSANNA:
 E tu credevi che fosse la mia dote
 merto del tuo bel muso!
 
-    You thought it was 
-    because he respects 
+    You thought it was
+    because he respects
     his first AD?
 
 
 FIGARO:
 Me n'ero lusingato.
 
-    I did think... 
+    I did think...
 
 
 SUSANNA:
@@ -303,15 +303,15 @@ a capir il mistero ...
 e a veder schietto
 tutto il vostro progetto:
 
-    Almaviva you bastard.  
-    Now I see your plan 
+    Almaviva you bastard.
+    Now I see your plan
     more clearly,
 
 
 a Londra, è vero?
 Voi ministro, io corriero,
 
-    On location, 
+    On location,
     you the director,
     me the assistant director...
 
@@ -320,7 +320,7 @@ e la Susanna ...
 secreta ambasciatrice.
 Non sarà, non sarà. Figaro il dice.
 
-    and Susanna 
+    and Susanna
     on the casting couch?
     I don't thinks so!
 
@@ -356,7 +356,7 @@ di qua pungendo, di là scherzando,
 tutte le macchine rovescerò.
 (bis)
 
-    Art 
+    Art
 
     Of
 
@@ -392,8 +392,8 @@ Ed aspettaste il giorno
 fissato a le sue nozze
 per parlarmi di questo?
 
-    You wait until the day 
-    of his wedding 
+    You wait until the day
+    of his wedding
     to tell me about this?
 
 
@@ -401,7 +401,7 @@ MARCELLINA:
 Io non mi perdo, dottor mio, di coraggio: per romper de' sponsali
 più avanzati di questo bastò spesso un pretesto,
 
-    I wasn't expecting 
+    I wasn't expecting
     it so soon!
 
 ed egli ha meco, oltre questo contratto,
@@ -409,7 +409,7 @@ certi impegni ...
 so io ...
 [part 2]
 
-    Figaro has certain... 
+    Figaro has certain...
     obligations towards me
 
 
@@ -422,7 +422,7 @@ prenderà il mio partito,
 e Figaro così fia mio marito.
 
     If Susanna refuses Almaviva,
-    He'll derail the wedding, 
+    He'll derail the wedding,
     then Figaro will be mine!
 
 
@@ -430,7 +430,7 @@ BARTOLO:
 Bene, io tutto farò: senza riserve tutto a me palesate.
 
     Leave it to me.
-    I'll make 
+    I'll make
     some calls.
 
 
@@ -441,7 +441,7 @@ la mia serva antica
 a chi mi fece un dì rapir l'amica.
 
     I discovered Rosina!
-    Figaro is the reason 
+    Figaro is the reason
     she went to Almaviva.
     It ruined my career.
 
@@ -472,8 +472,8 @@ si potrebbe
 
 il fatto è serio, ma credete si farà.
 
-    I'll make sure 
-    this contract is 
+    I'll make sure
+    this contract is
     bulletproof.
 
 
@@ -488,7 +488,7 @@ conosce Bartolo:
 il birbo Figaro
 vinto [vostro] sarà.
 
-    I still have some 
+    I still have some
     clout in this town!
     Figaro will be yours.
 
@@ -502,7 +502,7 @@ Ma Susanna si avanza:
 
 Io vo' provarmi ... Fingiam di non vederla.
 
-  Let's pretend 
+  Let's pretend
   not so see her.
 
 
@@ -527,14 +527,14 @@ ch'ognun sa quanto vale.)
 Brava! Questo è giudizio!
 Con quegli occhi modesti, con quell'aria pietosa, e poi ...
 
-    Look at her, 
+    Look at her,
     all sweetness and light.
     But we all know...
 
 
 Che cara sposa!
 
-    And here's the 
+    And here's the
     lovely bride!
 
 
@@ -544,7 +544,7 @@ MARCELLINA:
 Via resti servita,
 Madama brillante.
 
-    After you, you 
+    After you, you
     pretty young thing?
 
 
@@ -638,8 +638,8 @@ Sibilla decrepita, da rider mi fa.
 Va' là, vecchia pedante, dottoressa arrogante,
 perché hai letti due libri e seccata madama in gioventù ...
 
-    Grumpy old bitch! 
-    Just because you've been 
+    Grumpy old bitch!
+    Just because you've been
     around forever doesn't make you
     better than everybody else!
 
@@ -661,12 +661,12 @@ Cor vostro! Cosa avvenne?
 
 
 CHERUBINO:
-Il Conte ieri perché trovommi sol con Barbarina, 
-il congedo mi diede; e se la Contessina, la mia bella comare, 
+Il Conte ieri perché trovommi sol con Barbarina,
+il congedo mi diede; e se la Contessina, la mia bella comare,
 grazia non m'intercede,
 io vado via, io non ti vedo più, Susanna mia!
 
-    Almaviva's really going to 
+    Almaviva's really going to
     fire me this time.
     Unless Rosina intervenes,
     I'll never see you again!
@@ -680,7 +680,7 @@ Ma dunque non più per la Contessa
 secretamente il vostro cor sospira?
 
     You'll never see *me* again?
-    Isn't Rosina the one 
+    Isn't Rosina the one
     you're always pining for?
 
 
@@ -695,14 +695,14 @@ gli spilloni, i merletti ...
 Ah, se in tuo loco ...
 
     I wish I were in your place;
-    you get to dress her in the morning, 
+    you get to dress her in the morning,
     undress her in the evening...
 
 
 SUSANNA:
 E che ne debbo fare?
 
-    And what do you want 
+    And what do you want
     me to do with this?
 
 
@@ -859,7 +859,7 @@ BASILIO:
 Susanna, il ciel vi salvi.
 Avreste a caso veduto il Conte?
 
-    Susanna, babe, have 
+    Susanna, babe, have
     you seen Almaviva?
 
 
@@ -867,7 +867,7 @@ SUSANNA:
 E cosa deve far meco il Conte? - Animo, uscite.
 
 
-    I haven't seen him!  
+    I haven't seen him!
     Why would you think that?
 
 
@@ -882,8 +882,8 @@ Figaro di lui cerca.
 SUSANNA:
 (Oh cielo!) Ei cerca chi dopo voi più l'odia.
 
-    Why? The two of you 
-    really have it in 
+    Why? The two of you
+    really have it in
     for Figaro!
 
 
@@ -902,8 +902,8 @@ ch'uno ch'ami la moglie
 odi il marito.
 Per dir che il Conte v'ama ...
 
-    Hey babe, just 'cos the boss 
-    is sweet on you doesn't mean 
+    Hey babe, just 'cos the boss
+    is sweet on you doesn't mean
     he don't like your husband.
     Know what I mean?
 
@@ -915,7 +915,7 @@ Io non ho d'uopo
 della vostra morale,
 del Conte, del suo amor ...
 
-    Get out, you vile 
+    Get out, you vile
     panderer of slanders!
 
 
@@ -930,8 +930,8 @@ un signor liberal,
 prudente, e saggio,
 a un giovinastro, a un paggio ...
 
-    I'd have thought 
-    you'd prefer an affair 
+    I'd have thought
+    you'd prefer an affair
     with the boss...
 
     What's this tape?
@@ -952,9 +952,9 @@ BASILIO:
 E quella canzonetta? Ditemi in confidenza; io sono amico
 ed altrui nulla dico; è per voi, per madama ...
 
-    Is it for you, or 
-    is it one of his 
-    tributes to our 
+    Is it for you, or
+    is it one of his
+    tributes to our
     leading lady?
 
 
@@ -963,7 +963,7 @@ Scellerato!
 E perché andate voi
 tai menzogne spargendo?
 
-    Go sell it to the 
+    Go sell it to the
     National Enquirer!
 
 
@@ -973,7 +973,7 @@ Quel che compro io vendo.
 A quel che tutti dicono
 io non aggiungo un pelo.
 
-    Hey I'm just repeating 
+    Hey I'm just repeating
     what everyone's saying!
 
 
@@ -983,7 +983,7 @@ Come, che dicon tutti!
 
 [stage left]
 
-    And what exactly 
+    And what exactly
     is everyone saying?
 
 
@@ -1000,7 +1000,7 @@ IL CONTE:
 Cosa sento! Tosto andate,
 e scacciate il seduttor.
 
-    You know my rule about 
+    You know my rule about
     on-set relationships!
     Where is that kid?
 
@@ -1010,7 +1010,7 @@ BASILIO:
 In mal punto son qui giunto,
 perdonate, oh mio signor.
 
-    Ah, sorry, I obviously 
+    Ah, sorry, I obviously
     came at a bad time...
 
 
@@ -1055,7 +1055,7 @@ Ah, del paggio quel che ho detto
 era solo un mio sospetto.
 
     About the boy,
-    I was just repeating 
+    I was just repeating
     what I heard...
 
 
@@ -1064,7 +1064,7 @@ SUSANNA:
 È un'insidia, una perfidia,
 non credete all'impostor.
 
-    No-one should ever 
+    No-one should ever
     listen to you!
 
 
@@ -1072,7 +1072,7 @@ IL CONTE:
 Parta, parta il damerino!
 
 
-    Well, I've already 
+    Well, I've already
     fired him!
 
 
@@ -1118,7 +1118,7 @@ Ah! cosa veggio!
 BASILIO:
 Ah! meglio ancora!
 
-    This keeps getting 
+    This keeps getting
     better and better...
 
 
@@ -1179,8 +1179,8 @@ Egli era meco quando voi qui giungeste,
 e mi chiedea d'impegnar la padrona a intercedergli grazia.
 Il vostro arrivo in scompiglio lo pose, ed allor in quel loco si nascose.
 
-    He's been hiding here 
-    the whole time. He asked me 
+    He's been hiding here
+    the whole time. He asked me
     for help keeping his job...
 
 
@@ -1501,21 +1501,21 @@ di certo appuntamento
 che per l'ora del ballo
 a un amante voi deste ...
 
-    I can make jokes 
-    and come up with 
-    brilliant plans 
+    I can make jokes
+    and come up with
+    brilliant plans
     at the same time!
 
 
-    I've left Basilio a letter, 
-    ostensibly written by 
-    Rosina to a lover. 
+    I've left Basilio a letter,
+    ostensibly written by
+    Rosina to a lover.
 
 
 LA CONTESSA:
 O ciel! Che sento! Ad un uom sì geloso! ...
 
-    But my husband 
+    But my husband
     is so jealous!
 
 FIGARO:
@@ -1531,9 +1531,9 @@ altri a lui faccia;
 onde qua perda il tempo,
 ivi la traccia.
 
-    Exactly!  
-    A little taste 
-    of his own medicine.  
+    Exactly!
+    A little taste
+    of his own medicine.
     And it'll buy us time...
 
 
@@ -1561,10 +1561,10 @@ quel che si brama.
 
     But wait, there's more!
 
-    We'll say you're going to 
+    We'll say you're going to
     meet him later tonight.
-    But we'll send Cherubino, 
-    dressed up as you, 
+    But we'll send Cherubino,
+    dressed up as you,
 
     and then we'll let his leading
     lady catch him in the act.
@@ -1591,7 +1591,7 @@ io vado e tosto
 Cherubino vi mando; lascio a voi
 la cura di vestirlo.
 
-    Good. I'll send Cherubino up, 
+    Good. I'll send Cherubino up,
     and you take care of the
     disguises.
 
@@ -1652,8 +1652,8 @@ con nome sì fatale! Ei mi rammenta
 che abbandonar degg'io
 comare tanto buona ...
 
-    Ugh, don't remind me.  
-    I'm just sad to be away from 
+    Ugh, don't remind me.
+    I'm just sad to be away from
     such an amazing actress
 
 
@@ -1766,11 +1766,11 @@ giù quel manto.
     feminine build don't you?
 
 
-LA CONTESSA:     
-Che fai?         
+LA CONTESSA:
+Che fai?
 
-SUSANNA:         
-Niente paura.    
+SUSANNA:
+Niente paura.
 
 LA CONTESSA:
 E se qualcuno entrasse?
@@ -1787,7 +1787,7 @@ Ma come poi acconciargli i cappelli
 
     Now what are we going
     to do with this hair?
-  
+
 [part 2]
 
 
@@ -1805,14 +1805,14 @@ Che carta è quella?
 CHERUBINO:
 La patente.
 
-    It's my contract 
+    It's my contract
     for the war film.
 
 
 LA CONTESSA:
 Dalla fretta obliato hanno il sigillo.
 
-    Looks like they 
+    Looks like they
     forgot to sign it.
 
 SUSANNA:
@@ -1853,7 +1853,7 @@ Cospetto
 Ha il braccio più candido del mio!
 Qualche ragazza ...
 
-    I wonder if 
+    I wonder if
     the boss has seen
     "the Crying Game"
 
@@ -1865,7 +1865,7 @@ e prendi un poco
 d'inglese taffetà:
 ch'è sullo scrigno:
 
-    Go to wardrobe and 
+    Go to wardrobe and
     get him something
     more... retro.
 
@@ -1886,27 +1886,27 @@ Poverin! Che sventura!
     What bad luck.
 
 
-CHERUBINO:       
-Oh, me infelice! 
+CHERUBINO:
+Oh, me infelice!
 
-LA CONTESSA:     
-Or piange ...    
+LA CONTESSA:
+Or piange ...
 
 CHERUBINO:
 Oh ciel! Perché morir non lice!
 Forse vicino all'ultimo momento ...
 questa bocca ...
 
-    These might be our 
+    These might be our
     last moments together...
 
 
-LA CONTESSA:                      
+LA CONTESSA:
 Siate saggio; cos'è questa follia?
-Chi picchia alla mia porta?       
+Chi picchia alla mia porta?
 
-IL CONTE:                         
-Perché è chiusa?                  
+IL CONTE:
+Perché è chiusa?
 
 LA CONTESSA:
 Il mio sposo, oh Dei! Son morta!
@@ -1915,8 +1915,8 @@ In quello stato!
 Un ricevuto foglio ...
 la sua gran gelosia!
 
-    My husband!  And you here!  
-    And he'll have 
+    My husband!  And you here!
+    And he'll have
     read Figaro's letter!
 
 
@@ -1948,7 +1948,7 @@ il suo furore ...
 non trovo altro consiglio!
 
     I'm going to hide.
-    That's worked well 
+    That's worked well
     every time so far.
 
 
@@ -1988,9 +1988,9 @@ Guardate questo foglio!
     Let's talk about this letter!
 
 
-LA CONTESSA:                       
-(Numi! È il foglio                 
-che Figaro gli scrisse ... )       
+LA CONTESSA:
+(Numi! È il foglio
+che Figaro gli scrisse ... )
 
 IL CONTE:
 Cos'è codesto strepito?
@@ -2007,13 +2007,13 @@ Io non intesi niente.
 IL CONTE:
 Convien che abbiate i gran pensieri in mente.
 
-    Because there's 
-    something else 
+    Because there's
+    something else
     on your mind?
 
 
-LA CONTESSA:  
-Di che?       
+LA CONTESSA:
+Di che?
 
 IL CONTE:
 Là v'è qualchuno.
@@ -2027,15 +2027,15 @@ Ah sì, Susanna ... appunto ...
 IL CONTE:
 Che passò mi diceste alla sua stanza!
 
-    Who you just told me 
-    went off to the 
+    Who you just told me
+    went off to the
     wardrobe department?
 
 
 LA CONTESSA:
 Alla sua stanza, o qui - non vidi bene ...
 
-    Well, either there, or 
+    Well, either there, or
     to the wardrobe in here.
     I didn't specify.
 
@@ -2049,7 +2049,7 @@ Io non so nulla; ma turbata senz'altro.
 LA CONTESSA:
 Ah, questa serva più che non turba me turba voi stesso.
 
-    You're the one that's 
+    You're the one that's
     all flustered, about
     my wardrobe girl!
 
@@ -2057,7 +2057,7 @@ Ah, questa serva più che non turba me turba voi stesso.
 IL CONTE:
 È vero, è vero, e lo vedrete adesso.
 
-    Let's just see 
+    Let's just see
     shall we?
 
 
@@ -2086,8 +2086,8 @@ Lo vieta l'onestà.
 Un abito da sposa
 provando ella si sta.
 
-    She can't come out 
-    she's trying on 
+    She can't come out
+    she's trying on
     her wedding dress!
 
 
@@ -2095,7 +2095,7 @@ IL CONTE:
 Chiarissima è la cosa:
 l'amante qui sarà.
 
-    I'm sure she has 
+    I'm sure she has
     a lover in there!
 
 
@@ -2156,7 +2156,7 @@ l'aprirem senza chiavi.
 [chiamando] Ehi, gente!
 
     If you won't open it,
-    I'll get someone 
+    I'll get someone
     who will!
 
 
@@ -2165,7 +2165,7 @@ Come?
 Porreste a repentaglio
 d'una dama l'onore?
 
-    You want everyone 
+    You want everyone
     to know our business?
 
 
@@ -2207,7 +2207,7 @@ IL CONTE:
 'Susanna' starà qui
 finché torniamo.
 
-    See you when 
+    See you when
     we get back,
     "Susanna"!
 
@@ -2264,8 +2264,8 @@ Qui perdersi non giova.
 Un vaso o due di fiore,
 piu mal non avverra.
 
-    Hey, at worst I'll 
-    break a couple of prop 
+    Hey, at worst I'll
+    break a couple of prop
     flowers.  Don't worry!
 
 
@@ -2323,7 +2323,7 @@ volete dunque
 aprir voi stessa, o deggio -
 
     Everything is as we left it.
-    Last chance, you wanna 
+    Last chance, you wanna
     open this door?
 
 
@@ -2333,7 +2333,7 @@ e ascoltatemi un poco.
 Mi credete capace
 di mancar al dover?
 
-    You really think 
+    You really think
     I've been cheating?
 
 
@@ -2342,7 +2342,7 @@ Come vi piace.
 Entro quel gabinetto
 chi v'è chiuso vedrò.
 
-    I'll find out 
+    I'll find out
     who's in there,
     one way or another.
 
@@ -2373,7 +2373,7 @@ di far si disponeva ...
 ed io vi giuro
 che l'onor, l'onestà -
 
-    We were just 
+    We were just
     planning a joke,
     it's totally innocent!
 
@@ -2451,9 +2451,9 @@ e lo stato in che il trovate ...
 sciolto il collo ...
 nudo il petto ...
 
-    There's a perfectly good 
+    There's a perfectly good
     explanation for this,
-    but he's not... 
+    but he's not...
     he's in his underwear.
 
 
@@ -2465,8 +2465,8 @@ Nudo il petto! Seguitate!
 LA CONTESSA:
 Per vestir femminee spoglie ...
 
-    Because we were 
-    dressing him up 
+    Because we were
+    dressing him up
     as a girl!
 
 
@@ -2474,8 +2474,8 @@ IL CONTE:
 Ah comprendo, indegna moglie,
 mi vo' tosto vendicar.
 
-    Yeah, I know 
-    *exactly* what 
+    Yeah, I know
+    *exactly* what
     you were up to.
 
 
@@ -2529,7 +2529,7 @@ Mora, mora, e più non sia,
 ria cagion del mio penar.
 
     I'll kill him.
-    and that'll be 
+    and that'll be
     the end of all this.
 
 
@@ -2537,7 +2537,7 @@ LA CONTESSA:
 Ah, la cieca gelosia
 qualche eccesso gli fa far.
 
-    Blind jealousy 
+    Blind jealousy
     consumes him.
 
 
@@ -2562,8 +2562,8 @@ il paggio uccidete,
 quel paggio malnato,
 vedetelo qua.
 
-    Here I am. 
-    If you're going 
+    Here I am.
+    If you're going
     to kill anyone,
     it'll have to be me.
 
@@ -2609,7 +2609,7 @@ Più lieta, più franca,
 in salvo è di già.
 
     He's OK.
-    He jumped out 
+    He jumped out
     of the window.
 
 
@@ -2622,7 +2622,7 @@ perdono vi chiedo;
 ma far burla simile
 è poi crudeltà.
 
-    Clearly I owe you 
+    Clearly I owe you
     an apology.
     But this was some joke!
 
@@ -2704,10 +2704,10 @@ che avete diletto
 di far disperar.
 
     Forgive you?
-    You were about to kick 
+    You were about to kick
     me out!
-    
-    
+
+
 IL CONTE:
 Confuso, pentito,
 son troppo punito,
@@ -2739,7 +2739,7 @@ quest'alma non sa.
 IL CONTE:
 Ma il paggio rinchiuso?
 
-    What was all that crap 
+    What was all that crap
     about the kid?
 
 
@@ -2780,14 +2780,14 @@ LA CONTESSA & SUSANNA:
 Di Figaro è il foglio,
 e a voi per Basilio.
 
-    Figaro wrote it and 
+    Figaro wrote it and
     handed it to Basilio...
 
 
 IL CONTE:
 Ah perfidi! Io voglio ...
 
-    So everyone 
+    So everyone
     was in on it!
 
 
@@ -2797,7 +2797,7 @@ chi agli altri nol da.
 
     Forgiveness is not due
     to those who don't give it.
-    
+
 
 IL CONTE:
 Ebben, se vi piace
@@ -2805,7 +2805,7 @@ comune è la pace;
 Rosina inflessibile
 con me non sarà.
 
-    Come on, we've been 
+    Come on, we've been
     through worse than
     this.
 
@@ -2814,7 +2814,7 @@ LA CONTESSA:
 Ah quanto, Susanna, son dolce di core!
 Di donne al furore chi più crederà?
 
-    I'm not strong enough 
+    I'm not strong enough
     to stay angry with him...
 
 
@@ -2824,7 +2824,7 @@ girate, volgete,
 vedrete che ognora
 si cade poi là.
 
-    I guess some men just 
+    I guess some men just
     always get away with it,
     don't they?
 
@@ -2843,7 +2843,7 @@ apprender potrà.
 
     From this moment,
     may these two souls
-    be able to understand 
+    be able to understand
     each other better.
 
 
@@ -2860,8 +2860,8 @@ de' nostri vassalli
 corriamo, voliamo
 le nozze a compir.
 
-    Everything's ready 
-    for us to finish 
+    Everything's ready
+    for us to finish
     the shoot.
 
 
@@ -2996,7 +2996,7 @@ un'azion matrimoniale
 le faremo ora seguir.
 
     This is Hollywood.
-    It's not over until 
+    It's not over until
     the big wedding at the end.
 
 [or]
@@ -3157,7 +3157,7 @@ per tre soldi far tanto tumulto!
 Giacché il fatto non può star occul
 sono io stesso saltato di lì.
 
-    Don't get so worked up 
+    Don't get so worked up
     over a few flowers.
     I admit it. It was me.
 
@@ -3271,22 +3271,22 @@ voi gridaste! lo scritto biglietto,
 saltai giù dal terrore confuso ...
 e stravolto m'ho un nervo del pie'!
 
-    Right.  I was hoping 
-    to catch a kiss 
-    from my wife-to-be, 
-    and then I... 
-    
+    Right.  I was hoping
+    to catch a kiss
+    from my wife-to-be,
+    and then I...
+
     heard a noise?
-    and... 
-    
+    and...
+
     remembered the letter?
 
     and so I...
-    panicked and 
+    panicked and
 
-    jumped out 
-    of the window, 
-    
+    jumped out
+    of the window,
+
     and... and I twisted my ankle!
 
 
@@ -3296,7 +3296,7 @@ Vostre dunque saran queste carte
 che perdeste ...
 
     So these would be
-    your papers that you 
+    your papers that you
     dropped then?
 
 
@@ -3331,14 +3331,14 @@ ne ho tanti - aspettate.
 ANTONIO:
 Sarà forse il sommario de' debiti.
 
-    Maybe it's a list 
+    Maybe it's a list
     of his unpaid debts!
 
 
 FIGARO:
 No, la lista degl'osti.
 
-    Maybe it's a list 
+    Maybe it's a list
     of your favourite
     huffing solvents!
 
@@ -3385,7 +3385,7 @@ FIGARO:
 Uh, che testa! Questa è la patente
 che poc'anzi il fanciullo mi die'.
 
-    Of course! It's 
+    Of course! It's
     the kid's contract.
     He gave it to me.
     Because...
@@ -3475,7 +3475,7 @@ ha costui con me contratto.
 E pretendo che il contratto
 deva meco effettuar.
 
-    I have a marriage contract here 
+    I have a marriage contract here
     (they're very common in Hollywood)
     saying that Figaro must marry me!
 
@@ -3526,7 +3526,7 @@ Olà, silenzio! Lo vedremo,
 il contratto leggeremo,
 tutto in ordin deve andar.
 
-    Pipe down everyone!  
+    Pipe down everyone!
     I'll make sure we
     get to the bottom of this.
 
