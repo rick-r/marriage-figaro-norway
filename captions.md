@@ -89,8 +89,10 @@ E in questa stanza?
 FIGARO:
 Certo: a noi la cede generoso il padrone.
 
+[part 2 maybe]
+
     It's a wedding gift from Mr. Almaviva
-    [part 2 maybe]
+
 
 
 
@@ -160,8 +162,10 @@ ed ecco in tre salti ...
 FIGARO:
 Susanna, pian, pian.
 
+[stage left. stay on til fa presto]
+
     What are you saying?
-    [stage left. stay on til fa presto]
+
 
 SUSANNA:
 Ascolta ...
@@ -375,7 +379,7 @@ Se vuol ballare, Signor Contino,
 il chitarrino le suonerò.
 
 
-    [callback?]
+[callback?]
 
 
 
@@ -570,7 +574,8 @@ Io so i dover miei,
 non fo inciviltà.
 
     I know my manners...
-    [or nothing]
+
+[or nothing]
 
 
 MARCELLINA:
@@ -885,7 +890,8 @@ SUSANNA:
 IL CONTE:
 (Veggiam come mi serve.)
 
-    [stage left]
+[stage left]
+
     Let's see Basilio in action...
 
 
@@ -975,7 +981,7 @@ io non aggiungo un pelo.
 IL CONTE:
 Come, che dicon tutti!
 
-    [stage left]
+[stage left]
 
     And what exactly 
     is everyone saying?
@@ -1073,8 +1079,10 @@ Parta, parta il damerino!
 SUSANNA & BASILIO:
 Poverino!
 
+[stage left]
+
     Poor kid!
-    [stage left]
+
 
 
 IL CONTE:
@@ -1233,8 +1241,9 @@ Or a voi tocca costei che un vostro dono
 illibata serbò, coprir di questa,
 simbolo d'onestà, candida vesta.
 
+  [part 2?]
+
     Will you give Susanna away?
-    [part 2?]
 
 
 TUTTI:
@@ -1335,7 +1344,7 @@ quella chioma, quell'aria brillante
 quel vermiglio donnesco color.
 (bis)
 
-    [no caption]
+[no caption]
 
 Tra guerrieri, poffar Bacco!
 Gran mustacchi, stretto sacco.
@@ -1479,7 +1488,7 @@ di trattar scherzando
 un negozio sì serio?
 
     How can you joke about this!
-
+[thing]
 
 FIGARO:
 Non vi basta
@@ -1844,7 +1853,9 @@ Cospetto
 Ha il braccio più candido del mio!
 Qualche ragazza ...
 
-    [crying game gag?]
+    I wonder if 
+    the boss has seen
+    "the Crying Game"
 
 
 LA CONTESSA:
@@ -1886,7 +1897,7 @@ Oh ciel! Perché morir non lice!
 Forse vicino all'ultimo momento ...
 questa bocca ...
 
-    This might be our 
+    These might be our 
     last moments together...
 
 
@@ -1905,7 +1916,8 @@ Un ricevuto foglio ...
 la sua gran gelosia!
 
     My husband!  And you here!  
-    And he'll have read Figaro's letter!
+    And he'll have 
+    read Figaro's letter!
 
 
 IL CONTE:
@@ -2987,7 +2999,7 @@ le faremo ora seguir.
     It's not over until 
     the big wedding at the end.
 
-    [or]
+[or]
 
     It's not over til the fat lady sings.
     Or in this case, until our wedding.
@@ -3494,8 +3506,6 @@ IL CONTE:
 Olà, silenzio!
 Io son qui per giudicar.
 
-(giudicar shld go in useful italian)
-
 
 BASILIO:
 Io, com'uom al mondo cognito
@@ -3503,7 +3513,8 @@ vengo qui per testimonio
 del promesso matrimonio
 con prestanza di danar.
 
-    I can be a character witness.  I know all about Figaro's debts.
+    I can be a character witness.
+    I know all about Figaro's debts.
 
 
 
@@ -3515,7 +3526,8 @@ Olà, silenzio! Lo vedremo,
 il contratto leggeremo,
 tutto in ordin deve andar.
 
-    Pipe down everyone!  I'll make sure we
+    Pipe down everyone!  
+    I'll make sure we
     get to the bottom of this.
 
 
@@ -3537,27 +3549,23 @@ qui ci/li ha fatti capitar.
 
 
 
-    [stage right]
+[stage right]
+
     confusion, shock desperation
 
-    [stage left]
+[stage left]
+
     good fortune!  happy chance!
 
 
-    [stage right]
+[stage right]
+
     what demon from hell sent those three here, now?
 
-    [stage left]
+[stage left]
+
     what kindly spirit sent us/them here now?
 
-    (also, everyone grows a nose)
-
-
-    ALMAVIVA PRODUCTIONS ACT 2 FINALE
-    one persons's confusion, shock, desperation,
-    is another's good fortune and happy chance.
-    a devil from hell, or an angel from heaven
-    has sent these two at this propitious moment
     (also, everyone grows a nose)
 
 
@@ -3584,6 +3592,10 @@ un altro appresso
 che dice esser quel desso ...
 non so cosa pensar.
 
+    An anonymous letter,
+    the make-up girl locked in the wardrobe,
+    my wife is acting suspicious...
+    a man jumps out of her window,
 
     I have no idea what's going on.
 
@@ -3961,20 +3973,25 @@ e alfin tradita,
 fammi or cercar
 da una mia serva aita!
 
+[stage right]
 
-    [stage right]
     What a humiliating state I am reduced to,
     by a cruel husband,
 
-    [garden stage back]
+
+[garden stage back]
+
     By a mixture of infidelity, jealousy and scorn,
 
-    [upstage left]
+[upstage left]
+
     First loved, then insulted, and finally betrayed,
 
-    [downstage left]
+[downstage left]
+
     Now forced to turn to one of my servants for help
-    [or nothing?]
+
+[or nothing?]
 
 
 
@@ -3985,11 +4002,13 @@ di dolcezza e di piacer,
 dove andaro i giuramenti
 di quel labbro menzogner?
 
-    [downstage left]
+[downstage left]
+
     Where are the beautiful moments,
     the sweetness and happiness,
 
-    [upstage left]
+[upstage left]
+
     What happened to the promises
     of that lying tongue?
 
@@ -3999,12 +4018,13 @@ per me tutto si cangiò,
 la memoria di quel bene
 dal mio sen non trapassò?
 
-    [garden stage back]
+[garden stage back]
+
     Everything has changed to tears and pain,
     why do those memories linger?
 
 
-    [dove sono repeats. fade out garden stage back, leave other two on]
+[dove sono repeats. fade out garden stage back, leave other two on]
 
 
 Ah! Se almen la mia costanza
@@ -4012,7 +4032,8 @@ nel languire amando ognor,
 mi portasse una speranza
 di cangiar l'ingrato cor.
 
-    [garden stage back, dove sonos fade out]
+[garden stage back, dove sonos fade out]
+
     If only the pain of my loyalty
     could change that ungrateful heart
 
@@ -4025,7 +4046,7 @@ di cangiar l'ingrato cor.
 
 ### Recitativo
 
-    [ lots of flicking between projection surfaces in these scenes]
+[ lots of flicking between projection surfaces in these scenes]
 
 DON CURZIO:
 È decisa la lite.
@@ -4332,7 +4353,8 @@ Sua madre!
 SUSANNA:
 Sua madre?
 
-    [repeat ad nauseam]
+[repeat ad nauseam]
+
 
 IL CONTE:
 Sua madre!
@@ -4350,14 +4372,12 @@ MARCELLINA:
 Sua madre!
 
 SUSANNA:
-[to Figaro]
 Tua madre?
 
-    [all go blank]
+[all go blank]
 
 
 FIGARO:
-[to Susanna]
 E quello è mio padre che a te lo dirà.
 
     And this is my father...
@@ -4376,7 +4396,7 @@ Suo padre!
 SUSANNA:
 Suo padre?
 
-    [etc..]
+[etc..]
 
 IL CONTE:
 Suo padre!
@@ -4394,11 +4414,9 @@ MARCELLINA:
 Suo padre!
 
 SUSANNA:
-[a Figaro]
 Tuo padre?
 
 FIGARO:
-[a Susanna]
 E quella è mia madre
 che a te lo dirà.
 
@@ -4418,18 +4436,22 @@ di questo momento,
 quell'/quest'anima appena
 resister or sa.
 
-    [0 starts, stays on, 1 and 2 appear at same time on different surfaces]
+[0 starts, stays on, 1 and 2 appear at same time on different surfaces]
 
-    [0]
+[0]
+
     Our souls hardly know
     how to resist this moment's...
 
-    [1 stage left]
+[1 stage left]
+
     sweet content.
 
-    [2 stage right]
+[2 stage right]
+
     fiery torment.
-    [these should rhyme.]
+
+[these should rhyme. if possible?]
 
 
 
@@ -4810,13 +4832,15 @@ Marcellina e Figaro
 FIGARO:
 Madre!
 
-    [?]
+[?]
+
     Mother!
 
 MARCELLINA:
 Figlio!
 
-    [?]
+[?]
+
     Son!
 
 
@@ -5065,7 +5089,7 @@ no, no, no, no!
 Il resto nol dico,
 già ognun lo sa!
 
-    [literals all over the shop]
+[literals all over the shop]
 
     They are witches who enchant
     to cause us pain,
@@ -5431,7 +5455,7 @@ che delicata pelle,
 mi pizzica, mi stuzzica,
 m'empie d'un nuovo ardor.
 
-    such soft skin...
+    Such soft skin...
 
 
 LA CONTESSA, SUSANNA & FIGARO:
@@ -5439,9 +5463,9 @@ La cieca prevenzione
 delude la ragione
 inganna i sensi ognor.
 
-    he doesn't know what he's doing.
+    He doesn't know what he's doing,
 
-    he can't help himself.
+    He can't help himself.
 
 
 IL CONTE:
@@ -5451,7 +5475,9 @@ che a te porge un amante
 in pegno del suo amor.
 
     Wait, here, have this highly identifiable ring
-    [or]
+
+[or]
+
     Wait, here, have this highly incriminating ring
 
 
@@ -5579,7 +5605,7 @@ ma vendicar mi vò.
 FIGARO:
 (Susanna!) Vendicarsi?
 
-    [how the fuck do we show that figaro's recognised her?]
+[how the fuck do we show that figaro's recognised her?]
 
 
 SUSANNA:
@@ -5605,7 +5631,8 @@ e secondarla vò.)
     ...
     haha, she thinks I don't know who she is, but she doesn't know that i
     actually do know who she really is; i'll trick her!
-    [we need this i think, to make sure ppl know fig knows]
+
+[we need this i think, to make sure ppl know fig knows]
 
 
 Ah se madama il vuole!
@@ -5823,7 +5850,9 @@ Il scellerato
 m'ha tradito, m'ha infamato
 e con chi state a veder!
 
-    Look at this traitor!  I've caught him.  Guess who with?
+    Look at this traitor!
+    I've caught him.
+    Guess who with?
 
 
 GLI ALTRI:
@@ -5864,7 +5893,9 @@ IL CONTE:
 Scoperta è la trama, la perfida è qua.
 
     Here she is, my treacherous wife...
-    [or]
+
+[or]
+
     This is a clear breach of our pre-nup!
 
 
@@ -5919,15 +5950,6 @@ Deliro! Vaneggio!
 Che creder non so?)
 
 
-    [nothing]
-
-    [but find somehwere else for this?]
-    What in the actual fuck??
-    [or]
-    W T F ?
-    [one massive letter on each part of the stage]
-
-
 IL CONTE:
 Contessa, perdono!
 
@@ -5937,15 +5959,16 @@ Contessa, perdono!
 LA CONTESSA:
 Più docile io sono, e dico di sì.
 
-    [callback to count saying no]
-    I will be more gentle, and say yes, I forgive you.
+    I am more gentle,
+    and say yes,
+    I forgive you.
 
 
 TUTTI:
 Ah, tutti contenti
 saremo così.
 
-    [no caption.  so good.]
+[no caption.  so good.]
 
 
 Questo giorno di tormenti,

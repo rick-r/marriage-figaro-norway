@@ -28,6 +28,7 @@ pazzo
 un biglietto
 
 
+
 (programme idea:  keeping track of the bits of paper
 - marcellina contract
 - fake love note
@@ -42,6 +43,9 @@ strepito
 carina
 
 incoronar di rose.
+
+giudizio - care, judgmenent
+giudicar - to judge, to decide
 
 
 CAN YOU GUESS WHICH CAPTIONS ARE ACTUALLY DIRECT TRANSLATIONS FROM THE ITALIAN
