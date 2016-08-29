@@ -17,7 +17,8 @@ LA CONTESSA:
 Vieni, cara Susanna,
 finiscimi l'istoria!
 
-> How long has this been going on?
+> How long has
+> this been going on?
 
 
 SUSANNA:
@@ -29,7 +30,8 @@ SUSANNA:
 LA CONTESSA:
 Dunque volle sedurti?
 
-> But he tried to seduce you?
+> But he tried
+> to seduce you?
 
 
 SUSANNA:
@@ -47,13 +49,15 @@ egli venne a contratto di danari.
 LA CONTESSA:
 Ah, il crudel più non m'ama!
 
-> He doesn't love me any more!
+> He doesn't
+> love me any more!
 
 
 SUSANNA:
 E come poi è geloso di voi?
 
-> Then why is he so jealous?
+> Then why is he
+> so jealous?
 
 [part 2]
 
@@ -64,13 +68,15 @@ i moderni mariti: per sistema
 infedeli, per genio capricciosi,
 e per orgoglio poi tutti gelosi.
 
-> Men!  They're all the same.
+> Men! They're
+> all the same.
 
 
 Ma se Figaro t'ama ...
 ei sol potria ...
 
-> Oh, but Figaro is different...
+> I'm sure Figaro
+> is different...
 
 
 
@@ -85,14 +91,16 @@ FIGARO:
 A voi non tocca
 stare in pena per questo.
 
-> Woa.  Take a chill pill!
+> Woa.  Take a
+> chill pill!
 
 SUSANNA:
 Ed hai coraggio
 di trattar scherzando
 un negozio sì serio?
 
-> How can you joke about this!
+> How can you
+> joke about this!
 
 FIGARO:
 Non vi basta
@@ -135,8 +143,7 @@ altri a lui faccia;
 onde qua perda il tempo,
 ivi la traccia.
 
-> Exactly!
-> A little taste
+> Exactly! A little taste
 > of his own medicine.
 > And it'll buy us time...
 
@@ -211,7 +218,8 @@ E poi ...
 Se vuol ballare signor Contino,
 il chitarrino le suonerò.
 
-> Then me and the director, we're gonna dance.
+> Then me and the director,
+> we're gonna dance.
 
 [part 2]
 
@@ -400,7 +408,8 @@ LA CONTESSA:
 Una mia cuffia prendi nel gabinetto.
 Presto!
 
-> I have some hair extensions.  In the wardrobe.
+> I have some hair extensions.
+> In the wardrobe.
 
 [susanna leaves]
 Che carta è quella?
@@ -1510,7 +1519,8 @@ No, no, no!
 SUSANNA:
 E nol desti a Don Basilio ...
 
-> Are you sure you didn't give it to Basilio?
+> Are you sure you didn't
+> give it to Basilio?
 
 
 LA CONTESSA:
@@ -1791,7 +1801,8 @@ Dopo il salto non foste così.
 FIGARO:
 A chi salta succede così.
 
-> That's what happens when you jump out a window.
+> That's what happens
+> when you jump out a window.
 
 [part 2]
 
@@ -1822,7 +1833,8 @@ Esso appunto
 da Siviglia a cavallo qui giunto,
 da Siviglia ov'ei forse sarà.
 
-> Probably came back to pick up his fixed-wheel bike.
+> Probably came back to pick up
+> his fixed-wheel bike.
 
 
 ANTONIO:
@@ -1830,7 +1842,8 @@ Questo no, questo no,
 che il cavallo
 io non vidi saltare di là.
 
-> I didn't see no bike jumping through the window.
+> I didn't see no bike
+> jumping through the window.
 
 [part 2]
 
@@ -2164,11 +2177,13 @@ qui ci/li ha fatti capitar.
 
 [stage right]
 
-> what demon from hell sent those three here, now?
+> what demon from hell
+> sent those three here, now?
 
 [stage left]
 
-> what kindly spirit sent us/them here now?
+> what kindly spirit
+> sent us/them here now?
 
 > (also, everyone grows a nose)
 
