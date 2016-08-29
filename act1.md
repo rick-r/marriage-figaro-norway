@@ -61,6 +61,7 @@ che Susanna ella stessa si fe'.
 > filming ends today,
 > and we can get married
 
+    Second norwegian thing
 
 SUSANNA:
 Cosa stai misurando, caro il mio Figaretto?
