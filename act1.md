@@ -48,6 +48,7 @@ sembra fatto inver per te.
 
 > Looks great darling!
 
+    First norwegian thing
 
 SUSANNA / FIGARO duet:
 Ah, il mattino alle nozze vicino
